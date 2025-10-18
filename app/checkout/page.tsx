@@ -60,14 +60,17 @@ export default function CheckoutPage() {
     }
     setIsLoading(true);
     try {
+      console.log('Creating order with amount:', total);
       const res = await fetch('/api/create-order', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ amount: total, currency: 'INR', receipt: `order_${Date.now()}` }),
       });
       const data = await res.json();
+      console.log('Order creation response:', data);
       if (!data.success) throw new Error('Order creation failed');
 
+      console.log('Razorpay key:', process.env.NEXT_PUBLIC_RAZORPAY_KEY_ID);
       const options: any = {
         key: process.env.NEXT_PUBLIC_RAZORPAY_KEY_ID,
         amount: data.order.amount,
@@ -77,6 +80,7 @@ export default function CheckoutPage() {
         image: '/logo.jpeg',
         order_id: data.order.id,
         handler: async (response: any) => {
+          console.log('Payment response:', response);
           const verify = await fetch('/api/verify-payment', {
             method: 'POST',
             headers: { 'Content-Type': 'application/json' },
@@ -109,13 +113,22 @@ export default function CheckoutPage() {
 
       // Ensure script is loaded
       if (typeof (window as any).Razorpay === 'undefined') {
-        await new Promise((resolve) => {
+        console.log('Loading Razorpay script...');
+        await new Promise((resolve, reject) => {
           const s = document.createElement('script');
           s.src = 'https://checkout.razorpay.com/v1/checkout.js';
           s.onload = resolve as any;
+          s.onerror = reject as any;
           document.body.appendChild(s);
         });
+        console.log('Razorpay script loaded');
       }
+      
+      if (!process.env.NEXT_PUBLIC_RAZORPAY_KEY_ID) {
+        throw new Error('Razorpay key not configured');
+      }
+      
+      console.log('Opening Razorpay checkout...');
       const rzp = new (window as any).Razorpay(options);
       rzp.open();
     } catch (err) {
