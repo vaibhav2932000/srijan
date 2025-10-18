@@ -1,0 +1,97 @@
+[
+  {
+    "id": "ord_1760784954720",
+    "razorpay_order_id": "order_RUuV4PMt9725If",
+    "razorpay_payment_id": "pay_RUuVVV60RVzenn",
+    "amount": 1149,
+    "customer": {
+      "firstName": "Vaibhav",
+      "lastName": "Shekhar",
+      "email": "thisthat293@gmail.com",
+      "phone": "07999139096",
+      "address": "Near Central School\nBhagwanpur Khurd",
+      "city": "Ambikapur",
+      "state": "CHHA",
+      "pincode": "497001",
+      "country": "India"
+    },
+    "items": [
+      {
+        "quantity": 1,
+        "selectedSize": "S",
+        "product": {
+          "artisanNote": "Handcrafted with care by skilled artisans",
+          "materials": "Cotton/Rayon blend",
+          "externalId": "",
+          "price": 4399,
+          "inStock": true,
+          "id": "product-13",
+          "stock": 100,
+          "shortDescription": "Elegant and versatile wall painting that enhances any space and complements all decor styles.",
+          "subcategory": "5-piece-wall-painting",
+          "featured": false,
+          "dimensions": "Available in S, M, L, XL, XXL",
+          "sku": "ABS-ART1",
+          "slug": "wall-painting",
+          "careInstructions": "Machine wash cold, tumble dry low",
+          "createdAt": "2025-10-12T12:47:17.357Z",
+          "tags": [
+            "kurti",
+            "clothing",
+            "women"
+          ],
+          "salePrice": 1149,
+          "images": [
+            {
+              "url": "https://imagizer.imageshack.com/img922/2190/R0aMmg.jpg",
+              "position": 0,
+              "id": "img-13-1",
+              "alt": "Wall Painting"
+            },
+            {
+              "alt": "Wall Painting",
+              "url": "https://imagizer.imageshack.com/img923/6931/8dlIEJ.jpg",
+              "id": "img-13-2",
+              "position": 1
+            },
+            {
+              "url": "https://imagizer.imageshack.com/img924/9333/O5MkmG.jpg",
+              "position": 2,
+              "alt": "Wall Painting",
+              "id": "img-13-3"
+            },
+            {
+              "position": 3,
+              "id": "img-13-4",
+              "url": "https://imagizer.imageshack.com/img922/1092/SdtW2L.jpg",
+              "alt": "Wall Painting"
+            },
+            {
+              "url": "https://imagizer.imageshack.com/img922/2330/ZEObbd.jpg",
+              "position": 4,
+              "id": "img-13-5",
+              "alt": "Wall Painting"
+            },
+            {
+              "alt": "Wall Painting",
+              "url": "https://imagizer.imageshack.com/img924/9559/FzL0jE.jpg",
+              "id": "img-13-6",
+              "position": 5
+            }
+          ],
+          "updatedAt": "2025-10-12T12:47:17.357Z",
+          "category": {
+            "name": "Handicrafts",
+            "slug": "handicrafts",
+            "id": "cat-handicrafts"
+          },
+          "title": "Wall Painting",
+          "description": "Transform any space with this exquisite wall painting, designed to add elegance, color, and personality to your home or office. Crafted with attention to detail, it complements a variety of decor styles, from modern to classic. Perfect for enhancing living rooms, bedrooms, workspaces, or as a thoughtful gift, this wall art brings inspiration and beauty to every wall."
+        }
+      }
+    ],
+    "status": "paid",
+    "createdAt": "2025-10-18T10:55:54.720Z",
+    "updatedAt": "2025-10-18T11:02:12.224Z"
+  }
+]

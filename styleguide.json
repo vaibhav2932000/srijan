@@ -1,0 +1,371 @@
+{
+  "name": "SRIJAN Design System",
+  "version": "1.0.0",
+  "description": "Design tokens and component library for SRIJAN e-commerce storefront",
+  "theme": "Indian Artisanal",
+  
+  "colors": {
+    "primary": {
+      "saffron": {
+        "default": "#FF9933",
+        "light": "#FFB366",
+        "dark": "#E68A2E",
+        "usage": "Primary CTAs, highlights, active states"
+      },
+      "peacock": {
+        "default": "#006994",
+        "light": "#0088B8",
+        "dark": "#004D6D",
+        "usage": "Links, secondary actions, info states"
+      },
+      "marigold": {
+        "default": "#F2B705",
+        "light": "#FFC933",
+        "dark": "#D9A604",
+        "usage": "Accents, badges, special highlights"
+      }
+    },
+    "neutrals": {
+      "ivory": {
+        "default": "#FFF8F0",
+        "dark": "#F5EFE7",
+        "usage": "Background, card backgrounds"
+      },
+      "earth": {
+        "brown": "#6B4C3B",
+        "green": "#558B6E",
+        "usage": "Text, success states"
+      },
+      "gray": {
+        "50": "#F9FAFB",
+        "100": "#F3F4F6",
+        "200": "#E5E7EB",
+        "300": "#D1D5DB",
+        "400": "#9CA3AF",
+        "500": "#6B7280",
+        "600": "#4B5563",
+        "700": "#374151",
+        "800": "#1F2937",
+        "900": "#111827"
+      }
+    },
+    "semantic": {
+      "success": "#558B6E",
+      "warning": "#F2B705",
+      "error": "#DC2626",
+      "info": "#006994"
+    }
+  },
+
+  "typography": {
+    "fontFamilies": {
+      "heading": {
+        "name": "Poppins",
+        "weights": [300, 400, 500, 600, 700],
+        "source": "Google Fonts",
+        "usage": "Headings, UI text, body text"
+      },
+      "brand": {
+        "name": "Lora",
+        "weights": [400, 500, 600, 700],
+        "source": "Google Fonts",
+        "usage": "Brand name, accent text, special headings"
+      },
+      "serif": {
+        "name": "Noto Serif",
+        "weights": [400, 500, 600, 700],
+        "source": "Google Fonts",
+        "usage": "Alternative serif option"
+      }
+    },
+    "scale": {
+      "xs": "0.75rem",
+      "sm": "0.875rem",
+      "base": "1rem",
+      "lg": "1.125rem",
+      "xl": "1.25rem",
+      "2xl": "1.5rem",
+      "3xl": "1.875rem",
+      "4xl": "2.25rem",
+      "5xl": "3rem",
+      "6xl": "3.75rem",
+      "7xl": "4.5rem"
+    },
+    "lineHeights": {
+      "tight": "1.25",
+      "normal": "1.5",
+      "relaxed": "1.625",
+      "loose": "2"
+    },
+    "fontWeights": {
+      "light": 300,
+      "normal": 400,
+      "medium": 500,
+      "semibold": 600,
+      "bold": 700
+    }
+  },
+
+  "spacing": {
+    "0": "0",
+    "1": "0.25rem",
+    "2": "0.5rem",
+    "3": "0.75rem",
+    "4": "1rem",
+    "5": "1.25rem",
+    "6": "1.5rem",
+    "8": "2rem",
+    "10": "2.5rem",
+    "12": "3rem",
+    "16": "4rem",
+    "20": "5rem",
+    "24": "6rem"
+  },
+
+  "borderRadius": {
+    "none": "0",
+    "sm": "0.125rem",
+    "base": "0.25rem",
+    "md": "0.375rem",
+    "lg": "0.5rem",
+    "xl": "0.75rem",
+    "2xl": "1rem",
+    "3xl": "1.5rem",
+    "full": "9999px"
+  },
+
+  "shadows": {
+    "card": "0 4px 12px rgba(107, 76, 59, 0.08)",
+    "cardHover": "0 8px 24px rgba(107, 76, 59, 0.12)",
+    "gold": "0 2px 8px rgba(242, 183, 5, 0.3)",
+    "sm": "0 1px 2px 0 rgba(0, 0, 0, 0.05)",
+    "md": "0 4px 6px -1px rgba(0, 0, 0, 0.1)",
+    "lg": "0 10px 15px -3px rgba(0, 0, 0, 0.1)",
+    "xl": "0 20px 25px -5px rgba(0, 0, 0, 0.1)",
+    "2xl": "0 25px 50px -12px rgba(0, 0, 0, 0.25)"
+  },
+
+  "breakpoints": {
+    "sm": "640px",
+    "md": "768px",
+    "lg": "1024px",
+    "xl": "1280px",
+    "2xl": "1536px"
+  },
+
+  "components": {
+    "buttons": {
+      "primary": {
+        "background": "saffron",
+        "color": "white",
+        "hover": "saffron-dark",
+        "padding": "0.75rem 1.5rem",
+        "borderRadius": "lg",
+        "shadow": "gold",
+        "fontSize": "base",
+        "fontWeight": "medium"
+      },
+      "secondary": {
+        "background": "peacock",
+        "color": "white",
+        "hover": "peacock-dark",
+        "padding": "0.75rem 1.5rem",
+        "borderRadius": "lg",
+        "fontSize": "base",
+        "fontWeight": "medium"
+      },
+      "outline": {
+        "background": "transparent",
+        "color": "saffron",
+        "border": "2px solid saffron",
+        "hover": "saffron background",
+        "padding": "0.75rem 1.5rem",
+        "borderRadius": "lg",
+        "fontSize": "base",
+        "fontWeight": "medium"
+      },
+      "ghost": {
+        "background": "transparent",
+        "color": "earth-brown",
+        "hover": "ivory-dark",
+        "padding": "0.75rem 1.5rem",
+        "borderRadius": "lg",
+        "fontSize": "base",
+        "fontWeight": "medium"
+      }
+    },
+    "cards": {
+      "product": {
+        "background": "white",
+        "borderRadius": "2xl",
+        "shadow": "card",
+        "hoverShadow": "cardHover",
+        "padding": "1rem",
+        "aspectRatio": "square (image)"
+      },
+      "default": {
+        "background": "white",
+        "borderRadius": "2xl",
+        "shadow": "card",
+        "padding": "1.5rem"
+      }
+    },
+    "inputs": {
+      "default": {
+        "background": "white",
+        "border": "2px solid gray-200",
+        "borderRadius": "lg",
+        "padding": "0.75rem 1rem",
+        "fontSize": "base",
+        "focusBorder": "saffron",
+        "focusRing": "2px saffron/20"
+      }
+    },
+    "badges": {
+      "primary": {
+        "background": "saffron/10",
+        "color": "saffron",
+        "padding": "0.25rem 0.75rem",
+        "borderRadius": "full",
+        "fontSize": "sm",
+        "fontWeight": "medium"
+      },
+      "success": {
+        "background": "earth-green/10",
+        "color": "earth-green",
+        "padding": "0.25rem 0.75rem",
+        "borderRadius": "full",
+        "fontSize": "sm",
+        "fontWeight": "medium"
+      },
+      "warning": {
+        "background": "marigold/10",
+        "color": "marigold-dark",
+        "padding": "0.25rem 0.75rem",
+        "borderRadius": "full",
+        "fontSize": "sm",
+        "fontWeight": "medium"
+      }
+    }
+  },
+
+  "animations": {
+    "fadeIn": {
+      "keyframes": "0% { opacity: 0 } 100% { opacity: 1 }",
+      "duration": "0.5s",
+      "easing": "ease-in-out"
+    },
+    "slideUp": {
+      "keyframes": "0% { transform: translateY(20px); opacity: 0 } 100% { transform: translateY(0); opacity: 1 }",
+      "duration": "0.4s",
+      "easing": "ease-out"
+    },
+    "slideDown": {
+      "keyframes": "0% { transform: translateY(-20px); opacity: 0 } 100% { transform: translateY(0); opacity: 1 }",
+      "duration": "0.4s",
+      "easing": "ease-out"
+    },
+    "shimmer": {
+      "keyframes": "0% { background-position: -1000px 0 } 100% { background-position: 1000px 0 }",
+      "duration": "2s",
+      "easing": "linear",
+      "iteration": "infinite"
+    }
+  },
+
+  "layout": {
+    "container": {
+      "maxWidth": "1280px",
+      "padding": {
+        "mobile": "1rem",
+        "tablet": "1.5rem",
+        "desktop": "2rem"
+      }
+    },
+    "section": {
+      "padding": {
+        "mobile": "3rem 0",
+        "tablet": "4rem 0",
+        "desktop": "5rem 0"
+      }
+    }
+  },
+
+  "accessibility": {
+    "focusRing": {
+      "width": "2px",
+      "color": "saffron",
+      "offset": "2px",
+      "style": "solid"
+    },
+    "colorContrast": {
+      "minimum": "WCAG AA",
+      "target": "4.5:1 for normal text, 3:1 for large text"
+    },
+    "tapTargets": {
+      "minimum": "44px x 44px"
+    }
+  },
+
+  "patterns": {
+    "paisley": {
+      "usage": "Decorative accents, borders",
+      "opacity": "5-10%"
+    },
+    "blockPrint": {
+      "usage": "Background textures",
+      "opacity": "3-5%"
+    },
+    "dots": {
+      "usage": "Subtle patterns in hero sections",
+      "opacity": "5%"
+    }
+  },
+
+  "imagery": {
+    "aspectRatios": {
+      "product": "1:1 (square)",
+      "hero": "16:9",
+      "category": "3:4 (portrait)",
+      "thumbnail": "1:1"
+    },
+    "optimization": {
+      "formats": ["AVIF", "WebP", "JPEG"],
+      "lazyLoading": true,
+      "responsive": true
+    }
+  },
+
+  "microcopy": {
+    "ctas": {
+      "primary": "Shop Now",
+      "secondary": "Learn More",
+      "cart": "Add to Cart",
+      "wishlist": "Add to Wishlist",
+      "quickView": "Quick View"
+    },
+    "emptyStates": {
+      "products": "We're brewing something beautiful — no products found.",
+      "search": "No products match your search. Try different keywords.",
+      "cart": "Your cart is empty. Start shopping!",
+      "wishlist": "Your wishlist is empty. Add products you love!"
+    },
+    "success": {
+      "addedToCart": "Added to cart!",
+      "addedToWishlist": "Added to wishlist!",
+      "csvImport": "Imported {count} products — {created} created, {updated} updated, {failed} failed."
+    }
+  },
+
+  "notes": [
+    "All measurements use rem for scalability",
+    "Colors use Indian-inspired palette: saffron (courage), peacock (beauty), marigold (prosperity)",
+    "Typography combines modern sans-serif (Poppins) with elegant serif (Lora) for warmth",
+    "Shadows and borders are soft to maintain artisanal feel",
+    "Animations are subtle and respectful of user preferences (prefers-reduced-motion)",
+    "Accessibility is paramount: semantic HTML, ARIA labels, keyboard navigation",
+    "Component design follows atomic design principles",
+    "Mobile-first approach ensures responsive design at all breakpoints"
+  ]
+}
+

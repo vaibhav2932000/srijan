@@ -1,0 +1,43 @@
+[
+  {
+    "id": "cat-1",
+    "name": "Handicrafts",
+    "slug": "handicrafts",
+    "description": "Authentic handcrafted items from skilled Indian artisans",
+    "image": "https://images.unsplash.com/photo-1610701596007-11502861dcfa?w=600&q=80",
+    "icon": "🎨"
+  },
+  {
+    "id": "cat-2",
+    "name": "Clothing",
+    "slug": "clothing",
+    "description": "Traditional and contemporary Indian wear",
+    "image": "https://images.unsplash.com/photo-1583391733956-6c78276477e5?w=600&q=80",
+    "icon": "👘"
+  },
+  {
+    "id": "cat-3",
+    "name": "Jewelry",
+    "slug": "jewelry",
+    "description": "Handmade ornaments and accessories",
+    "image": "https://images.unsplash.com/photo-1611591437281-460bfbe1220a?w=600&q=80",
+    "icon": "💍"
+  },
+  {
+    "id": "cat-4",
+    "name": "Textiles",
+    "slug": "textiles",
+    "description": "Handwoven and hand-printed fabrics",
+    "image": "https://images.unsplash.com/photo-1601924287946-5266f1f75498?w=600&q=80",
+    "icon": "🧵"
+  },
+  {
+    "id": "cat-5",
+    "name": "Bedsheets",
+    "slug": "bedsheets",
+    "description": "Comfortable and stylish bedding sets",
+    "image": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=600&q=80",
+    "icon": "🛏️"
+  }
+]
+

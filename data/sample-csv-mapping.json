@@ -1,0 +1,160 @@
+{
+  "description": "Sample CSV to database field mapping configuration for SRIJAN product imports",
+  "version": "1.0.0",
+  "defaultMappings": [
+    {
+      "csvColumn": "Name",
+      "dbField": "title",
+      "required": true,
+      "description": "Product title/name"
+    },
+    {
+      "csvColumn": "Short description",
+      "dbField": "shortDescription",
+      "required": false,
+      "description": "Brief product description"
+    },
+    {
+      "csvColumn": "Description",
+      "dbField": "description",
+      "required": true,
+      "description": "Full product description (HTML supported)"
+    },
+    {
+      "csvColumn": "Regular price",
+      "dbField": "price",
+      "required": true,
+      "transform": "parseFloat",
+      "description": "Base price in INR"
+    },
+    {
+      "csvColumn": "Sale price",
+      "dbField": "salePrice",
+      "required": false,
+      "transform": "parseFloat",
+      "description": "Discounted price in INR"
+    },
+    {
+      "csvColumn": "Variant SKU",
+      "dbField": "sku",
+      "required": true,
+      "description": "Stock Keeping Unit identifier"
+    },
+    {
+      "csvColumn": "SKU",
+      "dbField": "sku",
+      "required": true,
+      "description": "Alternative SKU column name"
+    },
+    {
+      "csvColumn": "In stock?",
+      "dbField": "inStock",
+      "required": false,
+      "transform": "parseBoolean",
+      "description": "Stock availability (1/0, true/false, yes/no)"
+    },
+    {
+      "csvColumn": "Stock",
+      "dbField": "stock",
+      "required": false,
+      "transform": "parseInt",
+      "description": "Stock quantity"
+    },
+    {
+      "csvColumn": "Image Src",
+      "dbField": "images",
+      "required": false,
+      "transform": "parseImages",
+      "description": "Image URLs (comma-separated for multiple)"
+    },
+    {
+      "csvColumn": "Images",
+      "dbField": "images",
+      "required": false,
+      "transform": "parseImages",
+      "description": "Alternative image column name"
+    },
+    {
+      "csvColumn": "Tags",
+      "dbField": "tags",
+      "required": false,
+      "transform": "parseTags",
+      "description": "Comma-separated tags"
+    },
+    {
+      "csvColumn": "ID",
+      "dbField": "externalId",
+      "required": false,
+      "description": "External product ID for reference"
+    },
+    {
+      "csvColumn": "Categories",
+      "dbField": "category",
+      "required": false,
+      "description": "Product category"
+    },
+    {
+      "csvColumn": "Category",
+      "dbField": "category",
+      "required": false,
+      "description": "Alternative category column name"
+    }
+  ],
+  "categoryMappingRules": [
+    {
+      "tags": ["kurti", "kurtis", "kurta", "clothing", "dress", "saree", "lehenga", "dupatta", "salwar"],
+      "category": "Clothing",
+      "priority": 1,
+      "description": "Traditional and contemporary Indian wear"
+    },
+    {
+      "tags": ["wood", "wooden", "metal", "brass", "copper", "painting", "idol", "idols", "statue", "sculpture"],
+      "category": "Handicrafts",
+      "subcategory": "Home Decor",
+      "priority": 2,
+      "description": "Decorative handicraft items"
+    },
+    {
+      "tags": ["pottery", "ceramic", "terracotta", "clay", "blue-pottery"],
+      "category": "Handicrafts",
+      "subcategory": "Pottery",
+      "priority": 1,
+      "description": "Ceramic and pottery items"
+    },
+    {
+      "tags": ["jewelry", "jewellery", "necklace", "earring", "bracelet", "bangle", "ring", "jhumka"],
+      "category": "Jewelry",
+      "priority": 1,
+      "description": "Handmade jewelry and ornaments"
+    },
+    {
+      "tags": ["textile", "fabric", "block print", "handloom", "kalamkari", "dupatta", "stole", "scarf"],
+      "category": "Textiles",
+      "priority": 1,
+      "description": "Handwoven and printed textiles"
+    },
+    {
+      "tags": ["gift", "decorative", "home-decor", "wall-art"],
+      "category": "Handicrafts",
+      "subcategory": "Home Decor",
+      "priority": 3,
+      "description": "Gift items and home decor (fallback)"
+    }
+  ],
+  "transformFunctions": {
+    "parseFloat": "Convert string to decimal number",
+    "parseInt": "Convert string to integer",
+    "parseBoolean": "Convert 1/0, true/false, yes/no to boolean",
+    "parseImages": "Split comma-separated URLs into array",
+    "parseTags": "Split comma-separated tags into array, lowercase and trim"
+  },
+  "notes": [
+    "Priority in categoryMappingRules: Lower number = higher priority",
+    "Tags are matched case-insensitively",
+    "First matching rule based on priority will be applied",
+    "If no category is found via tags or CSV, products will be categorized as 'Uncategorized'",
+    "Multiple images in Image Src should be comma-separated URLs",
+    "Stock value of 0 or 'In stock?' = false/0/no will mark product as out of stock"
+  ]
+}
+
