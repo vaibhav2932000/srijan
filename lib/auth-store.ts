@@ -32,6 +32,9 @@ interface AuthState {
   logout: () => Promise<void>;
   register: (email: string, password: string, name: string) => Promise<{ success: boolean; error?: string }>;
   loginWithGoogle: () => Promise<{ success: boolean; error?: string }>;
+  // User data management
+  saveUserData: (data: any) => Promise<void>;
+  loadUserData: () => Promise<any>;
 }
 
 export const useAuthStore = create<AuthState>()(
@@ -83,6 +86,12 @@ export const useAuthStore = create<AuthState>()(
               }
               
               set({ user: data, isAuthenticated: true, isLoading: false });
+              // Load user data (cart, wishlist, etc.) after successful login
+              if (typeof window !== 'undefined') {
+                import('@/lib/store').then(({ useStore }) => {
+                  useStore.getState().loadUserData();
+                });
+              }
             } else {
               const newUser: User = {
                 id: firebaseUser.uid,
@@ -94,6 +103,12 @@ export const useAuthStore = create<AuthState>()(
               };
               await setDoc(userDocRef, newUser);
               set({ user: newUser, isAuthenticated: true, isLoading: false });
+              // Load user data for new users
+              if (typeof window !== 'undefined') {
+                import('@/lib/store').then(({ useStore }) => {
+                  useStore.getState().loadUserData();
+                });
+              }
             }
           } catch (_e) {
             set({ user: null, isAuthenticated: false, isLoading: false });
@@ -103,20 +118,30 @@ export const useAuthStore = create<AuthState>()(
 
       login: async (email: string, password: string) => {
         try {
-          // Use API login for all users (including admin)
-          const response = await fetch('/api/login', {
-            method: 'POST',
-            headers: { 'Content-Type': 'application/json' },
-            body: JSON.stringify({ email, password }),
-          });
-          
-          if (!response.ok) {
-            const error = await response.json();
-            return { success: false, error: error.error || 'Login failed' };
+          // Check for admin credentials first
+          if (email === 'vaibhav' && password === 'srijan') {
+            const response = await fetch('/api/login', {
+              method: 'POST',
+              headers: { 'Content-Type': 'application/json' },
+              body: JSON.stringify({ email, password }),
+            });
+            
+            if (!response.ok) {
+              const error = await response.json();
+              return { success: false, error: error.error || 'Login failed' };
+            }
+            
+            const data = await response.json();
+            set({ user: data.user, isAuthenticated: true, isLoading: false });
+            return { success: true };
           }
-          
-          const data = await response.json();
-          set({ user: data.user, isAuthenticated: true, isLoading: false });
+
+          // Use Firebase for real users
+          if (!auth) {
+            return { success: false, error: 'Authentication service not available' };
+          }
+
+          await signInWithEmailAndPassword(auth, email, password);
           return { success: true };
         } catch (error: any) {
           return { success: false, error: error.message || 'Login failed' };
@@ -139,20 +164,23 @@ export const useAuthStore = create<AuthState>()(
 
       register: async (email: string, password: string, name: string) => {
         try {
-          // Use API registration to avoid Firebase recaptcha issues
-          const response = await fetch('/api/signup', {
-            method: 'POST',
-            headers: { 'Content-Type': 'application/json' },
-            body: JSON.stringify({ email, password, name }),
-          });
-          
-          if (!response.ok) {
-            const error = await response.json();
-            return { success: false, error: error.error || 'Signup failed' };
+          // Use Firebase for real user registration
+          if (!auth || !db) {
+            return { success: false, error: 'Authentication service not available' };
           }
           
-          const data = await response.json();
-          set({ user: data.user, isAuthenticated: true, isLoading: false });
+          const cred = await createUserWithEmailAndPassword(auth, email, password);
+          if (auth.currentUser && name) {
+            try { await updateProfile(auth.currentUser, { displayName: name }); } catch {}
+          }
+          const newUser: User = {
+            id: cred.user.uid,
+            email: cred.user.email || email,
+            name,
+            role: 'customer',
+            createdAt: new Date().toISOString(),
+          };
+          await setDoc(doc(db, 'users', cred.user.uid), newUser, { merge: true });
           return { success: true };
         } catch (error: any) {
           return { success: false, error: error.message || 'Signup failed' };
@@ -160,8 +188,37 @@ export const useAuthStore = create<AuthState>()(
       },
 
       logout: async () => {
-        await signOut(auth);
+        if (auth) {
+          await signOut(auth);
+        }
         set({ user: null, isAuthenticated: false });
+      },
+
+      saveUserData: async (data: any) => {
+        const { user } = get();
+        if (!user || !db) return;
+        
+        try {
+          await setDoc(doc(db, 'userData', user.id), {
+            ...data,
+            updatedAt: new Date().toISOString(),
+          }, { merge: true });
+        } catch (error) {
+          console.error('Failed to save user data:', error);
+        }
+      },
+
+      loadUserData: async () => {
+        const { user } = get();
+        if (!user || !db) return null;
+        
+        try {
+          const userDataDoc = await getDoc(doc(db, 'userData', user.id));
+          return userDataDoc.exists() ? userDataDoc.data() : null;
+        } catch (error) {
+          console.error('Failed to load user data:', error);
+          return null;
+        }
       },
     }),
     {

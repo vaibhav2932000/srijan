@@ -1,20 +1,36 @@
 'use client';
 
-import { useEffect } from 'react';
+import { useEffect, useState } from 'react';
 import { useRouter } from 'next/navigation';
 import Link from 'next/link';
 import { useAuthStore } from '@/lib/auth-store';
+import { useStore } from '@/lib/store';
 
 export default function AccountPage() {
   const router = useRouter();
   const user = useAuthStore((s) => s.user);
   const isLoading = useAuthStore((s) => s.isLoading);
+  const wishlist = useStore((s) => s.wishlist);
+  const [userData, setUserData] = useState<any>(null);
+  const [loadingData, setLoadingData] = useState(true);
 
   useEffect(() => {
     if (!isLoading && !user) {
       router.replace('/login?next=/account');
     }
   }, [isLoading, user, router]);
+
+  useEffect(() => {
+    if (user && user.role !== 'admin') {
+      // Load user data for Firebase users
+      useAuthStore.getState().loadUserData().then((data) => {
+        setUserData(data);
+        setLoadingData(false);
+      });
+    } else {
+      setLoadingData(false);
+    }
+  }, [user]);
 
   if (isLoading || !user) {
     return <div className="container-custom py-16">Loading…</div>;
@@ -96,6 +112,68 @@ export default function AccountPage() {
             </div>
           </div>
         </div>
+
+        {/* User Data Sections for Firebase Users */}
+        {user.role !== 'admin' && (
+          <div className="mt-8 space-y-8">
+            {/* Favorites */}
+            <div className="card p-6">
+              <h2 className="text-xl font-semibold mb-4">My Favorites</h2>
+              {loadingData ? (
+                <p>Loading favorites...</p>
+              ) : wishlist.length > 0 ? (
+                <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+                  {wishlist.map((item) => (
+                    <div key={item.productId} className="border rounded-lg p-4">
+                      <div className="flex items-center space-x-3">
+                        <img 
+                          src={item.product?.images?.[0]?.url || '/placeholder-product.jpg'} 
+                          alt={item.product?.title || 'Product'}
+                          className="w-12 h-12 object-cover rounded"
+                        />
+                        <div className="flex-1">
+                          <h3 className="font-medium">{item.product?.title || 'Product'}</h3>
+                          <p className="text-sm text-gray-600">₹{item.product?.price || 0}</p>
+                        </div>
+                      </div>
+                    </div>
+                  ))}
+                </div>
+              ) : (
+                <p className="text-gray-600">No favorites yet. <Link href="/products" className="text-blue-600 hover:underline">Browse products</Link></p>
+              )}
+            </div>
+
+            {/* Purchase History */}
+            <div className="card p-6">
+              <h2 className="text-xl font-semibold mb-4">Purchase History</h2>
+              {loadingData ? (
+                <p>Loading purchase history...</p>
+              ) : userData?.purchaseHistory?.length > 0 ? (
+                <div className="space-y-4">
+                  {userData.purchaseHistory.map((order: any, index: number) => (
+                    <div key={index} className="border rounded-lg p-4">
+                      <div className="flex justify-between items-start">
+                        <div>
+                          <h3 className="font-medium">Order #{order.id || index + 1}</h3>
+                          <p className="text-sm text-gray-600">{new Date(order.date || Date.now()).toLocaleDateString()}</p>
+                          <p className="text-sm">Total: ₹{order.total || 0}</p>
+                        </div>
+                        <span className={`px-2 py-1 text-xs rounded-full ${
+                          order.status === 'completed' ? 'bg-green-100 text-green-800' : 'bg-yellow-100 text-yellow-800'
+                        }`}>
+                          {order.status || 'pending'}
+                        </span>
+                      </div>
+                    </div>
+                  ))}
+                </div>
+              ) : (
+                <p className="text-gray-600">No purchase history yet. <Link href="/products" className="text-blue-600 hover:underline">Start shopping</Link></p>
+              )}
+            </div>
+          </div>
+        )}
       </div>
     </div>
   );
