@@ -9,6 +9,7 @@ if (process.env.RAZORPAY_KEY_ID && process.env.RAZORPAY_KEY_SECRET) {
       key_id: process.env.RAZORPAY_KEY_ID,
       key_secret: process.env.RAZORPAY_KEY_SECRET,
     });
+    console.log('Razorpay initialized successfully');
   } catch (error) {
     console.warn('Razorpay initialization failed:', error);
     razorpay = null;
@@ -17,7 +18,24 @@ if (process.env.RAZORPAY_KEY_ID && process.env.RAZORPAY_KEY_SECRET) {
   console.warn('Razorpay environment variables not found');
 }
 
-export { razorpay };
+// Create a mock Razorpay instance for development/testing
+const mockRazorpay = {
+  orders: {
+    create: async (orderData: any) => {
+      console.log('Mock Razorpay order creation:', orderData);
+      return {
+        id: `order_${Date.now()}`,
+        amount: orderData.amount,
+        currency: orderData.currency,
+        receipt: orderData.receipt,
+        status: 'created',
+        created_at: Date.now(),
+      };
+    },
+  },
+};
+
+export { razorpay: razorpay || mockRazorpay };
 
 export const razorpayUiConfig = {
   key: process.env.NEXT_PUBLIC_RAZORPAY_KEY_ID,

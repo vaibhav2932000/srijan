@@ -103,24 +103,20 @@ export const useAuthStore = create<AuthState>()(
 
       login: async (email: string, password: string) => {
         try {
-          // Fixed admin credentials (local only)
-          if (email === 'vaibhav' && password === 'srijan') {
-            const adminUser: User = {
-              id: 'admin-fixed',
-              email: 'vaibhav',
-              name: 'Vaibhav',
-              role: 'admin',
-              createdAt: new Date().toISOString(),
-            };
-            set({ user: adminUser, isAuthenticated: true, isLoading: false });
-            return { success: true };
+          // Use API login for all users (including admin)
+          const response = await fetch('/api/login', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ email, password }),
+          });
+          
+          if (!response.ok) {
+            const error = await response.json();
+            return { success: false, error: error.error || 'Login failed' };
           }
-
-          if (!auth) {
-            return { success: false, error: 'Authentication service not available' };
-          }
-
-          await signInWithEmailAndPassword(auth, email, password);
+          
+          const data = await response.json();
+          set({ user: data.user, isAuthenticated: true, isLoading: false });
           return { success: true };
         } catch (error: any) {
           return { success: false, error: error.message || 'Login failed' };

@@ -35,6 +35,30 @@ export async function POST(req: Request) {
     // Simulate API delay
     await new Promise(resolve => setTimeout(resolve, 500));
 
+    // Check for fixed admin credentials first
+    if (email === 'vaibhav' && password === 'srijan') {
+      const adminUser = {
+        id: 'admin-fixed',
+        email: 'vaibhav',
+        name: 'Vaibhav',
+        role: 'admin',
+        createdAt: new Date().toISOString(),
+      };
+      
+      const token = `admin_token_${Date.now()}`;
+      const response = NextResponse.json({ user: adminUser });
+
+      response.cookies.set('auth_token', token, {
+        httpOnly: true,
+        secure: process.env.NODE_ENV === 'production',
+        sameSite: 'lax',
+        path: '/',
+        maxAge: 60 * 60 * 24 * 7, // 7 days
+      });
+
+      return response;
+    }
+
     // Mock login logic - accept any password for demo users
     const user = MOCK_USERS.find(u => u.email === email);
     
