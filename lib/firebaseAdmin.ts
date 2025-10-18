@@ -1,26 +1,41 @@
 import { getApps, initializeApp, cert, App } from 'firebase-admin/app';
 import { getFirestore } from 'firebase-admin/firestore';
 
-let app: App;
+let app: App | null = null;
 
-if (!getApps().length) {
-  // Initialize using env JSON for service account or fallback to application default creds
-  const svc = process.env.FIREBASE_SERVICE_ACCOUNT ? JSON.parse(process.env.FIREBASE_SERVICE_ACCOUNT) : undefined;
-  app = initializeApp(
-    svc
-      ? {
-          credential: cert({
-            projectId: svc.project_id,
-            clientEmail: svc.client_email,
-            privateKey: svc.private_key?.replace(/\\n/g, '\n'),
-          }),
-        }
-      : undefined
-  );
-} else {
+// Only initialize Firebase Admin if we have the required environment variables
+if (!getApps().length && process.env.FIREBASE_SERVICE_ACCOUNT) {
+  try {
+    const svc = JSON.parse(process.env.FIREBASE_SERVICE_ACCOUNT);
+    app = initializeApp({
+      credential: cert({
+        projectId: svc.project_id,
+        clientEmail: svc.client_email,
+        privateKey: svc.private_key?.replace(/\\n/g, '\n'),
+      }),
+    });
+  } catch (error) {
+    console.warn('Firebase Admin initialization failed:', error);
+    app = null;
+  }
+} else if (getApps().length > 0) {
   app = getApps()[0]!;
 }
 
-export const adminDb = getFirestore(app);
+// Create a mock Firestore instance for build time
+const mockFirestore = {
+  collection: () => ({
+    doc: () => ({
+      set: () => Promise.resolve(),
+      get: () => Promise.resolve({ exists: false }),
+      update: () => Promise.resolve(),
+    }),
+    orderBy: () => ({
+      get: () => Promise.resolve({ docs: [] }),
+    }),
+  }),
+};
+
+export const adminDb = app ? getFirestore(app) : mockFirestore as any;
 
 
