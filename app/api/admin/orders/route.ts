@@ -21,7 +21,7 @@ export async function GET() {
     // Try Firestore first
     try {
       const snap = await adminDb.collection('orders').orderBy('createdAt', 'desc').get();
-      orders = snap.docs.map((d) => ({ id: d.id, ...d.data() }));
+      orders = snap.docs.map((d: any) => ({ id: d.id, ...d.data() }));
     } catch {
       // Fallback: JSON file
       try {
