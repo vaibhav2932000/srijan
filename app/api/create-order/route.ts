@@ -16,7 +16,7 @@ export async function POST(request: Request) {
       amount: Math.round(amount * 100), // paise
       currency,
       receipt,
-      payment_capture: 1,
+      payment_capture: true,
     });
 
     return NextResponse.json({ success: true, order });
