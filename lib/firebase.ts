@@ -8,8 +8,8 @@ const hasFirebaseConfig = process.env.NEXT_PUBLIC_FIREBASE_API_KEY &&
                          process.env.NEXT_PUBLIC_FIREBASE_PROJECT_ID;
 
 let app: any = null;
-let auth: any = null;
-let db: any = null;
+let firebaseAuth: any = null;
+let firebaseDb: any = null;
 
 if (hasFirebaseConfig) {
   const firebaseConfig = {
@@ -24,13 +24,13 @@ if (hasFirebaseConfig) {
   try {
     // Avoid re-initializing during hot reloads
     app = getApps().length ? getApp() : initializeApp(firebaseConfig);
-    auth = getAuth(app);
-    db = getFirestore(app);
+    firebaseAuth = getAuth(app);
+    firebaseDb = getFirestore(app);
   } catch (error) {
     console.warn('Firebase client initialization failed:', error);
     app = null;
-    auth = null;
-    db = null;
+    firebaseAuth = null;
+    firebaseDb = null;
   }
 } else {
   console.warn('Firebase environment variables not found, using mock services');
@@ -58,7 +58,8 @@ const mockDb = {
   }),
 };
 
-export { auth: auth || mockAuth, db: db || mockDb };
+export const auth = firebaseAuth || mockAuth;
+export const db = firebaseDb || mockDb;
 export default app;
 
 
