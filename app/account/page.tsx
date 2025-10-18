@@ -127,13 +127,13 @@ export default function AccountPage() {
                     <div key={item.productId} className="border rounded-lg p-4">
                       <div className="flex items-center space-x-3">
                         <img 
-                          src={item.product?.images?.[0]?.url || '/placeholder-product.jpg'} 
-                          alt={item.product?.title || 'Product'}
+                          src="/placeholder-product.jpg"
+                          alt="Product"
                           className="w-12 h-12 object-cover rounded"
                         />
                         <div className="flex-1">
-                          <h3 className="font-medium">{item.product?.title || 'Product'}</h3>
-                          <p className="text-sm text-gray-600">₹{item.product?.price || 0}</p>
+                          <h3 className="font-medium">Product ID: {item.productId}</h3>
+                          <p className="text-sm text-gray-600">Added: {new Date(item.addedAt).toLocaleDateString()}</p>
                         </div>
                       </div>
                     </div>
