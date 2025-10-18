@@ -151,13 +151,16 @@ export const useAuthStore = create<AuthState>()(
       loginWithGoogle: async () => {
         try {
           if (!auth) {
-            return { success: false, error: 'Authentication service not available' };
+            return { success: false, error: 'Authentication service not available. Please check Firebase configuration.' };
           }
           
+          console.log('Attempting Google sign-in');
           const provider = new GoogleAuthProvider();
-          await signInWithPopup(auth, provider);
+          const result = await signInWithPopup(auth, provider);
+          console.log('Google sign-in successful:', result.user.email);
           return { success: true };
         } catch (error: any) {
+          console.error('Google sign-in error:', error);
           return { success: false, error: error.message || 'Google sign-in failed' };
         }
       },
@@ -166,13 +169,22 @@ export const useAuthStore = create<AuthState>()(
         try {
           // Use Firebase for real user registration
           if (!auth || !db) {
-            return { success: false, error: 'Authentication service not available' };
+            return { success: false, error: 'Authentication service not available. Please check Firebase configuration.' };
           }
           
+          console.log('Attempting Firebase registration for:', email);
           const cred = await createUserWithEmailAndPassword(auth, email, password);
+          console.log('Firebase registration successful');
+          
           if (auth.currentUser && name) {
-            try { await updateProfile(auth.currentUser, { displayName: name }); } catch {}
+            try { 
+              await updateProfile(auth.currentUser, { displayName: name }); 
+              console.log('Profile updated successfully');
+            } catch (profileError) {
+              console.warn('Profile update failed:', profileError);
+            }
           }
+          
           const newUser: User = {
             id: cred.user.uid,
             email: cred.user.email || email,
@@ -180,9 +192,14 @@ export const useAuthStore = create<AuthState>()(
             role: 'customer',
             createdAt: new Date().toISOString(),
           };
+          
+          console.log('Saving user to Firestore:', newUser);
           await setDoc(doc(db, 'users', cred.user.uid), newUser, { merge: true });
+          console.log('User saved to Firestore successfully');
+          
           return { success: true };
         } catch (error: any) {
+          console.error('Registration error:', error);
           return { success: false, error: error.message || 'Signup failed' };
         }
       },
