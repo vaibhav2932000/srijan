@@ -35,7 +35,7 @@ const mockRazorpay = {
   },
 };
 
-export { razorpay: razorpay || mockRazorpay };
+export const razorpayInstance = razorpay || mockRazorpay;
 
 export const razorpayUiConfig = {
   key: process.env.NEXT_PUBLIC_RAZORPAY_KEY_ID,
