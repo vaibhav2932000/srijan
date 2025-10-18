@@ -139,22 +139,20 @@ export const useAuthStore = create<AuthState>()(
 
       register: async (email: string, password: string, name: string) => {
         try {
-          if (!auth || !db) {
-            return { success: false, error: 'Authentication service not available' };
+          // Use API registration to avoid Firebase recaptcha issues
+          const response = await fetch('/api/signup', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ email, password, name }),
+          });
+          
+          if (!response.ok) {
+            const error = await response.json();
+            return { success: false, error: error.error || 'Signup failed' };
           }
           
-          const cred = await createUserWithEmailAndPassword(auth, email, password);
-          if (auth.currentUser && name) {
-            try { await updateProfile(auth.currentUser, { displayName: name }); } catch {}
-          }
-          const newUser: User = {
-            id: cred.user.uid,
-            email: cred.user.email || email,
-            name,
-            role: 'customer',
-            createdAt: new Date().toISOString(),
-          };
-          await setDoc(doc(db, 'users', cred.user.uid), newUser, { merge: true });
+          const data = await response.json();
+          set({ user: data.user, isAuthenticated: true, isLoading: false });
           return { success: true };
         } catch (error: any) {
           return { success: false, error: error.message || 'Signup failed' };

@@ -71,6 +71,11 @@ export default function CheckoutPage() {
       if (!data.success) throw new Error('Order creation failed');
 
       console.log('Razorpay key:', process.env.NEXT_PUBLIC_RAZORPAY_KEY_ID);
+      
+      if (!process.env.NEXT_PUBLIC_RAZORPAY_KEY_ID) {
+        throw new Error('Razorpay key not configured');
+      }
+      
       const options: any = {
         key: process.env.NEXT_PUBLIC_RAZORPAY_KEY_ID,
         amount: data.order.amount,
@@ -130,6 +135,13 @@ export default function CheckoutPage() {
       
       console.log('Opening Razorpay checkout...');
       const rzp = new (window as any).Razorpay(options);
+      
+      // Add error handling for Razorpay checkout
+      rzp.on('payment.failed', function (response: any) {
+        console.error('Payment failed:', response.error);
+        toast.error('Payment failed: ' + response.error.description);
+      });
+      
       rzp.open();
     } catch (err) {
       console.error(err);
