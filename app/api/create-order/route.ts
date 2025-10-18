@@ -3,6 +3,10 @@ import { razorpay } from '@/lib/razorpay';
 
 export async function POST(request: Request) {
   try {
+    if (!razorpay) {
+      return NextResponse.json({ success: false, error: 'Payment service not configured' }, { status: 500 });
+    }
+
     const body = await request.json();
     const amount = Number(body.amount);
     const currency = (body.currency || 'INR') as string;
