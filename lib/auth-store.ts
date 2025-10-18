@@ -42,6 +42,12 @@ export const useAuthStore = create<AuthState>()(
       isLoading: true,
 
       initializeAuth: () => {
+        if (!auth) {
+          console.warn('Firebase auth not initialized');
+          set({ isLoading: false });
+          return;
+        }
+        
         onAuthStateChanged(auth, async (firebaseUser: FirebaseUser | null) => {
           if (!firebaseUser) {
             const current = get();
@@ -110,6 +116,10 @@ export const useAuthStore = create<AuthState>()(
             return { success: true };
           }
 
+          if (!auth) {
+            return { success: false, error: 'Authentication service not available' };
+          }
+
           await signInWithEmailAndPassword(auth, email, password);
           return { success: true };
         } catch (error: any) {
@@ -119,6 +129,10 @@ export const useAuthStore = create<AuthState>()(
 
       loginWithGoogle: async () => {
         try {
+          if (!auth) {
+            return { success: false, error: 'Authentication service not available' };
+          }
+          
           const provider = new GoogleAuthProvider();
           await signInWithPopup(auth, provider);
           return { success: true };
@@ -129,6 +143,10 @@ export const useAuthStore = create<AuthState>()(
 
       register: async (email: string, password: string, name: string) => {
         try {
+          if (!auth || !db) {
+            return { success: false, error: 'Authentication service not available' };
+          }
+          
           const cred = await createUserWithEmailAndPassword(auth, email, password);
           if (auth.currentUser && name) {
             try { await updateProfile(auth.currentUser, { displayName: name }); } catch {}
