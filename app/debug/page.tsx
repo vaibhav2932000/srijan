@@ -14,8 +14,34 @@ export default function DebugPage() {
             <strong>NEXT_PUBLIC_FIREBASE_API_KEY:</strong> {process.env.NEXT_PUBLIC_FIREBASE_API_KEY ? '✅ Set' : '❌ Not set'}
           </div>
           <div>
+            <strong>NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN:</strong> {process.env.NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN ? '✅ Set' : '❌ Not set'}
+          </div>
+          <div>
             <strong>NEXT_PUBLIC_FIREBASE_PROJECT_ID:</strong> {process.env.NEXT_PUBLIC_FIREBASE_PROJECT_ID ? '✅ Set' : '❌ Not set'}
           </div>
+          <div>
+            <strong>NEXT_PUBLIC_FIREBASE_STORAGE_BUCKET:</strong> {process.env.NEXT_PUBLIC_FIREBASE_STORAGE_BUCKET ? '✅ Set' : '❌ Not set'}
+          </div>
+          <div>
+            <strong>NEXT_PUBLIC_FIREBASE_MESSAGING_SENDER_ID:</strong> {process.env.NEXT_PUBLIC_FIREBASE_MESSAGING_SENDER_ID ? '✅ Set' : '❌ Not set'}
+          </div>
+          <div>
+            <strong>NEXT_PUBLIC_FIREBASE_APP_ID:</strong> {process.env.NEXT_PUBLIC_FIREBASE_APP_ID ? '✅ Set' : '❌ Not set'}
+          </div>
+        </div>
+        
+        <div className="mt-6">
+          <h3 className="text-lg font-semibold mb-2">Firebase API Key Value:</h3>
+          <code className="bg-gray-100 p-2 rounded text-sm">
+            {process.env.NEXT_PUBLIC_FIREBASE_API_KEY || 'Not available'}
+          </code>
+        </div>
+        
+        <div className="mt-4">
+          <h3 className="text-lg font-semibold mb-2">Firebase Project ID:</h3>
+          <code className="bg-gray-100 p-2 rounded text-sm">
+            {process.env.NEXT_PUBLIC_FIREBASE_PROJECT_ID || 'Not available'}
+          </code>
         </div>
         
         <div className="mt-6">
