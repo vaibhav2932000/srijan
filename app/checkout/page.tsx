@@ -1,7 +1,8 @@
 'use client';
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
 import { useRouter } from 'next/navigation';
 import { useStore } from '@/lib/store';
+import { useAuthStore } from '@/lib/auth-store';
 import toast from 'react-hot-toast';
 
 interface CustomerDetails {
@@ -19,7 +20,20 @@ interface CustomerDetails {
 export default function CheckoutPage() {
   const router = useRouter();
   const { cart, clearCart } = useStore();
+  const { user, isAuthenticated, isLoading: authLoading } = useAuthStore();
   const [isLoading, setIsLoading] = useState(false);
+
+  // Initialize auth on mount
+  useEffect(() => {
+    useAuthStore.getState().initializeAuth();
+  }, []);
+
+  // Check authentication
+  useEffect(() => {
+    if (!authLoading && !isAuthenticated) {
+      router.push('/login?next=/checkout');
+    }
+  }, [authLoading, isAuthenticated, router]);
   const [details, setDetails] = useState<CustomerDetails>({
     firstName: '',
     lastName: '',
@@ -155,6 +169,20 @@ export default function CheckoutPage() {
       setIsLoading(false);
     }
   };
+
+  // Show loading while checking authentication
+  if (authLoading) {
+    return (
+      <div className="container-custom py-16 text-center">
+        <h1 className="text-3xl font-bold mb-4">Loading...</h1>
+      </div>
+    );
+  }
+
+  // Redirect if not authenticated
+  if (!isAuthenticated) {
+    return null; // Will redirect via useEffect
+  }
 
   if (cart.length === 0) {
     return (

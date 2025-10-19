@@ -20,6 +20,11 @@ export default function AccountPage() {
     }
   }, [isLoading, user, router]);
 
+  // Initialize auth on mount
+  useEffect(() => {
+    useAuthStore.getState().initializeAuth();
+  }, []);
+
   useEffect(() => {
     if (user && user.role !== 'admin') {
       // Load user data for Firebase users

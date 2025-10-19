@@ -8,6 +8,13 @@ export function middleware(request: NextRequest) {
   const protectedPaths = ['/account', '/checkout', '/orders'];
   const isProtected = protectedPaths.some((p) => pathname.startsWith(p));
 
+  // Skip middleware for API routes and static files
+  if (pathname.startsWith('/api/') || pathname.startsWith('/_next/')) {
+    return NextResponse.next();
+  }
+
+  // Only redirect to login for protected paths if no auth token
+  // Firebase users will be handled client-side
   if (isProtected && !token) {
     const url = request.nextUrl.clone();
     url.pathname = '/login';
