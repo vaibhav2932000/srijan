@@ -42,7 +42,7 @@ export default function CheckoutPage() {
       cartLength: cart.length, 
       isAuthenticated, 
       userId: user?.id,
-      cartItems: cart.map(item => ({ id: item.product.id, name: item.product.name, quantity: item.quantity }))
+      cartItems: cart.map(item => ({ id: item.product.id, title: item.product.title, quantity: item.quantity }))
     });
   }, [cart, isAuthenticated, user]);
 
