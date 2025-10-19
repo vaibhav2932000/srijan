@@ -137,6 +137,10 @@ export const useStore = create<StoreState>()(
         const authState = useAuthStore.getState();
         const user = authState.user;
         if (!user) return;
+        
+        const currentState = get();
+        console.log('Current cart before loading:', currentState.cart.length);
+        
         try {
           console.log('Loading user data for:', user.id);
           const snap = await getDoc(doc(db, 'users', user.id));
@@ -148,8 +152,10 @@ export const useStore = create<StoreState>()(
               wishlist: Array.isArray(data.wishlist) ? data.wishlist : [],
             });
           } else {
-            console.log('No user data found, initializing empty cart');
-            set({ cart: [], wishlist: [] });
+            console.log('No user data found, keeping existing cart');
+            // Don't clear the cart if no user data is found
+            // Just initialize empty wishlist
+            set({ wishlist: [] });
           }
         } catch (error) {
           console.error('Failed to load user data:', error);

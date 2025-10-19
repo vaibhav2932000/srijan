@@ -32,7 +32,10 @@ export default function CheckoutPage() {
   useEffect(() => {
     if (isAuthenticated && user) {
       console.log('User authenticated, loading cart data...');
-      useStore.getState().loadUserData();
+      // Add a small delay to ensure Firebase auth is fully initialized
+      setTimeout(() => {
+        useStore.getState().loadUserData();
+      }, 100);
     }
   }, [isAuthenticated, user]);
 

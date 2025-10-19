@@ -13,7 +13,12 @@ export function middleware(request: NextRequest) {
     return NextResponse.next();
   }
 
-  // Only redirect to login for protected paths if no auth token
+  // Skip middleware for checkout - let client-side handle authentication
+  if (pathname.startsWith('/checkout')) {
+    return NextResponse.next();
+  }
+
+  // Only redirect to login for other protected paths if no auth token
   // Firebase users will be handled client-side
   if (isProtected && !token) {
     const url = request.nextUrl.clone();
