@@ -28,6 +28,24 @@ export default function CheckoutPage() {
     useAuthStore.getState().initializeAuth();
   }, []);
 
+  // Load user data when user is authenticated
+  useEffect(() => {
+    if (isAuthenticated && user) {
+      console.log('User authenticated, loading cart data...');
+      useStore.getState().loadUserData();
+    }
+  }, [isAuthenticated, user]);
+
+  // Debug cart state
+  useEffect(() => {
+    console.log('Cart state changed:', { 
+      cartLength: cart.length, 
+      isAuthenticated, 
+      userId: user?.id,
+      cartItems: cart.map(item => ({ id: item.product.id, name: item.product.name, quantity: item.quantity }))
+    });
+  }, [cart, isAuthenticated, user]);
+
   // Check authentication
   useEffect(() => {
     if (!authLoading && !isAuthenticated) {
@@ -205,11 +223,38 @@ export default function CheckoutPage() {
     return null; // Will redirect via useEffect
   }
 
+  // Show loading while cart data is being loaded
+  if (isAuthenticated && user && cart.length === 0) {
+    return (
+      <div className="container-custom py-16 text-center">
+        <h1 className="text-3xl font-bold mb-4">Loading your cart...</h1>
+        <p className="text-gray-600">Please wait while we load your items.</p>
+      </div>
+    );
+  }
+
   if (cart.length === 0) {
     return (
       <div className="container-custom py-16 text-center">
         <h1 className="text-3xl font-bold mb-4">Your cart is empty</h1>
-        <button className="btn-primary" onClick={() => router.push('/products')}>Continue Shopping</button>
+        <p className="text-gray-600 mb-4">Add some products to your cart to proceed with checkout.</p>
+        <div className="space-y-4">
+          <button className="btn-primary" onClick={() => router.push('/products')}>Continue Shopping</button>
+          {isAuthenticated && user && (
+            <div>
+              <p className="text-sm text-gray-500 mb-2">Debug: Try reloading your cart data</p>
+              <button 
+                className="btn-secondary" 
+                onClick={() => {
+                  console.log('Manually loading user data...');
+                  useStore.getState().loadUserData();
+                }}
+              >
+                Reload Cart Data
+              </button>
+            </div>
+          )}
+        </div>
       </div>
     );
   }
