@@ -17,20 +17,31 @@ async function ensureOrdersFile() {
 
 export async function POST(request: Request) {
   try {
+    console.log('Verify payment API called');
+    
     const { razorpay_order_id, razorpay_payment_id, razorpay_signature, orderData } = await request.json();
+    console.log('Payment verification data:', { razorpay_order_id, razorpay_payment_id, razorpay_signature: razorpay_signature ? 'present' : 'missing' });
 
     if (!razorpay_order_id || !razorpay_payment_id || !razorpay_signature) {
+      console.error('Missing payment details');
       return NextResponse.json({ success: false, error: 'Missing payment details' }, { status: 400 });
     }
 
     const keySecret = process.env.RAZORPAY_KEY_SECRET as string;
+    if (!keySecret) {
+      console.error('RAZORPAY_KEY_SECRET not configured');
+      return NextResponse.json({ success: false, error: 'Payment verification not configured' }, { status: 500 });
+    }
+
     const generatedSignature = crypto
       .createHmac('sha256', keySecret)
       .update(`${razorpay_order_id}|${razorpay_payment_id}`)
       .digest('hex');
 
+    console.log('Signature verification:', { generated: generatedSignature, received: razorpay_signature });
     const isAuthentic = generatedSignature === razorpay_signature;
     if (!isAuthentic) {
+      console.error('Invalid signature');
       return NextResponse.json({ success: false, error: 'Invalid signature' }, { status: 400 });
     }
 

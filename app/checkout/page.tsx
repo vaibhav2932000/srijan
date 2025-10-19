@@ -155,12 +155,33 @@ export default function CheckoutPage() {
       console.log('Opening Razorpay checkout...');
       const rzp = new (window as any).Razorpay(options);
       
-      // Add error handling for Razorpay checkout
+      // Add comprehensive error handling for Razorpay checkout
       rzp.on('payment.failed', function (response: any) {
         console.error('Payment failed:', response.error);
-        toast.error('Payment failed: ' + response.error.description);
+        toast.error('Payment failed: ' + (response.error?.description || 'Unknown error'));
+      });
+
+      rzp.on('payment.captured', function (response: any) {
+        console.log('Payment captured:', response);
+      });
+
+      rzp.on('payment.authorized', function (response: any) {
+        console.log('Payment authorized:', response);
+      });
+
+      rzp.on('payment.manual', function (response: any) {
+        console.log('Payment manual:', response);
+      });
+
+      // Add modal close handler
+      rzp.on('modal.closed', function (response: any) {
+        console.log('Modal closed:', response);
+        if (response && response.reason === 'backdrop') {
+          toast.error('Payment cancelled by user');
+        }
       });
       
+      console.log('Opening Razorpay with options:', options);
       rzp.open();
     } catch (err) {
       console.error('Payment initiation error:', err);
