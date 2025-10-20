@@ -118,10 +118,17 @@ export const useStore = create<StoreState>()(
       syncCartToCloud: async () => {
         const authState = useAuthStore.getState();
         const user = authState.user;
-        if (!user) return;
+        if (!user) {
+          console.log('No user found, skipping cart sync');
+          return;
+        }
         try {
+          console.log('Syncing cart to Firebase for user:', user.id, 'Cart items:', get().cart.length);
           await setDoc(doc(db, 'users', user.id), { cart: get().cart }, { merge: true });
-        } catch (_e) {}
+          console.log('Cart synced successfully');
+        } catch (error) {
+          console.error('Failed to sync cart to Firebase:', error);
+        }
       },
 
       syncWishlistToCloud: async () => {

@@ -31,13 +31,21 @@ export default function CheckoutPage() {
   // Load user data when user is authenticated
   useEffect(() => {
     if (isAuthenticated && user) {
-      console.log('User authenticated, loading cart data...');
+      console.log('User authenticated, loading cart data...', { userId: user.id, userEmail: user.email });
       // Add a small delay to ensure Firebase auth is fully initialized
       setTimeout(() => {
+        console.log('Loading user data after delay...');
         useStore.getState().loadUserData();
+        // Also sync current cart to Firebase in case it wasn't synced before
+        if (cart.length > 0) {
+          console.log('Syncing existing cart to Firebase...');
+          useStore.getState().syncCartToCloud();
+        }
       }, 100);
+    } else {
+      console.log('Not authenticated or no user:', { isAuthenticated, user: !!user });
     }
-  }, [isAuthenticated, user]);
+  }, [isAuthenticated, user, cart.length]);
 
   // Debug cart state
   useEffect(() => {
@@ -244,17 +252,31 @@ export default function CheckoutPage() {
         <div className="space-y-4">
           <button className="btn-primary" onClick={() => router.push('/products')}>Continue Shopping</button>
           {isAuthenticated && user && (
-            <div>
+            <div className="space-y-2">
               <p className="text-sm text-gray-500 mb-2">Debug: Try reloading your cart data</p>
-              <button 
-                className="btn-secondary" 
-                onClick={() => {
-                  console.log('Manually loading user data...');
-                  useStore.getState().loadUserData();
-                }}
-              >
-                Reload Cart Data
-              </button>
+              <div className="flex gap-2">
+                <button 
+                  className="btn-secondary" 
+                  onClick={() => {
+                    console.log('Manually loading user data...');
+                    useStore.getState().loadUserData();
+                  }}
+                >
+                  Reload Cart Data
+                </button>
+                <button 
+                  className="btn-secondary" 
+                  onClick={() => {
+                    console.log('Manually syncing cart to Firebase...');
+                    useStore.getState().syncCartToCloud();
+                  }}
+                >
+                  Sync Cart to Firebase
+                </button>
+              </div>
+              <p className="text-xs text-gray-400">
+                User: {user.email} | ID: {user.id}
+              </p>
             </div>
           )}
         </div>
