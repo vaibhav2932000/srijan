@@ -91,6 +91,16 @@ export const useAuthStore = create<AuthState>()(
                 import('@/lib/store').then(({ useStore }) => {
                   useStore.getState().loadUserData();
                 });
+                
+                // Show success popup for existing users
+                import('react-hot-toast').then(({ toast }) => {
+                  toast.success('Welcome back! You are signed in successfully');
+                  
+                  // Redirect to products page
+                  setTimeout(() => {
+                    window.location.href = '/products';
+                  }, 1500);
+                });
               }
             } else {
               const newUser: User = {
@@ -107,6 +117,16 @@ export const useAuthStore = create<AuthState>()(
               if (typeof window !== 'undefined') {
                 import('@/lib/store').then(({ useStore }) => {
                   useStore.getState().loadUserData();
+                });
+                
+                // Show success popup for new users
+                import('react-hot-toast').then(({ toast }) => {
+                  toast.success('Account created successfully! You are signed in.');
+                  
+                  // Redirect to products page
+                  setTimeout(() => {
+                    window.location.href = '/products';
+                  }, 1500);
                 });
               }
             }
@@ -133,6 +153,18 @@ export const useAuthStore = create<AuthState>()(
             
             const data = await response.json();
             set({ user: data.user, isAuthenticated: true, isLoading: false });
+            
+            // Show success popup for admin
+            if (typeof window !== 'undefined') {
+              const { toast } = await import('react-hot-toast');
+              toast.success('Welcome back, Admin! You are signed in successfully');
+              
+              // Redirect to products page
+              setTimeout(() => {
+                window.location.href = '/products';
+              }, 1500);
+            }
+            
             return { success: true };
           }
 
@@ -158,6 +190,18 @@ export const useAuthStore = create<AuthState>()(
           const provider = new GoogleAuthProvider();
           const result = await signInWithPopup(auth, provider);
           console.log('Google sign-in successful:', result.user.email);
+          
+          // Show success popup for Google login
+          if (typeof window !== 'undefined') {
+            const { toast } = await import('react-hot-toast');
+            toast.success('Welcome! You are signed in successfully');
+            
+            // Redirect to products page
+            setTimeout(() => {
+              window.location.href = '/products';
+            }, 1500);
+          }
+          
           return { success: true };
         } catch (error: any) {
           console.error('Google sign-in error:', error);
@@ -196,6 +240,17 @@ export const useAuthStore = create<AuthState>()(
           console.log('Saving user to Firestore:', newUser);
           await setDoc(doc(db, 'users', cred.user.uid), newUser, { merge: true });
           console.log('User saved to Firestore successfully');
+          
+          // Show success popup for registration
+          if (typeof window !== 'undefined') {
+            const { toast } = await import('react-hot-toast');
+            toast.success('Account created successfully! You are signed in.');
+            
+            // Redirect to products page
+            setTimeout(() => {
+              window.location.href = '/products';
+            }, 1500);
+          }
           
           return { success: true };
         } catch (error: any) {
