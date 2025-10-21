@@ -35,8 +35,8 @@ export default function SignupPage() {
         setErr(result.error || 'Could not create account');
         return;
       }
-      toast.success('Account created successfully.');
-      router.push('/account');
+      // Success popup is handled in auth store
+      router.push('/products');
     } catch (error) {
       setErr('Network error. Please try again.');
     } finally {
@@ -53,8 +53,8 @@ export default function SignupPage() {
         setErr(result.error || 'Google sign-in failed');
         return;
       }
-      toast.success('Account created successfully.');
-      router.push('/account');
+      // Success popup is handled in auth store
+      router.push('/products');
     } catch (error) {
       setErr('Google sign-in failed. Please try again.');
     } finally {

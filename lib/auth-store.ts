@@ -99,11 +99,6 @@ export const useAuthStore = create<AuthState>()(
                   set({ hasShownWelcomePopup: true });
                   import('react-hot-toast').then(({ toast }) => {
                     toast.success('Welcome back! You are signed in successfully');
-                    
-                    // Redirect to products page
-                    setTimeout(() => {
-                      window.location.href = '/products';
-                    }, 1500);
                   });
                 }
               }
@@ -129,11 +124,6 @@ export const useAuthStore = create<AuthState>()(
                   set({ hasShownWelcomePopup: true });
                   import('react-hot-toast').then(({ toast }) => {
                     toast.success('Account created successfully! You are signed in.');
-                    
-                    // Redirect to products page
-                    setTimeout(() => {
-                      window.location.href = '/products';
-                    }, 1500);
                   });
                 }
               }
@@ -167,11 +157,6 @@ export const useAuthStore = create<AuthState>()(
               set({ hasShownWelcomePopup: true });
               const { toast } = await import('react-hot-toast');
               toast.success('Welcome back, Admin! You are signed in successfully');
-              
-              // Redirect to products page
-              setTimeout(() => {
-                window.location.href = '/products';
-              }, 1500);
             }
             
             return { success: true };
@@ -205,11 +190,6 @@ export const useAuthStore = create<AuthState>()(
             set({ hasShownWelcomePopup: true });
             const { toast } = await import('react-hot-toast');
             toast.success('Welcome! You are signed in successfully');
-            
-            // Redirect to products page
-            setTimeout(() => {
-              window.location.href = '/products';
-            }, 1500);
           }
           
           return { success: true };
@@ -256,11 +236,6 @@ export const useAuthStore = create<AuthState>()(
             set({ hasShownWelcomePopup: true });
             const { toast } = await import('react-hot-toast');
             toast.success('Account created successfully! You are signed in.');
-            
-            // Redirect to products page
-            setTimeout(() => {
-              window.location.href = '/products';
-            }, 1500);
           }
           
           return { success: true };

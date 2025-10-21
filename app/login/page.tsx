@@ -25,8 +25,8 @@ function LoginPageContent() {
         setErr(result.error || 'Login failed');
         return;
       }
-      toast.success('Welcome back!');
-      router.push(next);
+      // Success popup is handled in auth store
+      router.push('/products');
     } catch (error) {
       setErr('Network error. Please try again.');
     } finally {
@@ -43,8 +43,8 @@ function LoginPageContent() {
         setErr(result.error || 'Google sign-in failed');
         return;
       }
-      toast.success('Welcome back!');
-      router.push(next);
+      // Success popup is handled in auth store
+      router.push('/products');
     } catch (error) {
       setErr('Google sign-in failed. Please try again.');
     } finally {
