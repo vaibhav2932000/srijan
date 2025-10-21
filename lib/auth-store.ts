@@ -27,6 +27,7 @@ interface AuthState {
   user: User | null;
   isAuthenticated: boolean;
   isLoading: boolean;
+  hasShownWelcomePopup: boolean;
   initializeAuth: () => void;
   login: (email: string, password: string) => Promise<{ success: boolean; error?: string }>;
   logout: () => Promise<void>;
@@ -43,6 +44,7 @@ export const useAuthStore = create<AuthState>()(
       user: null,
       isAuthenticated: false,
       isLoading: true,
+      hasShownWelcomePopup: false,
 
       initializeAuth: () => {
         if (!auth) {
@@ -92,15 +94,18 @@ export const useAuthStore = create<AuthState>()(
                   useStore.getState().loadUserData();
                 });
                 
-                // Show success popup for existing users
-                import('react-hot-toast').then(({ toast }) => {
-                  toast.success('Welcome back! You are signed in successfully');
-                  
-                  // Redirect to products page
-                  setTimeout(() => {
-                    window.location.href = '/products';
-                  }, 1500);
-                });
+                // Show success popup for existing users (only once)
+                if (!get().hasShownWelcomePopup) {
+                  set({ hasShownWelcomePopup: true });
+                  import('react-hot-toast').then(({ toast }) => {
+                    toast.success('Welcome back! You are signed in successfully');
+                    
+                    // Redirect to products page
+                    setTimeout(() => {
+                      window.location.href = '/products';
+                    }, 1500);
+                  });
+                }
               }
             } else {
               const newUser: User = {
@@ -119,15 +124,18 @@ export const useAuthStore = create<AuthState>()(
                   useStore.getState().loadUserData();
                 });
                 
-                // Show success popup for new users
-                import('react-hot-toast').then(({ toast }) => {
-                  toast.success('Account created successfully! You are signed in.');
-                  
-                  // Redirect to products page
-                  setTimeout(() => {
-                    window.location.href = '/products';
-                  }, 1500);
-                });
+                // Show success popup for new users (only once)
+                if (!get().hasShownWelcomePopup) {
+                  set({ hasShownWelcomePopup: true });
+                  import('react-hot-toast').then(({ toast }) => {
+                    toast.success('Account created successfully! You are signed in.');
+                    
+                    // Redirect to products page
+                    setTimeout(() => {
+                      window.location.href = '/products';
+                    }, 1500);
+                  });
+                }
               }
             }
           } catch (_e) {
@@ -154,8 +162,9 @@ export const useAuthStore = create<AuthState>()(
             const data = await response.json();
             set({ user: data.user, isAuthenticated: true, isLoading: false });
             
-            // Show success popup for admin
-            if (typeof window !== 'undefined') {
+            // Show success popup for admin (only once)
+            if (typeof window !== 'undefined' && !get().hasShownWelcomePopup) {
+              set({ hasShownWelcomePopup: true });
               const { toast } = await import('react-hot-toast');
               toast.success('Welcome back, Admin! You are signed in successfully');
               
@@ -191,8 +200,9 @@ export const useAuthStore = create<AuthState>()(
           const result = await signInWithPopup(auth, provider);
           console.log('Google sign-in successful:', result.user.email);
           
-          // Show success popup for Google login
-          if (typeof window !== 'undefined') {
+          // Show success popup for Google login (only once)
+          if (typeof window !== 'undefined' && !get().hasShownWelcomePopup) {
+            set({ hasShownWelcomePopup: true });
             const { toast } = await import('react-hot-toast');
             toast.success('Welcome! You are signed in successfully');
             
@@ -241,8 +251,9 @@ export const useAuthStore = create<AuthState>()(
           await setDoc(doc(db, 'users', cred.user.uid), newUser, { merge: true });
           console.log('User saved to Firestore successfully');
           
-          // Show success popup for registration
-          if (typeof window !== 'undefined') {
+          // Show success popup for registration (only once)
+          if (typeof window !== 'undefined' && !get().hasShownWelcomePopup) {
+            set({ hasShownWelcomePopup: true });
             const { toast } = await import('react-hot-toast');
             toast.success('Account created successfully! You are signed in.');
             
@@ -263,7 +274,7 @@ export const useAuthStore = create<AuthState>()(
         if (auth) {
           await signOut(auth);
         }
-        set({ user: null, isAuthenticated: false });
+        set({ user: null, isAuthenticated: false, hasShownWelcomePopup: false });
       },
 
       saveUserData: async (data: any) => {
