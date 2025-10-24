@@ -85,7 +85,7 @@ export default function Header() {
                       { label: '2 Piece Dress Set', href: '/products?category=clothing&subcategory=2-piece-dress-set' },
                       { label: '3 Piece Dress Set', href: '/products?category=clothing&subcategory=3-piece-dress-set' },
                       { label: 'Aawari Short Kurti', href: '/products?category=clothing&subcategory=aawari-short-kurti' },
-                      { label: 'Awari Kurti Collection', href: '/products?category=clothing&subcategory=awari-kurti-collection' },
+                      { label: 'Aawari Kurti Collection', href: '/products?category=clothing&subcategory=aawari-kurti-collection' },
                       { label: 'Bagru Print Kurti', href: '/products?category=clothing&subcategory=bagru-print-kurti' },
                       { label: 'Bagru Print Bedsheet Set', href: '/products?category=clothing&subcategory=bagru-print-bedsheet-set' },
                       { label: 'Cord Set (Top & Bottom)', href: '/products?category=clothing&subcategory=cord-set' },
