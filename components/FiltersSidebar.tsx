@@ -273,6 +273,18 @@ export default function FiltersSidebar({
                 3 Piece Dress Set
               </span>
             </label>
+            <label className="flex items-center gap-3 cursor-pointer group">
+              <input
+                type="radio"
+                name="subcategory"
+                checked={selectedFilters.subcategory === 'aawari-kurti-collection'}
+                onChange={() => updateFilters({ subcategory: 'aawari-kurti-collection' })}
+                className="w-4 h-4 text-saffron focus:ring-saffron border-gray-300"
+              />
+              <span className="text-sm text-earth-brown group-hover:text-saffron transition-colors">
+                Aawari Kurti Collection
+              </span>
+            </label>
           </div>
         </FilterSection>
       )}
