@@ -19,9 +19,8 @@ export function generateIndianKurtiName(seed: string | number = ''): string {
 }
 
 export function displayTitle(original: string, categorySlug?: string, id?: string | number): string {
-  const isKurti = (original || '').toLowerCase().includes('kurti') || (categorySlug || '').includes('clothing');
-  if (!isKurti) return original;
-  return generateIndianKurtiName(id ?? original);
+  // Always return the original title as we now have proper Indian names in the data
+  return original;
 }
 
 

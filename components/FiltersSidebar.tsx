@@ -277,12 +277,60 @@ export default function FiltersSidebar({
               <input
                 type="radio"
                 name="subcategory"
-                checked={selectedFilters.subcategory === 'aawari-kurti-collection'}
-                onChange={() => updateFilters({ subcategory: 'aawari-kurti-collection' })}
+                checked={selectedFilters.subcategory === 'cord-set-top-bottom'}
+                onChange={() => updateFilters({ subcategory: 'cord-set-top-bottom' })}
                 className="w-4 h-4 text-saffron focus:ring-saffron border-gray-300"
               />
               <span className="text-sm text-earth-brown group-hover:text-saffron transition-colors">
-                Aawari Kurti Collection
+                Cord Set (Top & Bottom)
+              </span>
+            </label>
+            <label className="flex items-center gap-3 cursor-pointer group">
+              <input
+                type="radio"
+                name="subcategory"
+                checked={selectedFilters.subcategory === 'crop-top-women'}
+                onChange={() => updateFilters({ subcategory: 'crop-top-women' })}
+                className="w-4 h-4 text-saffron focus:ring-saffron border-gray-300"
+              />
+              <span className="text-sm text-earth-brown group-hover:text-saffron transition-colors">
+                Crop Top for Women
+              </span>
+            </label>
+            <label className="flex items-center gap-3 cursor-pointer group">
+              <input
+                type="radio"
+                name="subcategory"
+                checked={selectedFilters.subcategory === 'gopi-geet-sarees'}
+                onChange={() => updateFilters({ subcategory: 'gopi-geet-sarees' })}
+                className="w-4 h-4 text-saffron focus:ring-saffron border-gray-300"
+              />
+              <span className="text-sm text-earth-brown group-hover:text-saffron transition-colors">
+                Gopi Geet Sarees
+              </span>
+            </label>
+            <label className="flex items-center gap-3 cursor-pointer group">
+              <input
+                type="radio"
+                name="subcategory"
+                checked={selectedFilters.subcategory === 'anarkali'}
+                onChange={() => updateFilters({ subcategory: 'anarkali' })}
+                className="w-4 h-4 text-saffron focus:ring-saffron border-gray-300"
+              />
+              <span className="text-sm text-earth-brown group-hover:text-saffron transition-colors">
+                Anarkali
+              </span>
+            </label>
+            <label className="flex items-center gap-3 cursor-pointer group">
+              <input
+                type="radio"
+                name="subcategory"
+                checked={selectedFilters.subcategory === 'kaftan'}
+                onChange={() => updateFilters({ subcategory: 'kaftan' })}
+                className="w-4 h-4 text-saffron focus:ring-saffron border-gray-300"
+              />
+              <span className="text-sm text-earth-brown group-hover:text-saffron transition-colors">
+                Kaftan
               </span>
             </label>
           </div>

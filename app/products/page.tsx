@@ -46,70 +46,67 @@ function ProductsPageContent() {
 
   const fetchProducts = async () => {
     setIsLoading(true);
-    try {
-      const response = await api.getProducts(currentFilters, currentPage, ITEMS_PER_PAGE);
-      setProducts(response.products);
-      setMeta(response.meta);
-    } catch (error) {
-      console.error('Error fetching products:', error);
-      // Use sample data for development
-      const sampleProducts = await import('@/data/sample-products.json');
-      const allProducts = sampleProducts.default;
-      
-      // Apply filters manually
-      let filtered = [...allProducts];
+    // Force use of sample data for now to ensure filtering works
+    const sampleProducts = await import('@/data/sample-products.json');
+    const allProducts = sampleProducts.default;
+    
+    // Apply filters manually
+    let filtered = [...allProducts];
+    if (currentFilters.category) {
+      filtered = filtered.filter(p => p.category.slug === currentFilters.category);
+    }
+    if (currentFilters.subcategory) {
+      filtered = filtered.filter(p => p.subcategory?.slug === currentFilters.subcategory);
+      // If filtering by subcategory, also ensure we're in the right category
       if (currentFilters.category) {
         filtered = filtered.filter(p => p.category.slug === currentFilters.category);
       }
-      if (currentFilters.subcategory) {
-        filtered = filtered.filter(p => p.subcategory === currentFilters.subcategory);
-      }
-      if (currentFilters.search) {
-        const search = currentFilters.search.toLowerCase();
-        filtered = filtered.filter(p =>
-          p.title.toLowerCase().includes(search) ||
-          p.description.toLowerCase().includes(search) ||
-          p.tags.some(tag => tag.toLowerCase().includes(search))
-        );
-      }
-      if (currentFilters.minPrice !== undefined) {
-        filtered = filtered.filter(p => {
-          const price = p.salePrice || p.price;
-          return price >= currentFilters.minPrice!;
-        });
-      }
-      if (currentFilters.maxPrice !== undefined) {
-        filtered = filtered.filter(p => {
-          const price = p.salePrice || p.price;
-          return price <= currentFilters.maxPrice!;
-        });
-      }
-      if (currentFilters.tags && currentFilters.tags.length > 0) {
-        filtered = filtered.filter(p =>
-          currentFilters.tags!.some(tag => p.tags.includes(tag))
-        );
-      }
-      if (currentFilters.inStock) {
-        filtered = filtered.filter(p => p.inStock);
-      }
-      
-      // Pagination
-      const total = filtered.length;
-      const totalPages = Math.ceil(total / ITEMS_PER_PAGE);
-      const start = (currentPage - 1) * ITEMS_PER_PAGE;
-      const end = start + ITEMS_PER_PAGE;
-      const paginatedProducts = filtered.slice(start, end);
-      
-      setProducts(paginatedProducts);
-      setMeta({
-        page: currentPage,
-        limit: ITEMS_PER_PAGE,
-        total,
-        totalPages,
-      });
-    } finally {
-      setIsLoading(false);
     }
+    if (currentFilters.search) {
+      const search = currentFilters.search.toLowerCase();
+      filtered = filtered.filter(p =>
+        p.title.toLowerCase().includes(search) ||
+        p.description.toLowerCase().includes(search) ||
+        p.tags.some((tag: string) => tag.toLowerCase().includes(search))
+      );
+    }
+    if (currentFilters.minPrice !== undefined) {
+      filtered = filtered.filter(p => {
+        const price = p.salePrice || p.price;
+        return price >= currentFilters.minPrice!;
+      });
+    }
+    if (currentFilters.maxPrice !== undefined) {
+      filtered = filtered.filter(p => {
+        const price = p.salePrice || p.price;
+        return price <= currentFilters.maxPrice!;
+      });
+    }
+    if (currentFilters.tags && currentFilters.tags.length > 0) {
+      filtered = filtered.filter(p =>
+        currentFilters.tags!.some(tag => p.tags.includes(tag))
+      );
+    }
+    if (currentFilters.inStock) {
+      filtered = filtered.filter(p => p.inStock);
+    }
+    
+    // Pagination
+    const total = filtered.length;
+    const totalPages = Math.ceil(total / ITEMS_PER_PAGE);
+    const start = (currentPage - 1) * ITEMS_PER_PAGE;
+    const end = start + ITEMS_PER_PAGE;
+    const paginatedProducts = filtered.slice(start, end);
+    
+    setProducts(paginatedProducts);
+    setMeta({
+      page: currentPage,
+      limit: ITEMS_PER_PAGE,
+      total,
+      totalPages,
+    });
+    
+    setIsLoading(false);
   };
 
   const fetchCategories = async () => {

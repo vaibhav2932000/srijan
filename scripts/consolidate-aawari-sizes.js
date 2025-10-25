@@ -103,3 +103,9 @@ Object.entries(groupedProducts).slice(0, 3).forEach(([baseSku, variants]) => {
     console.log(`   - ${baseSku}: ${sizes.join(', ')} (${variants.length} variants → 1 product)`);
   }
 });
+
+
+
+
+
+

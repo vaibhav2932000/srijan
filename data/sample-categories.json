@@ -13,7 +13,49 @@
     "slug": "clothing",
     "description": "Traditional and contemporary Indian wear",
     "image": "https://images.unsplash.com/photo-1583391733956-6c78276477e5?w=600&q=80",
-    "icon": "👘"
+    "icon": "👘",
+    "subcategories": [
+      {
+        "id": "subcat-1",
+        "name": "Cord Set (Top & Bottom)",
+        "slug": "cord-set-top-bottom",
+        "description": "Coordinated top and bottom sets",
+        "image": "https://images.unsplash.com/photo-1594633312681-425c7b97ccd1?w=600&q=80",
+        "icon": "👗"
+      },
+      {
+        "id": "subcat-crop-top-women",
+        "name": "Crop Top for Women",
+        "slug": "crop-top-women",
+        "description": "Stylish crop tops for women",
+        "image": "https://images.unsplash.com/photo-1594633312681-425c7b97ccd1?w=600&q=80",
+        "icon": "👚"
+      },
+      {
+        "id": "subcat-gopi-geet-sarees",
+        "name": "Gopi Geet Sarees",
+        "slug": "gopi-geet-sarees",
+        "description": "Traditional Banarasi silk sarees with intricate designs",
+        "image": "https://images.unsplash.com/photo-1594633312681-425c7b97ccd1?w=600&q=80",
+        "icon": "👗"
+      },
+      {
+        "id": "subcat-anarkali",
+        "name": "Anarkali",
+        "slug": "anarkali",
+        "description": "Traditional Anarkali kurti sets with pant and dupatta",
+        "image": "https://images.unsplash.com/photo-1594633312681-425c7b97ccd1?w=600&q=80",
+        "icon": "👗"
+      },
+      {
+        "id": "subcat-kaftan",
+        "name": "Kaftan",
+        "slug": "kaftan",
+        "description": "Comfortable cotton kaftan dresses for casual and beach wear",
+        "image": "https://images.unsplash.com/photo-1594633312681-425c7b97ccd1?w=600&q=80",
+        "icon": "👗"
+      }
+    ]
   },
   {
     "id": "cat-3",

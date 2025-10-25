@@ -20,7 +20,11 @@ export interface Product {
   images: ProductImage[];
   thumbnail?: string;
   category: Category;
-  subcategory?: string;
+  subcategory?: {
+    id: string;
+    name: string;
+    slug: string;
+  };
   tags: string[];
   materials?: string;
   dimensions?: string;

@@ -65,3 +65,9 @@ console.log(`📝 Sample categories:`);
 aawariProducts.slice(0, 3).forEach(product => {
   console.log(`   - ${product.sku}: ${product.category.name} > ${product.subcategory}`);
 });
+
+
+
+
+
+
