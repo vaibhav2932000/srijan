@@ -12048,7 +12048,21 @@
       "bedding"
     ],
     "createdAt": "2025-10-12T12:49:52.892Z",
-    "updatedAt": "2025-10-12T12:49:52.893Z"
+    "updatedAt": "2025-10-12T12:49:52.893Z",
+    "materials": "Cotton",
+    "dimensions": "Standard bedsheet dimensions",
+    "careInstructions": "Machine washable",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ],
+    "attributes": [],
+    "weight": "Lightweight",
+    "material": "Cotton"
   },
   {
     "id": "product-188",
@@ -12085,7 +12099,21 @@
       "bedding"
     ],
     "createdAt": "2025-10-12T12:49:52.893Z",
-    "updatedAt": "2025-10-12T12:49:52.893Z"
+    "updatedAt": "2025-10-12T12:49:52.893Z",
+    "materials": "Cotton",
+    "dimensions": "Standard bedsheet dimensions",
+    "careInstructions": "Machine washable",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ],
+    "attributes": [],
+    "weight": "Lightweight",
+    "material": "Cotton"
   },
   {
     "id": "product-189",
@@ -12122,7 +12150,21 @@
       "eco-friendly"
     ],
     "createdAt": "2025-10-12T12:49:52.893Z",
-    "updatedAt": "2025-10-12T12:49:52.893Z"
+    "updatedAt": "2025-10-12T12:49:52.893Z",
+    "materials": "Cotton",
+    "dimensions": "Standard bedsheet dimensions",
+    "careInstructions": "Machine washable",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ],
+    "attributes": [],
+    "weight": "Lightweight",
+    "material": "Cotton"
   },
   {
     "id": "product-190",
@@ -44324,7 +44366,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.310Z",
-    "updatedAt": "2025-10-25T19:57:47.312Z"
+    "updatedAt": "2025-10-25T19:57:47.312Z",
+    "stock": 10,
+    "shortDescription": "Bring home the essence of Rajasthan with this beautifully crafted Rajasthani Traditionally Printed C...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -44376,7 +44429,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.312Z",
-    "updatedAt": "2025-10-25T19:57:47.312Z"
+    "updatedAt": "2025-10-25T19:57:47.312Z",
+    "stock": 10,
+    "shortDescription": "Bring home the essence of Rajasthan with this beautifully crafted Rajasthani Traditionally Printed C...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -44434,7 +44498,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.313Z",
-    "updatedAt": "2025-10-25T19:57:47.313Z"
+    "updatedAt": "2025-10-25T19:57:47.313Z",
+    "stock": 10,
+    "shortDescription": "Bring home the essence of Rajasthan with this beautifully crafted Rajasthani Traditionally Printed C...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -44498,7 +44573,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.313Z",
-    "updatedAt": "2025-10-25T19:57:47.313Z"
+    "updatedAt": "2025-10-25T19:57:47.313Z",
+    "stock": 10,
+    "shortDescription": "Bring home the essence of Rajasthan with this beautifully crafted Rajasthani Traditionally Printed C...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -44556,7 +44642,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.313Z",
-    "updatedAt": "2025-10-25T19:57:47.313Z"
+    "updatedAt": "2025-10-25T19:57:47.313Z",
+    "stock": 10,
+    "shortDescription": "Bring home the essence of Rajasthan with this beautifully crafted Rajasthani Traditionally Printed C...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -44614,7 +44711,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.313Z",
-    "updatedAt": "2025-10-25T19:57:47.313Z"
+    "updatedAt": "2025-10-25T19:57:47.313Z",
+    "stock": 10,
+    "shortDescription": "Bring home the essence of Rajasthan with this beautifully crafted Rajasthani Traditionally Printed C...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -44672,7 +44780,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.313Z",
-    "updatedAt": "2025-10-25T19:57:47.313Z"
+    "updatedAt": "2025-10-25T19:57:47.313Z",
+    "stock": 10,
+    "shortDescription": "Bring home the essence of Rajasthan with this beautifully crafted Rajasthani Traditionally Printed C...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -44724,7 +44843,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.313Z",
-    "updatedAt": "2025-10-25T19:57:47.313Z"
+    "updatedAt": "2025-10-25T19:57:47.313Z",
+    "stock": 10,
+    "shortDescription": "Bring home the essence of Rajasthan with this beautifully crafted Rajasthani Traditionally Printed C...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -44776,7 +44906,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.313Z",
-    "updatedAt": "2025-10-25T19:57:47.313Z"
+    "updatedAt": "2025-10-25T19:57:47.313Z",
+    "stock": 10,
+    "shortDescription": "Bring home the essence of Rajasthan with this beautifully crafted Rajasthani Traditionally Printed C...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -44828,7 +44969,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.314Z",
-    "updatedAt": "2025-10-25T19:57:47.314Z"
+    "updatedAt": "2025-10-25T19:57:47.314Z",
+    "stock": 10,
+    "shortDescription": "Bring home the essence of Rajasthan with this beautifully crafted Rajasthani Traditionally Printed C...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -44880,7 +45032,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.314Z",
-    "updatedAt": "2025-10-25T19:57:47.314Z"
+    "updatedAt": "2025-10-25T19:57:47.314Z",
+    "stock": 10,
+    "shortDescription": "Bring home the essence of Rajasthan with this beautifully crafted Rajasthani Traditionally Printed C...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -44944,7 +45107,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.314Z",
-    "updatedAt": "2025-10-25T19:57:47.314Z"
+    "updatedAt": "2025-10-25T19:57:47.314Z",
+    "stock": 10,
+    "shortDescription": "Bring home the essence of Rajasthan with this beautifully crafted Rajasthani Traditionally Printed C...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -45008,7 +45182,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.314Z",
-    "updatedAt": "2025-10-25T19:57:47.314Z"
+    "updatedAt": "2025-10-25T19:57:47.314Z",
+    "stock": 10,
+    "shortDescription": "Bring home the essence of Rajasthan with this beautifully crafted Rajasthani Traditionally Printed C...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -45078,7 +45263,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.315Z",
-    "updatedAt": "2025-10-25T19:57:47.315Z"
+    "updatedAt": "2025-10-25T19:57:47.315Z",
+    "stock": 10,
+    "shortDescription": "Bring home the essence of Rajasthan with this beautifully crafted Rajasthani Traditionally Printed C...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -45148,7 +45344,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.315Z",
-    "updatedAt": "2025-10-25T19:57:47.315Z"
+    "updatedAt": "2025-10-25T19:57:47.315Z",
+    "stock": 10,
+    "shortDescription": "Bring home the essence of Rajasthan with this beautifully crafted Rajasthani Traditionally Printed C...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -45218,7 +45425,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.315Z",
-    "updatedAt": "2025-10-25T19:57:47.315Z"
+    "updatedAt": "2025-10-25T19:57:47.315Z",
+    "stock": 10,
+    "shortDescription": "Bring home the essence of Rajasthan with this beautifully crafted Rajasthani Traditionally Printed C...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -45288,7 +45506,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.315Z",
-    "updatedAt": "2025-10-25T19:57:47.315Z"
+    "updatedAt": "2025-10-25T19:57:47.315Z",
+    "stock": 10,
+    "shortDescription": "Bring home the essence of Rajasthan with this beautifully crafted Rajasthani Traditionally Printed C...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -45358,7 +45587,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.315Z",
-    "updatedAt": "2025-10-25T19:57:47.315Z"
+    "updatedAt": "2025-10-25T19:57:47.315Z",
+    "stock": 10,
+    "shortDescription": "Bring home the essence of Rajasthan with this beautifully crafted Rajasthani Traditionally Printed C...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -45416,7 +45656,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.315Z",
-    "updatedAt": "2025-10-25T19:57:47.315Z"
+    "updatedAt": "2025-10-25T19:57:47.315Z",
+    "stock": 10,
+    "shortDescription": "Bring home the essence of Rajasthan with this beautifully crafted Rajasthani Traditionally Printed C...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -45480,7 +45731,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.315Z",
-    "updatedAt": "2025-10-25T19:57:47.315Z"
+    "updatedAt": "2025-10-25T19:57:47.315Z",
+    "stock": 10,
+    "shortDescription": "Bring home the essence of Rajasthan with this beautifully crafted Rajasthani Traditionally Printed C...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -45544,7 +45806,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.315Z",
-    "updatedAt": "2025-10-25T19:57:47.316Z"
+    "updatedAt": "2025-10-25T19:57:47.316Z",
+    "stock": 10,
+    "shortDescription": "Bring home the essence of Rajasthan with this beautifully crafted Rajasthani Traditionally Printed C...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -45614,7 +45887,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.316Z",
-    "updatedAt": "2025-10-25T19:57:47.316Z"
+    "updatedAt": "2025-10-25T19:57:47.316Z",
+    "stock": 10,
+    "shortDescription": "Bring home the essence of Rajasthan with this beautifully crafted Rajasthani Traditionally Printed C...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -45684,7 +45968,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.316Z",
-    "updatedAt": "2025-10-25T19:57:47.316Z"
+    "updatedAt": "2025-10-25T19:57:47.316Z",
+    "stock": 10,
+    "shortDescription": "Bring home the essence of Rajasthan with this beautifully crafted Rajasthani Traditionally Printed C...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -45754,7 +46049,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.316Z",
-    "updatedAt": "2025-10-25T19:57:47.316Z"
+    "updatedAt": "2025-10-25T19:57:47.316Z",
+    "stock": 10,
+    "shortDescription": "Bring home the essence of Rajasthan with this beautifully crafted Rajasthani Traditionally Printed C...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -45824,7 +46130,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.316Z",
-    "updatedAt": "2025-10-25T19:57:47.316Z"
+    "updatedAt": "2025-10-25T19:57:47.316Z",
+    "stock": 10,
+    "shortDescription": "Bring home the essence of Rajasthan with this beautifully crafted Rajasthani Traditionally Printed C...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -45894,7 +46211,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.316Z",
-    "updatedAt": "2025-10-25T19:57:47.316Z"
+    "updatedAt": "2025-10-25T19:57:47.316Z",
+    "stock": 10,
+    "shortDescription": "Bring home the essence of Rajasthan with this beautifully crafted Rajasthani Traditionally Printed C...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -45964,7 +46292,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.316Z",
-    "updatedAt": "2025-10-25T19:57:47.316Z"
+    "updatedAt": "2025-10-25T19:57:47.316Z",
+    "stock": 10,
+    "shortDescription": "Bring home the essence of Rajasthan with this beautifully crafted Rajasthani Traditionally Printed C...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -46034,7 +46373,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.316Z",
-    "updatedAt": "2025-10-25T19:57:47.316Z"
+    "updatedAt": "2025-10-25T19:57:47.316Z",
+    "stock": 10,
+    "shortDescription": "Bring home the essence of Rajasthan with this beautifully crafted Rajasthani Traditionally Printed C...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -46098,7 +46448,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.316Z",
-    "updatedAt": "2025-10-25T19:57:47.316Z"
+    "updatedAt": "2025-10-25T19:57:47.316Z",
+    "stock": 10,
+    "shortDescription": "Bring home the essence of Rajasthan with this beautifully crafted Rajasthani Traditionally Printed C...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -46162,7 +46523,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.316Z",
-    "updatedAt": "2025-10-25T19:57:47.316Z"
+    "updatedAt": "2025-10-25T19:57:47.316Z",
+    "stock": 10,
+    "shortDescription": "Bring home the essence of Rajasthan with this beautifully crafted Rajasthani Traditionally Printed C...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -46226,7 +46598,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.316Z",
-    "updatedAt": "2025-10-25T19:57:47.316Z"
+    "updatedAt": "2025-10-25T19:57:47.316Z",
+    "stock": 10,
+    "shortDescription": "Bring home the essence of Rajasthan with this beautifully crafted Rajasthani Traditionally Printed C...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -46296,7 +46679,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.316Z",
-    "updatedAt": "2025-10-25T19:57:47.316Z"
+    "updatedAt": "2025-10-25T19:57:47.316Z",
+    "stock": 10,
+    "shortDescription": "Bring home the essence of Rajasthan with this beautifully crafted Rajasthani Traditionally Printed C...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -46366,7 +46760,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.317Z",
-    "updatedAt": "2025-10-25T19:57:47.317Z"
+    "updatedAt": "2025-10-25T19:57:47.317Z",
+    "stock": 10,
+    "shortDescription": "Bring home the essence of Rajasthan with this beautifully crafted Rajasthani Traditionally Printed C...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -46436,7 +46841,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.317Z",
-    "updatedAt": "2025-10-25T19:57:47.317Z"
+    "updatedAt": "2025-10-25T19:57:47.317Z",
+    "stock": 10,
+    "shortDescription": "Bring home the essence of Rajasthan with this beautifully crafted Rajasthani Traditionally Printed C...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -46506,7 +46922,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.317Z",
-    "updatedAt": "2025-10-25T19:57:47.317Z"
+    "updatedAt": "2025-10-25T19:57:47.317Z",
+    "stock": 10,
+    "shortDescription": "Bring home the essence of Rajasthan with this beautifully crafted Rajasthani Traditionally Printed C...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -46576,7 +47003,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.317Z",
-    "updatedAt": "2025-10-25T19:57:47.317Z"
+    "updatedAt": "2025-10-25T19:57:47.317Z",
+    "stock": 10,
+    "shortDescription": "Bring home the essence of Rajasthan with this beautifully crafted Rajasthani Traditionally Printed C...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -46646,7 +47084,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.317Z",
-    "updatedAt": "2025-10-25T19:57:47.317Z"
+    "updatedAt": "2025-10-25T19:57:47.317Z",
+    "stock": 10,
+    "shortDescription": "Bring home the essence of Rajasthan with this beautifully crafted Rajasthani Traditionally Printed C...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -46716,7 +47165,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.317Z",
-    "updatedAt": "2025-10-25T19:57:47.317Z"
+    "updatedAt": "2025-10-25T19:57:47.317Z",
+    "stock": 10,
+    "shortDescription": "Bring home the essence of Rajasthan with this beautifully crafted Rajasthani Traditionally Printed C...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -46786,7 +47246,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.318Z",
-    "updatedAt": "2025-10-25T19:57:47.318Z"
+    "updatedAt": "2025-10-25T19:57:47.318Z",
+    "stock": 10,
+    "shortDescription": "Bring home the essence of Rajasthan with this beautifully crafted Rajasthani Traditionally Printed C...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -46856,7 +47327,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.318Z",
-    "updatedAt": "2025-10-25T19:57:47.318Z"
+    "updatedAt": "2025-10-25T19:57:47.318Z",
+    "stock": 10,
+    "shortDescription": "Bring home the essence of Rajasthan with this beautifully crafted Rajasthani Traditionally Printed C...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -46926,7 +47408,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.318Z",
-    "updatedAt": "2025-10-25T19:57:47.318Z"
+    "updatedAt": "2025-10-25T19:57:47.318Z",
+    "stock": 10,
+    "shortDescription": "Bring home the essence of Rajasthan with this beautifully crafted Rajasthani Traditionally Printed C...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -46996,7 +47489,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.318Z",
-    "updatedAt": "2025-10-25T19:57:47.318Z"
+    "updatedAt": "2025-10-25T19:57:47.318Z",
+    "stock": 10,
+    "shortDescription": "Bring home the essence of Rajasthan with this beautifully crafted Rajasthani Traditionally Printed C...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -47066,7 +47570,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.318Z",
-    "updatedAt": "2025-10-25T19:57:47.318Z"
+    "updatedAt": "2025-10-25T19:57:47.318Z",
+    "stock": 10,
+    "shortDescription": "Bring home the essence of Rajasthan with this beautifully crafted Rajasthani Traditionally Printed C...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -47136,7 +47651,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.318Z",
-    "updatedAt": "2025-10-25T19:57:47.318Z"
+    "updatedAt": "2025-10-25T19:57:47.318Z",
+    "stock": 10,
+    "shortDescription": "Bring home the essence of Rajasthan with this beautifully crafted Rajasthani Traditionally Printed C...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -47206,7 +47732,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.318Z",
-    "updatedAt": "2025-10-25T19:57:47.318Z"
+    "updatedAt": "2025-10-25T19:57:47.318Z",
+    "stock": 10,
+    "shortDescription": "Bring home the essence of Rajasthan with this beautifully crafted Rajasthani Traditionally Printed C...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -47276,7 +47813,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.318Z",
-    "updatedAt": "2025-10-25T19:57:47.318Z"
+    "updatedAt": "2025-10-25T19:57:47.318Z",
+    "stock": 10,
+    "shortDescription": "Bring home the essence of Rajasthan with this beautifully crafted Rajasthani Traditionally Printed C...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -47340,7 +47888,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.318Z",
-    "updatedAt": "2025-10-25T19:57:47.318Z"
+    "updatedAt": "2025-10-25T19:57:47.318Z",
+    "stock": 10,
+    "shortDescription": "Bring home the essence of Rajasthan with this beautifully crafted Rajasthani Traditionally Printed C...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -47404,7 +47963,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.318Z",
-    "updatedAt": "2025-10-25T19:57:47.318Z"
+    "updatedAt": "2025-10-25T19:57:47.318Z",
+    "stock": 10,
+    "shortDescription": "Bring home the essence of Rajasthan with this beautifully crafted Rajasthani Traditionally Printed C...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -47468,7 +48038,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.318Z",
-    "updatedAt": "2025-10-25T19:57:47.318Z"
+    "updatedAt": "2025-10-25T19:57:47.318Z",
+    "stock": 10,
+    "shortDescription": "Bring home the essence of Rajasthan with this beautifully crafted Rajasthani Traditionally Printed C...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -47526,7 +48107,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.319Z",
-    "updatedAt": "2025-10-25T19:57:47.319Z"
+    "updatedAt": "2025-10-25T19:57:47.319Z",
+    "stock": 10,
+    "shortDescription": "Bring home the essence of Rajasthan with this beautifully crafted Rajasthani Traditionally Printed C...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -47590,7 +48182,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.319Z",
-    "updatedAt": "2025-10-25T19:57:47.319Z"
+    "updatedAt": "2025-10-25T19:57:47.319Z",
+    "stock": 10,
+    "shortDescription": "Bring home the essence of Rajasthan with this beautifully crafted Rajasthani Traditionally Printed C...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -47654,7 +48257,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.319Z",
-    "updatedAt": "2025-10-25T19:57:47.319Z"
+    "updatedAt": "2025-10-25T19:57:47.319Z",
+    "stock": 10,
+    "shortDescription": "Bring home the essence of Rajasthan with this beautifully crafted Rajasthani Traditionally Printed C...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -47718,7 +48332,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.319Z",
-    "updatedAt": "2025-10-25T19:57:47.319Z"
+    "updatedAt": "2025-10-25T19:57:47.319Z",
+    "stock": 10,
+    "shortDescription": "Bring home the essence of Rajasthan with this beautifully crafted Rajasthani Traditionally Printed C...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -47782,7 +48407,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.319Z",
-    "updatedAt": "2025-10-25T19:57:47.319Z"
+    "updatedAt": "2025-10-25T19:57:47.319Z",
+    "stock": 10,
+    "shortDescription": "Bring home the essence of Rajasthan with this beautifully crafted Rajasthani Traditionally Printed C...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -47846,7 +48482,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.319Z",
-    "updatedAt": "2025-10-25T19:57:47.319Z"
+    "updatedAt": "2025-10-25T19:57:47.319Z",
+    "stock": 10,
+    "shortDescription": "Bring home the essence of Rajasthan with this beautifully crafted Rajasthani Traditionally Printed C...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -47910,7 +48557,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.319Z",
-    "updatedAt": "2025-10-25T19:57:47.319Z"
+    "updatedAt": "2025-10-25T19:57:47.319Z",
+    "stock": 10,
+    "shortDescription": "Bring home the essence of Rajasthan with this beautifully crafted Rajasthani Traditionally Printed C...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -47974,7 +48632,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.319Z",
-    "updatedAt": "2025-10-25T19:57:47.319Z"
+    "updatedAt": "2025-10-25T19:57:47.319Z",
+    "stock": 10,
+    "shortDescription": "Bring home the essence of Rajasthan with this beautifully crafted Rajasthani Traditionally Printed C...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -48038,7 +48707,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.319Z",
-    "updatedAt": "2025-10-25T19:57:47.319Z"
+    "updatedAt": "2025-10-25T19:57:47.319Z",
+    "stock": 10,
+    "shortDescription": "Bring home the essence of Rajasthan with this beautifully crafted Rajasthani Traditionally Printed C...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -48096,7 +48776,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.319Z",
-    "updatedAt": "2025-10-25T19:57:47.319Z"
+    "updatedAt": "2025-10-25T19:57:47.319Z",
+    "stock": 10,
+    "shortDescription": "Bring home the essence of Rajasthan with this beautifully crafted Rajasthani Traditionally Printed C...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -48154,7 +48845,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.319Z",
-    "updatedAt": "2025-10-25T19:57:47.319Z"
+    "updatedAt": "2025-10-25T19:57:47.319Z",
+    "stock": 10,
+    "shortDescription": "Bring home the essence of Rajasthan with this beautifully crafted Rajasthani Traditionally Printed C...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -48212,7 +48914,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.319Z",
-    "updatedAt": "2025-10-25T19:57:47.319Z"
+    "updatedAt": "2025-10-25T19:57:47.319Z",
+    "stock": 10,
+    "shortDescription": "Bring home the essence of Rajasthan with this beautifully crafted Rajasthani Traditionally Printed C...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -48276,7 +48989,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.319Z",
-    "updatedAt": "2025-10-25T19:57:47.319Z"
+    "updatedAt": "2025-10-25T19:57:47.319Z",
+    "stock": 10,
+    "shortDescription": "Bring home the essence of Rajasthan with this beautifully crafted Rajasthani Traditionally Printed C...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -48340,7 +49064,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.319Z",
-    "updatedAt": "2025-10-25T19:57:47.319Z"
+    "updatedAt": "2025-10-25T19:57:47.319Z",
+    "stock": 10,
+    "shortDescription": "Bring home the essence of Rajasthan with this beautifully crafted Rajasthani Traditionally Printed C...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -48404,7 +49139,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.319Z",
-    "updatedAt": "2025-10-25T19:57:47.319Z"
+    "updatedAt": "2025-10-25T19:57:47.319Z",
+    "stock": 10,
+    "shortDescription": "Bring home the essence of Rajasthan with this beautifully crafted Rajasthani Traditionally Printed C...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -48474,7 +49220,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.319Z",
-    "updatedAt": "2025-10-25T19:57:47.319Z"
+    "updatedAt": "2025-10-25T19:57:47.319Z",
+    "stock": 10,
+    "shortDescription": "Bring home the essence of Rajasthan with this beautifully crafted Rajasthani Traditionally Printed C...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -48538,7 +49295,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.319Z",
-    "updatedAt": "2025-10-25T19:57:47.319Z"
+    "updatedAt": "2025-10-25T19:57:47.319Z",
+    "stock": 10,
+    "shortDescription": "Bring home the essence of Rajasthan with this beautifully crafted Rajasthani Traditionally Printed C...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -48596,7 +49364,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.321Z",
-    "updatedAt": "2025-10-25T19:57:47.321Z"
+    "updatedAt": "2025-10-25T19:57:47.321Z",
+    "stock": 10,
+    "shortDescription": "Give your bedroom a royal Rajasthani touch with this Jaipuri Cotton Printed Double Bedsheet. Featuri...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -48654,7 +49433,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.321Z",
-    "updatedAt": "2025-10-25T19:57:47.321Z"
+    "updatedAt": "2025-10-25T19:57:47.321Z",
+    "stock": 10,
+    "shortDescription": "Give your bedroom a royal Rajasthani touch with this Jaipuri Cotton Printed Double Bedsheet. Featuri...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -48712,7 +49502,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.321Z",
-    "updatedAt": "2025-10-25T19:57:47.321Z"
+    "updatedAt": "2025-10-25T19:57:47.321Z",
+    "stock": 10,
+    "shortDescription": "Give your bedroom a royal Rajasthani touch with this Jaipuri Cotton Printed Double Bedsheet. Featuri...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -48776,7 +49577,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.321Z",
-    "updatedAt": "2025-10-25T19:57:47.321Z"
+    "updatedAt": "2025-10-25T19:57:47.321Z",
+    "stock": 10,
+    "shortDescription": "Give your bedroom a royal Rajasthani touch with this Jaipuri Cotton Printed Double Bedsheet. Featuri...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -48840,7 +49652,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.321Z",
-    "updatedAt": "2025-10-25T19:57:47.321Z"
+    "updatedAt": "2025-10-25T19:57:47.321Z",
+    "stock": 10,
+    "shortDescription": "Give your bedroom a royal Rajasthani touch with this Jaipuri Cotton Printed Double Bedsheet. Featuri...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -48904,7 +49727,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.322Z",
-    "updatedAt": "2025-10-25T19:57:47.322Z"
+    "updatedAt": "2025-10-25T19:57:47.322Z",
+    "stock": 10,
+    "shortDescription": "Give your bedroom a royal Rajasthani touch with this Jaipuri Cotton Printed Double Bedsheet. Featuri...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -48962,7 +49796,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.322Z",
-    "updatedAt": "2025-10-25T19:57:47.322Z"
+    "updatedAt": "2025-10-25T19:57:47.322Z",
+    "stock": 10,
+    "shortDescription": "Give your bedroom a royal Rajasthani touch with this Jaipuri Cotton Printed Double Bedsheet. Featuri...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -49014,7 +49859,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.322Z",
-    "updatedAt": "2025-10-25T19:57:47.322Z"
+    "updatedAt": "2025-10-25T19:57:47.322Z",
+    "stock": 10,
+    "shortDescription": "Give your bedroom a royal Rajasthani touch with this Jaipuri Cotton Printed Double Bedsheet. Featuri...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -49078,7 +49934,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.322Z",
-    "updatedAt": "2025-10-25T19:57:47.322Z"
+    "updatedAt": "2025-10-25T19:57:47.322Z",
+    "stock": 10,
+    "shortDescription": "Give your bedroom a royal Rajasthani touch with this Jaipuri Cotton Printed Double Bedsheet. Featuri...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -49148,7 +50015,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.322Z",
-    "updatedAt": "2025-10-25T19:57:47.322Z"
+    "updatedAt": "2025-10-25T19:57:47.322Z",
+    "stock": 10,
+    "shortDescription": "Give your bedroom a royal Rajasthani touch with this Jaipuri Cotton Printed Double Bedsheet. Featuri...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -49212,7 +50090,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.322Z",
-    "updatedAt": "2025-10-25T19:57:47.322Z"
+    "updatedAt": "2025-10-25T19:57:47.322Z",
+    "stock": 10,
+    "shortDescription": "Give your bedroom a royal Rajasthani touch with this Jaipuri Cotton Printed Double Bedsheet. Featuri...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -49276,7 +50165,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.322Z",
-    "updatedAt": "2025-10-25T19:57:47.322Z"
+    "updatedAt": "2025-10-25T19:57:47.322Z",
+    "stock": 10,
+    "shortDescription": "Give your bedroom a royal Rajasthani touch with this Jaipuri Cotton Printed Double Bedsheet. Featuri...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -49340,7 +50240,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.322Z",
-    "updatedAt": "2025-10-25T19:57:47.322Z"
+    "updatedAt": "2025-10-25T19:57:47.322Z",
+    "stock": 10,
+    "shortDescription": "Give your bedroom a royal Rajasthani touch with this Jaipuri Cotton Printed Double Bedsheet. Featuri...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -49398,7 +50309,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.322Z",
-    "updatedAt": "2025-10-25T19:57:47.322Z"
+    "updatedAt": "2025-10-25T19:57:47.322Z",
+    "stock": 10,
+    "shortDescription": "Give your bedroom a royal Rajasthani touch with this Jaipuri Cotton Printed Double Bedsheet. Featuri...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -49456,7 +50378,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.322Z",
-    "updatedAt": "2025-10-25T19:57:47.322Z"
+    "updatedAt": "2025-10-25T19:57:47.322Z",
+    "stock": 10,
+    "shortDescription": "Give your bedroom a royal Rajasthani touch with this Jaipuri Cotton Printed Double Bedsheet. Featuri...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -49514,7 +50447,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.322Z",
-    "updatedAt": "2025-10-25T19:57:47.322Z"
+    "updatedAt": "2025-10-25T19:57:47.322Z",
+    "stock": 10,
+    "shortDescription": "Give your bedroom a royal Rajasthani touch with this Jaipuri Cotton Printed Double Bedsheet. Featuri...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -49572,7 +50516,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.322Z",
-    "updatedAt": "2025-10-25T19:57:47.322Z"
+    "updatedAt": "2025-10-25T19:57:47.322Z",
+    "stock": 10,
+    "shortDescription": "Give your bedroom a royal Rajasthani touch with this Jaipuri Cotton Printed Double Bedsheet. Featuri...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -49642,7 +50597,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.322Z",
-    "updatedAt": "2025-10-25T19:57:47.322Z"
+    "updatedAt": "2025-10-25T19:57:47.322Z",
+    "stock": 10,
+    "shortDescription": "Give your bedroom a royal Rajasthani touch with this Jaipuri Cotton Printed Double Bedsheet. Featuri...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -49712,7 +50678,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.322Z",
-    "updatedAt": "2025-10-25T19:57:47.322Z"
+    "updatedAt": "2025-10-25T19:57:47.322Z",
+    "stock": 10,
+    "shortDescription": "Give your bedroom a royal Rajasthani touch with this Jaipuri Cotton Printed Double Bedsheet. Featuri...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -49782,7 +50759,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.322Z",
-    "updatedAt": "2025-10-25T19:57:47.322Z"
+    "updatedAt": "2025-10-25T19:57:47.322Z",
+    "stock": 10,
+    "shortDescription": "Give your bedroom a royal Rajasthani touch with this Jaipuri Cotton Printed Double Bedsheet. Featuri...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -49852,7 +50840,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.322Z",
-    "updatedAt": "2025-10-25T19:57:47.322Z"
+    "updatedAt": "2025-10-25T19:57:47.322Z",
+    "stock": 10,
+    "shortDescription": "Give your bedroom a royal Rajasthani touch with this Jaipuri Cotton Printed Double Bedsheet. Featuri...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -49922,7 +50921,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.322Z",
-    "updatedAt": "2025-10-25T19:57:47.322Z"
+    "updatedAt": "2025-10-25T19:57:47.322Z",
+    "stock": 10,
+    "shortDescription": "Give your bedroom a royal Rajasthani touch with this Jaipuri Cotton Printed Double Bedsheet. Featuri...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -49992,7 +51002,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.322Z",
-    "updatedAt": "2025-10-25T19:57:47.322Z"
+    "updatedAt": "2025-10-25T19:57:47.322Z",
+    "stock": 10,
+    "shortDescription": "Give your bedroom a royal Rajasthani touch with this Jaipuri Cotton Printed Double Bedsheet. Featuri...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -50062,7 +51083,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.322Z",
-    "updatedAt": "2025-10-25T19:57:47.322Z"
+    "updatedAt": "2025-10-25T19:57:47.322Z",
+    "stock": 10,
+    "shortDescription": "Give your bedroom a royal Rajasthani touch with this Jaipuri Cotton Printed Double Bedsheet. Featuri...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -50126,7 +51158,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.322Z",
-    "updatedAt": "2025-10-25T19:57:47.322Z"
+    "updatedAt": "2025-10-25T19:57:47.322Z",
+    "stock": 10,
+    "shortDescription": "Give your bedroom a royal Rajasthani touch with this Jaipuri Cotton Printed Double Bedsheet. Featuri...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -50190,7 +51233,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.322Z",
-    "updatedAt": "2025-10-25T19:57:47.322Z"
+    "updatedAt": "2025-10-25T19:57:47.322Z",
+    "stock": 10,
+    "shortDescription": "Give your bedroom a royal Rajasthani touch with this Jaipuri Cotton Printed Double Bedsheet. Featuri...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -50254,7 +51308,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.322Z",
-    "updatedAt": "2025-10-25T19:57:47.322Z"
+    "updatedAt": "2025-10-25T19:57:47.322Z",
+    "stock": 10,
+    "shortDescription": "Give your bedroom a royal Rajasthani touch with this Jaipuri Cotton Printed Double Bedsheet. Featuri...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -50312,7 +51377,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.322Z",
-    "updatedAt": "2025-10-25T19:57:47.322Z"
+    "updatedAt": "2025-10-25T19:57:47.322Z",
+    "stock": 10,
+    "shortDescription": "Give your bedroom a royal Rajasthani touch with this Jaipuri Cotton Printed Double Bedsheet. Featuri...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -50370,7 +51446,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.322Z",
-    "updatedAt": "2025-10-25T19:57:47.322Z"
+    "updatedAt": "2025-10-25T19:57:47.322Z",
+    "stock": 10,
+    "shortDescription": "Give your bedroom a royal Rajasthani touch with this Jaipuri Cotton Printed Double Bedsheet. Featuri...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -50428,7 +51515,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.322Z",
-    "updatedAt": "2025-10-25T19:57:47.322Z"
+    "updatedAt": "2025-10-25T19:57:47.322Z",
+    "stock": 10,
+    "shortDescription": "Give your bedroom a royal Rajasthani touch with this Jaipuri Cotton Printed Double Bedsheet. Featuri...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -50492,7 +51590,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.322Z",
-    "updatedAt": "2025-10-25T19:57:47.322Z"
+    "updatedAt": "2025-10-25T19:57:47.322Z",
+    "stock": 10,
+    "shortDescription": "Give your bedroom a royal Rajasthani touch with this Jaipuri Cotton Printed Double Bedsheet. Featuri...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -50556,7 +51665,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.323Z",
-    "updatedAt": "2025-10-25T19:57:47.323Z"
+    "updatedAt": "2025-10-25T19:57:47.323Z",
+    "stock": 10,
+    "shortDescription": "Give your bedroom a royal Rajasthani touch with this Jaipuri Cotton Printed Double Bedsheet. Featuri...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -50620,7 +51740,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.323Z",
-    "updatedAt": "2025-10-25T19:57:47.323Z"
+    "updatedAt": "2025-10-25T19:57:47.323Z",
+    "stock": 10,
+    "shortDescription": "Give your bedroom a royal Rajasthani touch with this Jaipuri Cotton Printed Double Bedsheet. Featuri...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -50684,7 +51815,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.323Z",
-    "updatedAt": "2025-10-25T19:57:47.323Z"
+    "updatedAt": "2025-10-25T19:57:47.323Z",
+    "stock": 10,
+    "shortDescription": "Give your bedroom a royal Rajasthani touch with this Jaipuri Cotton Printed Double Bedsheet. Featuri...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -50748,7 +51890,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.323Z",
-    "updatedAt": "2025-10-25T19:57:47.323Z"
+    "updatedAt": "2025-10-25T19:57:47.323Z",
+    "stock": 10,
+    "shortDescription": "Give your bedroom a royal Rajasthani touch with this Jaipuri Cotton Printed Double Bedsheet. Featuri...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -50806,7 +51959,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.323Z",
-    "updatedAt": "2025-10-25T19:57:47.323Z"
+    "updatedAt": "2025-10-25T19:57:47.323Z",
+    "stock": 10,
+    "shortDescription": "Give your bedroom a royal Rajasthani touch with this Jaipuri Cotton Printed Double Bedsheet. Featuri...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -50864,7 +52028,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.323Z",
-    "updatedAt": "2025-10-25T19:57:47.323Z"
+    "updatedAt": "2025-10-25T19:57:47.323Z",
+    "stock": 10,
+    "shortDescription": "Give your bedroom a royal Rajasthani touch with this Jaipuri Cotton Printed Double Bedsheet. Featuri...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -50922,7 +52097,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.323Z",
-    "updatedAt": "2025-10-25T19:57:47.323Z"
+    "updatedAt": "2025-10-25T19:57:47.323Z",
+    "stock": 10,
+    "shortDescription": "Give your bedroom a royal Rajasthani touch with this Jaipuri Cotton Printed Double Bedsheet. Featuri...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -50980,7 +52166,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.323Z",
-    "updatedAt": "2025-10-25T19:57:47.323Z"
+    "updatedAt": "2025-10-25T19:57:47.323Z",
+    "stock": 10,
+    "shortDescription": "Give your bedroom a royal Rajasthani touch with this Jaipuri Cotton Printed Double Bedsheet. Featuri...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -51038,7 +52235,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.323Z",
-    "updatedAt": "2025-10-25T19:57:47.323Z"
+    "updatedAt": "2025-10-25T19:57:47.323Z",
+    "stock": 10,
+    "shortDescription": "Give your bedroom a royal Rajasthani touch with this Jaipuri Cotton Printed Double Bedsheet. Featuri...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -51102,7 +52310,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.323Z",
-    "updatedAt": "2025-10-25T19:57:47.323Z"
+    "updatedAt": "2025-10-25T19:57:47.323Z",
+    "stock": 10,
+    "shortDescription": "Give your bedroom a royal Rajasthani touch with this Jaipuri Cotton Printed Double Bedsheet. Featuri...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -51172,7 +52391,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.323Z",
-    "updatedAt": "2025-10-25T19:57:47.323Z"
+    "updatedAt": "2025-10-25T19:57:47.323Z",
+    "stock": 10,
+    "shortDescription": "Give your bedroom a royal Rajasthani touch with this Jaipuri Cotton Printed Double Bedsheet. Featuri...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -51242,7 +52472,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.323Z",
-    "updatedAt": "2025-10-25T19:57:47.323Z"
+    "updatedAt": "2025-10-25T19:57:47.323Z",
+    "stock": 10,
+    "shortDescription": "Give your bedroom a royal Rajasthani touch with this Jaipuri Cotton Printed Double Bedsheet. Featuri...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -51300,7 +52541,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.323Z",
-    "updatedAt": "2025-10-25T19:57:47.323Z"
+    "updatedAt": "2025-10-25T19:57:47.323Z",
+    "stock": 10,
+    "shortDescription": "Give your bedroom a royal Rajasthani touch with this Jaipuri Cotton Printed Double Bedsheet. Featuri...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -51358,7 +52610,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.323Z",
-    "updatedAt": "2025-10-25T19:57:47.323Z"
+    "updatedAt": "2025-10-25T19:57:47.323Z",
+    "stock": 10,
+    "shortDescription": "Give your bedroom a royal Rajasthani touch with this Jaipuri Cotton Printed Double Bedsheet. Featuri...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -51416,7 +52679,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.323Z",
-    "updatedAt": "2025-10-25T19:57:47.323Z"
+    "updatedAt": "2025-10-25T19:57:47.323Z",
+    "stock": 10,
+    "shortDescription": "Give your bedroom a royal Rajasthani touch with this Jaipuri Cotton Printed Double Bedsheet. Featuri...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -51474,7 +52748,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.323Z",
-    "updatedAt": "2025-10-25T19:57:47.323Z"
+    "updatedAt": "2025-10-25T19:57:47.323Z",
+    "stock": 10,
+    "shortDescription": "Give your bedroom a royal Rajasthani touch with this Jaipuri Cotton Printed Double Bedsheet. Featuri...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -51526,7 +52811,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.323Z",
-    "updatedAt": "2025-10-25T19:57:47.323Z"
+    "updatedAt": "2025-10-25T19:57:47.323Z",
+    "stock": 10,
+    "shortDescription": "Give your bedroom a royal Rajasthani touch with this Jaipuri Cotton Printed Double Bedsheet. Featuri...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -51578,7 +52874,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.323Z",
-    "updatedAt": "2025-10-25T19:57:47.323Z"
+    "updatedAt": "2025-10-25T19:57:47.323Z",
+    "stock": 10,
+    "shortDescription": "Give your bedroom a royal Rajasthani touch with this Jaipuri Cotton Printed Double Bedsheet. Featuri...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -51636,7 +52943,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.323Z",
-    "updatedAt": "2025-10-25T19:57:47.323Z"
+    "updatedAt": "2025-10-25T19:57:47.323Z",
+    "stock": 10,
+    "shortDescription": "Give your bedroom a royal Rajasthani touch with this Jaipuri Cotton Printed Double Bedsheet. Featuri...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -51694,7 +53012,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.323Z",
-    "updatedAt": "2025-10-25T19:57:47.323Z"
+    "updatedAt": "2025-10-25T19:57:47.323Z",
+    "stock": 10,
+    "shortDescription": "Give your bedroom a royal Rajasthani touch with this Jaipuri Cotton Printed Double Bedsheet. Featuri...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -51752,7 +53081,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.323Z",
-    "updatedAt": "2025-10-25T19:57:47.323Z"
+    "updatedAt": "2025-10-25T19:57:47.323Z",
+    "stock": 10,
+    "shortDescription": "Give your bedroom a royal Rajasthani touch with this Jaipuri Cotton Printed Double Bedsheet. Featuri...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -51810,7 +53150,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.323Z",
-    "updatedAt": "2025-10-25T19:57:47.323Z"
+    "updatedAt": "2025-10-25T19:57:47.323Z",
+    "stock": 10,
+    "shortDescription": "Give your bedroom a royal Rajasthani touch with this Jaipuri Cotton Printed Double Bedsheet. Featuri...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -51868,7 +53219,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.323Z",
-    "updatedAt": "2025-10-25T19:57:47.323Z"
+    "updatedAt": "2025-10-25T19:57:47.323Z",
+    "stock": 10,
+    "shortDescription": "Give your bedroom a royal Rajasthani touch with this Jaipuri Cotton Printed Double Bedsheet. Featuri...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -51926,7 +53288,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.324Z",
-    "updatedAt": "2025-10-25T19:57:47.324Z"
+    "updatedAt": "2025-10-25T19:57:47.324Z",
+    "stock": 10,
+    "shortDescription": "Give your bedroom a royal Rajasthani touch with this Jaipuri Cotton Printed Double Bedsheet. Featuri...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -51984,7 +53357,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.324Z",
-    "updatedAt": "2025-10-25T19:57:47.324Z"
+    "updatedAt": "2025-10-25T19:57:47.324Z",
+    "stock": 10,
+    "shortDescription": "Give your bedroom a royal Rajasthani touch with this Jaipuri Cotton Printed Double Bedsheet. Featuri...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -52054,7 +53438,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.324Z",
-    "updatedAt": "2025-10-25T19:57:47.324Z"
+    "updatedAt": "2025-10-25T19:57:47.324Z",
+    "stock": 10,
+    "shortDescription": "Give your bedroom a royal Rajasthani touch with this Jaipuri Cotton Printed Double Bedsheet. Featuri...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -52124,7 +53519,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.324Z",
-    "updatedAt": "2025-10-25T19:57:47.324Z"
+    "updatedAt": "2025-10-25T19:57:47.324Z",
+    "stock": 10,
+    "shortDescription": "Give your bedroom a royal Rajasthani touch with this Jaipuri Cotton Printed Double Bedsheet. Featuri...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -52194,7 +53600,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.324Z",
-    "updatedAt": "2025-10-25T19:57:47.324Z"
+    "updatedAt": "2025-10-25T19:57:47.324Z",
+    "stock": 10,
+    "shortDescription": "Give your bedroom a royal Rajasthani touch with this Jaipuri Cotton Printed Double Bedsheet. Featuri...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -52264,7 +53681,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.324Z",
-    "updatedAt": "2025-10-25T19:57:47.324Z"
+    "updatedAt": "2025-10-25T19:57:47.324Z",
+    "stock": 10,
+    "shortDescription": "Give your bedroom a royal Rajasthani touch with this Jaipuri Cotton Printed Double Bedsheet. Featuri...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -52334,7 +53762,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.324Z",
-    "updatedAt": "2025-10-25T19:57:47.324Z"
+    "updatedAt": "2025-10-25T19:57:47.324Z",
+    "stock": 10,
+    "shortDescription": "Give your bedroom a royal Rajasthani touch with this Jaipuri Cotton Printed Double Bedsheet. Featuri...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -52404,7 +53843,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.325Z",
-    "updatedAt": "2025-10-25T19:57:47.325Z"
+    "updatedAt": "2025-10-25T19:57:47.325Z",
+    "stock": 10,
+    "shortDescription": "Give your bedroom a royal Rajasthani touch with this Jaipuri Cotton Printed Double Bedsheet. Featuri...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -52474,7 +53924,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.325Z",
-    "updatedAt": "2025-10-25T19:57:47.325Z"
+    "updatedAt": "2025-10-25T19:57:47.325Z",
+    "stock": 10,
+    "shortDescription": "Give your bedroom a royal Rajasthani touch with this Jaipuri Cotton Printed Double Bedsheet. Featuri...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -52544,7 +54005,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.325Z",
-    "updatedAt": "2025-10-25T19:57:47.325Z"
+    "updatedAt": "2025-10-25T19:57:47.325Z",
+    "stock": 10,
+    "shortDescription": "Give your bedroom a royal Rajasthani touch with this Jaipuri Cotton Printed Double Bedsheet. Featuri...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -52614,7 +54086,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.325Z",
-    "updatedAt": "2025-10-25T19:57:47.325Z"
+    "updatedAt": "2025-10-25T19:57:47.325Z",
+    "stock": 10,
+    "shortDescription": "Give your bedroom a royal Rajasthani touch with this Jaipuri Cotton Printed Double Bedsheet. Featuri...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -52684,7 +54167,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.325Z",
-    "updatedAt": "2025-10-25T19:57:47.325Z"
+    "updatedAt": "2025-10-25T19:57:47.325Z",
+    "stock": 10,
+    "shortDescription": "Give your bedroom a royal Rajasthani touch with this Jaipuri Cotton Printed Double Bedsheet. Featuri...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -52748,7 +54242,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.325Z",
-    "updatedAt": "2025-10-25T19:57:47.325Z"
+    "updatedAt": "2025-10-25T19:57:47.325Z",
+    "stock": 10,
+    "shortDescription": "Give your bedroom a royal Rajasthani touch with this Jaipuri Cotton Printed Double Bedsheet. Featuri...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -52806,7 +54311,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.325Z",
-    "updatedAt": "2025-10-25T19:57:47.325Z"
+    "updatedAt": "2025-10-25T19:57:47.325Z",
+    "stock": 10,
+    "shortDescription": "Give your bedroom a royal Rajasthani touch with this Jaipuri Cotton Printed Double Bedsheet. Featuri...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -52858,7 +54374,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.325Z",
-    "updatedAt": "2025-10-25T19:57:47.325Z"
+    "updatedAt": "2025-10-25T19:57:47.325Z",
+    "stock": 10,
+    "shortDescription": "Give your bedroom a royal Rajasthani touch with this Jaipuri Cotton Printed Double Bedsheet. Featuri...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -52922,7 +54449,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.325Z",
-    "updatedAt": "2025-10-25T19:57:47.325Z"
+    "updatedAt": "2025-10-25T19:57:47.325Z",
+    "stock": 10,
+    "shortDescription": "Give your bedroom a royal Rajasthani touch with this Jaipuri Cotton Printed Double Bedsheet. Featuri...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -52992,7 +54530,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.326Z",
-    "updatedAt": "2025-10-25T19:57:47.326Z"
+    "updatedAt": "2025-10-25T19:57:47.326Z",
+    "stock": 10,
+    "shortDescription": "Give your bedroom a royal Rajasthani touch with this Jaipuri Cotton Printed Double Bedsheet. Featuri...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -53062,7 +54611,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.326Z",
-    "updatedAt": "2025-10-25T19:57:47.326Z"
+    "updatedAt": "2025-10-25T19:57:47.326Z",
+    "stock": 10,
+    "shortDescription": "Give your bedroom a royal Rajasthani touch with this Jaipuri Cotton Printed Double Bedsheet. Featuri...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -53126,7 +54686,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.326Z",
-    "updatedAt": "2025-10-25T19:57:47.326Z"
+    "updatedAt": "2025-10-25T19:57:47.326Z",
+    "stock": 10,
+    "shortDescription": "Give your bedroom a royal Rajasthani touch with this Jaipuri Cotton Printed Double Bedsheet. Featuri...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -53190,7 +54761,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.326Z",
-    "updatedAt": "2025-10-25T19:57:47.326Z"
+    "updatedAt": "2025-10-25T19:57:47.326Z",
+    "stock": 10,
+    "shortDescription": "Give your bedroom a royal Rajasthani touch with this Jaipuri Cotton Printed Double Bedsheet. Featuri...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -53254,7 +54836,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.326Z",
-    "updatedAt": "2025-10-25T19:57:47.326Z"
+    "updatedAt": "2025-10-25T19:57:47.326Z",
+    "stock": 10,
+    "shortDescription": "Give your bedroom a royal Rajasthani touch with this Jaipuri Cotton Printed Double Bedsheet. Featuri...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -53318,7 +54911,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.326Z",
-    "updatedAt": "2025-10-25T19:57:47.326Z"
+    "updatedAt": "2025-10-25T19:57:47.326Z",
+    "stock": 10,
+    "shortDescription": "Give your bedroom a royal Rajasthani touch with this Jaipuri Cotton Printed Double Bedsheet. Featuri...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -53382,7 +54986,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.326Z",
-    "updatedAt": "2025-10-25T19:57:47.326Z"
+    "updatedAt": "2025-10-25T19:57:47.326Z",
+    "stock": 10,
+    "shortDescription": "Give your bedroom a royal Rajasthani touch with this Jaipuri Cotton Printed Double Bedsheet. Featuri...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -53446,7 +55061,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.326Z",
-    "updatedAt": "2025-10-25T19:57:47.326Z"
+    "updatedAt": "2025-10-25T19:57:47.326Z",
+    "stock": 10,
+    "shortDescription": "Give your bedroom a royal Rajasthani touch with this Jaipuri Cotton Printed Double Bedsheet. Featuri...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -53504,7 +55130,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.326Z",
-    "updatedAt": "2025-10-25T19:57:47.326Z"
+    "updatedAt": "2025-10-25T19:57:47.326Z",
+    "stock": 10,
+    "shortDescription": "Give your bedroom a royal Rajasthani touch with this Jaipuri Cotton Printed Double Bedsheet. Featuri...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -53562,7 +55199,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.326Z",
-    "updatedAt": "2025-10-25T19:57:47.326Z"
+    "updatedAt": "2025-10-25T19:57:47.326Z",
+    "stock": 10,
+    "shortDescription": "Give your bedroom a royal Rajasthani touch with this Jaipuri Cotton Printed Double Bedsheet. Featuri...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -53620,7 +55268,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.326Z",
-    "updatedAt": "2025-10-25T19:57:47.326Z"
+    "updatedAt": "2025-10-25T19:57:47.326Z",
+    "stock": 10,
+    "shortDescription": "Give your bedroom a royal Rajasthani touch with this Jaipuri Cotton Printed Double Bedsheet. Featuri...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -53678,7 +55337,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.326Z",
-    "updatedAt": "2025-10-25T19:57:47.326Z"
+    "updatedAt": "2025-10-25T19:57:47.326Z",
+    "stock": 10,
+    "shortDescription": "Give your bedroom a royal Rajasthani touch with this Jaipuri Cotton Printed Double Bedsheet. Featuri...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -53736,7 +55406,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.326Z",
-    "updatedAt": "2025-10-25T19:57:47.326Z"
+    "updatedAt": "2025-10-25T19:57:47.326Z",
+    "stock": 10,
+    "shortDescription": "Give your bedroom a royal Rajasthani touch with this Jaipuri Cotton Printed Double Bedsheet. Featuri...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -53794,7 +55475,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.326Z",
-    "updatedAt": "2025-10-25T19:57:47.326Z"
+    "updatedAt": "2025-10-25T19:57:47.326Z",
+    "stock": 10,
+    "shortDescription": "Give your bedroom a royal Rajasthani touch with this Jaipuri Cotton Printed Double Bedsheet. Featuri...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -53852,7 +55544,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.326Z",
-    "updatedAt": "2025-10-25T19:57:47.326Z"
+    "updatedAt": "2025-10-25T19:57:47.326Z",
+    "stock": 10,
+    "shortDescription": "Give your bedroom a royal Rajasthani touch with this Jaipuri Cotton Printed Double Bedsheet. Featuri...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -53910,7 +55613,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.326Z",
-    "updatedAt": "2025-10-25T19:57:47.326Z"
+    "updatedAt": "2025-10-25T19:57:47.326Z",
+    "stock": 10,
+    "shortDescription": "Give your bedroom a royal Rajasthani touch with this Jaipuri Cotton Printed Double Bedsheet. Featuri...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -53968,7 +55682,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.326Z",
-    "updatedAt": "2025-10-25T19:57:47.326Z"
+    "updatedAt": "2025-10-25T19:57:47.326Z",
+    "stock": 10,
+    "shortDescription": "Give your bedroom a royal Rajasthani touch with this Jaipuri Cotton Printed Double Bedsheet. Featuri...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -54026,7 +55751,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.326Z",
-    "updatedAt": "2025-10-25T19:57:47.326Z"
+    "updatedAt": "2025-10-25T19:57:47.326Z",
+    "stock": 10,
+    "shortDescription": "Give your bedroom a royal Rajasthani touch with this Jaipuri Cotton Printed Double Bedsheet. Featuri...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -54084,7 +55820,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.326Z",
-    "updatedAt": "2025-10-25T19:57:47.326Z"
+    "updatedAt": "2025-10-25T19:57:47.326Z",
+    "stock": 10,
+    "shortDescription": "Give your bedroom a royal Rajasthani touch with this Jaipuri Cotton Printed Double Bedsheet. Featuri...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -54142,7 +55889,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.326Z",
-    "updatedAt": "2025-10-25T19:57:47.326Z"
+    "updatedAt": "2025-10-25T19:57:47.326Z",
+    "stock": 10,
+    "shortDescription": "Give your bedroom a royal Rajasthani touch with this Jaipuri Cotton Printed Double Bedsheet. Featuri...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -54206,7 +55964,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.326Z",
-    "updatedAt": "2025-10-25T19:57:47.326Z"
+    "updatedAt": "2025-10-25T19:57:47.326Z",
+    "stock": 10,
+    "shortDescription": "Give your bedroom a royal Rajasthani touch with this Jaipuri Cotton Printed Double Bedsheet. Featuri...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -54264,7 +56033,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.326Z",
-    "updatedAt": "2025-10-25T19:57:47.326Z"
+    "updatedAt": "2025-10-25T19:57:47.326Z",
+    "stock": 10,
+    "shortDescription": "Give your bedroom a royal Rajasthani touch with this Jaipuri Cotton Printed Double Bedsheet. Featuri...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -54322,7 +56102,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.326Z",
-    "updatedAt": "2025-10-25T19:57:47.326Z"
+    "updatedAt": "2025-10-25T19:57:47.326Z",
+    "stock": 10,
+    "shortDescription": "Give your bedroom a royal Rajasthani touch with this Jaipuri Cotton Printed Double Bedsheet. Featuri...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -54380,7 +56171,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.326Z",
-    "updatedAt": "2025-10-25T19:57:47.326Z"
+    "updatedAt": "2025-10-25T19:57:47.326Z",
+    "stock": 10,
+    "shortDescription": "Give your bedroom a royal Rajasthani touch with this Jaipuri Cotton Printed Double Bedsheet. Featuri...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -54444,7 +56246,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.326Z",
-    "updatedAt": "2025-10-25T19:57:47.326Z"
+    "updatedAt": "2025-10-25T19:57:47.326Z",
+    "stock": 10,
+    "shortDescription": "Give your bedroom a royal Rajasthani touch with this Jaipuri Cotton Printed Double Bedsheet. Featuri...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -54514,7 +56327,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.327Z",
-    "updatedAt": "2025-10-25T19:57:47.327Z"
+    "updatedAt": "2025-10-25T19:57:47.327Z",
+    "stock": 10,
+    "shortDescription": "Give your bedroom a royal Rajasthani touch with this Jaipuri Cotton Printed Double Bedsheet. Featuri...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -54578,7 +56402,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.327Z",
-    "updatedAt": "2025-10-25T19:57:47.327Z"
+    "updatedAt": "2025-10-25T19:57:47.327Z",
+    "stock": 10,
+    "shortDescription": "Give your bedroom a royal Rajasthani touch with this Jaipuri Cotton Printed Double Bedsheet. Featuri...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -54636,7 +56471,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.327Z",
-    "updatedAt": "2025-10-25T19:57:47.327Z"
+    "updatedAt": "2025-10-25T19:57:47.327Z",
+    "stock": 10,
+    "shortDescription": "Give your bedroom a royal Rajasthani touch with this Jaipuri Cotton Printed Double Bedsheet. Featuri...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -54706,7 +56552,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.327Z",
-    "updatedAt": "2025-10-25T19:57:47.327Z"
+    "updatedAt": "2025-10-25T19:57:47.327Z",
+    "stock": 10,
+    "shortDescription": "Give your bedroom a royal Rajasthani touch with this Jaipuri Cotton Printed Double Bedsheet. Featuri...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -54776,7 +56633,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.327Z",
-    "updatedAt": "2025-10-25T19:57:47.327Z"
+    "updatedAt": "2025-10-25T19:57:47.327Z",
+    "stock": 10,
+    "shortDescription": "Give your bedroom a royal Rajasthani touch with this Jaipuri Cotton Printed Double Bedsheet. Featuri...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -54840,7 +56708,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.327Z",
-    "updatedAt": "2025-10-25T19:57:47.327Z"
+    "updatedAt": "2025-10-25T19:57:47.327Z",
+    "stock": 10,
+    "shortDescription": "Give your bedroom a royal Rajasthani touch with this Jaipuri Cotton Printed Double Bedsheet. Featuri...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -54904,7 +56783,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.327Z",
-    "updatedAt": "2025-10-25T19:57:47.327Z"
+    "updatedAt": "2025-10-25T19:57:47.327Z",
+    "stock": 10,
+    "shortDescription": "Give your bedroom a royal Rajasthani touch with this Jaipuri Cotton Printed Double Bedsheet. Featuri...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -54974,7 +56864,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.327Z",
-    "updatedAt": "2025-10-25T19:57:47.327Z"
+    "updatedAt": "2025-10-25T19:57:47.327Z",
+    "stock": 10,
+    "shortDescription": "Give your bedroom a royal Rajasthani touch with this Jaipuri Cotton Printed Double Bedsheet. Featuri...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -55044,7 +56945,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.327Z",
-    "updatedAt": "2025-10-25T19:57:47.327Z"
+    "updatedAt": "2025-10-25T19:57:47.327Z",
+    "stock": 10,
+    "shortDescription": "Give your bedroom a royal Rajasthani touch with this Jaipuri Cotton Printed Double Bedsheet. Featuri...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -55108,7 +57020,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.327Z",
-    "updatedAt": "2025-10-25T19:57:47.327Z"
+    "updatedAt": "2025-10-25T19:57:47.327Z",
+    "stock": 10,
+    "shortDescription": "Give your bedroom a royal Rajasthani touch with this Jaipuri Cotton Printed Double Bedsheet. Featuri...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -55166,7 +57089,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.327Z",
-    "updatedAt": "2025-10-25T19:57:47.327Z"
+    "updatedAt": "2025-10-25T19:57:47.327Z",
+    "stock": 10,
+    "shortDescription": "Give your bedroom a royal Rajasthani touch with this Jaipuri Cotton Printed Double Bedsheet. Featuri...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -55230,7 +57164,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.327Z",
-    "updatedAt": "2025-10-25T19:57:47.327Z"
+    "updatedAt": "2025-10-25T19:57:47.327Z",
+    "stock": 10,
+    "shortDescription": "Give your bedroom a royal Rajasthani touch with this Jaipuri Cotton Printed Double Bedsheet. Featuri...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -55294,7 +57239,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.327Z",
-    "updatedAt": "2025-10-25T19:57:47.327Z"
+    "updatedAt": "2025-10-25T19:57:47.327Z",
+    "stock": 10,
+    "shortDescription": "Give your bedroom a royal Rajasthani touch with this Jaipuri Cotton Printed Double Bedsheet. Featuri...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -55358,7 +57314,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.327Z",
-    "updatedAt": "2025-10-25T19:57:47.327Z"
+    "updatedAt": "2025-10-25T19:57:47.327Z",
+    "stock": 10,
+    "shortDescription": "Give your bedroom a royal Rajasthani touch with this Jaipuri Cotton Printed Double Bedsheet. Featuri...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -55428,7 +57395,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.327Z",
-    "updatedAt": "2025-10-25T19:57:47.327Z"
+    "updatedAt": "2025-10-25T19:57:47.327Z",
+    "stock": 10,
+    "shortDescription": "Give your bedroom a royal Rajasthani touch with this Jaipuri Cotton Printed Double Bedsheet. Featuri...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -55498,7 +57476,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.327Z",
-    "updatedAt": "2025-10-25T19:57:47.327Z"
+    "updatedAt": "2025-10-25T19:57:47.327Z",
+    "stock": 10,
+    "shortDescription": "Give your bedroom a royal Rajasthani touch with this Jaipuri Cotton Printed Double Bedsheet. Featuri...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -55562,7 +57551,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.327Z",
-    "updatedAt": "2025-10-25T19:57:47.327Z"
+    "updatedAt": "2025-10-25T19:57:47.327Z",
+    "stock": 10,
+    "shortDescription": "Give your bedroom a royal Rajasthani touch with this Jaipuri Cotton Printed Double Bedsheet. Featuri...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -55632,7 +57632,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.327Z",
-    "updatedAt": "2025-10-25T19:57:47.327Z"
+    "updatedAt": "2025-10-25T19:57:47.327Z",
+    "stock": 10,
+    "shortDescription": "Give your bedroom a royal Rajasthani touch with this Jaipuri Cotton Printed Double Bedsheet. Featuri...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -55696,7 +57707,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.327Z",
-    "updatedAt": "2025-10-25T19:57:47.327Z"
+    "updatedAt": "2025-10-25T19:57:47.327Z",
+    "stock": 10,
+    "shortDescription": "Give your bedroom a royal Rajasthani touch with this Jaipuri Cotton Printed Double Bedsheet. Featuri...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -55760,7 +57782,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.327Z",
-    "updatedAt": "2025-10-25T19:57:47.327Z"
+    "updatedAt": "2025-10-25T19:57:47.327Z",
+    "stock": 10,
+    "shortDescription": "Give your bedroom a royal Rajasthani touch with this Jaipuri Cotton Printed Double Bedsheet. Featuri...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -55824,7 +57857,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.327Z",
-    "updatedAt": "2025-10-25T19:57:47.327Z"
+    "updatedAt": "2025-10-25T19:57:47.327Z",
+    "stock": 10,
+    "shortDescription": "Give your bedroom a royal Rajasthani touch with this Jaipuri Cotton Printed Double Bedsheet. Featuri...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -55888,7 +57932,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.327Z",
-    "updatedAt": "2025-10-25T19:57:47.327Z"
+    "updatedAt": "2025-10-25T19:57:47.327Z",
+    "stock": 10,
+    "shortDescription": "Give your bedroom a royal Rajasthani touch with this Jaipuri Cotton Printed Double Bedsheet. Featuri...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -55952,7 +58007,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.328Z",
-    "updatedAt": "2025-10-25T19:57:47.328Z"
+    "updatedAt": "2025-10-25T19:57:47.328Z",
+    "stock": 10,
+    "shortDescription": "Give your bedroom a royal Rajasthani touch with this Jaipuri Cotton Printed Double Bedsheet. Featuri...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -56016,7 +58082,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.328Z",
-    "updatedAt": "2025-10-25T19:57:47.328Z"
+    "updatedAt": "2025-10-25T19:57:47.328Z",
+    "stock": 10,
+    "shortDescription": "Give your bedroom a royal Rajasthani touch with this Jaipuri Cotton Printed Double Bedsheet. Featuri...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -56080,7 +58157,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.328Z",
-    "updatedAt": "2025-10-25T19:57:47.328Z"
+    "updatedAt": "2025-10-25T19:57:47.328Z",
+    "stock": 10,
+    "shortDescription": "Give your bedroom a royal Rajasthani touch with this Jaipuri Cotton Printed Double Bedsheet. Featuri...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -56144,7 +58232,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.328Z",
-    "updatedAt": "2025-10-25T19:57:47.328Z"
+    "updatedAt": "2025-10-25T19:57:47.328Z",
+    "stock": 10,
+    "shortDescription": "Give your bedroom a royal Rajasthani touch with this Jaipuri Cotton Printed Double Bedsheet. Featuri...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -56208,7 +58307,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.329Z",
-    "updatedAt": "2025-10-25T19:57:47.329Z"
+    "updatedAt": "2025-10-25T19:57:47.329Z",
+    "stock": 10,
+    "shortDescription": "Give your bedroom a royal Rajasthani touch with this Jaipuri Cotton Printed Double Bedsheet. Featuri...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -56272,7 +58382,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.329Z",
-    "updatedAt": "2025-10-25T19:57:47.329Z"
+    "updatedAt": "2025-10-25T19:57:47.329Z",
+    "stock": 10,
+    "shortDescription": "Give your bedroom a royal Rajasthani touch with this Jaipuri Cotton Printed Double Bedsheet. Featuri...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -56336,7 +58457,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.329Z",
-    "updatedAt": "2025-10-25T19:57:47.329Z"
+    "updatedAt": "2025-10-25T19:57:47.329Z",
+    "stock": 10,
+    "shortDescription": "Give your bedroom a royal Rajasthani touch with this Jaipuri Cotton Printed Double Bedsheet. Featuri...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -56400,7 +58532,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.329Z",
-    "updatedAt": "2025-10-25T19:57:47.329Z"
+    "updatedAt": "2025-10-25T19:57:47.329Z",
+    "stock": 10,
+    "shortDescription": "Give your bedroom a royal Rajasthani touch with this Jaipuri Cotton Printed Double Bedsheet. Featuri...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -56464,7 +58607,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.329Z",
-    "updatedAt": "2025-10-25T19:57:47.329Z"
+    "updatedAt": "2025-10-25T19:57:47.329Z",
+    "stock": 10,
+    "shortDescription": "Give your bedroom a royal Rajasthani touch with this Jaipuri Cotton Printed Double Bedsheet. Featuri...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -56534,7 +58688,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.329Z",
-    "updatedAt": "2025-10-25T19:57:47.329Z"
+    "updatedAt": "2025-10-25T19:57:47.329Z",
+    "stock": 10,
+    "shortDescription": "Give your bedroom a royal Rajasthani touch with this Jaipuri Cotton Printed Double Bedsheet. Featuri...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -56598,7 +58763,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.329Z",
-    "updatedAt": "2025-10-25T19:57:47.329Z"
+    "updatedAt": "2025-10-25T19:57:47.329Z",
+    "stock": 10,
+    "shortDescription": "Give your bedroom a royal Rajasthani touch with this Jaipuri Cotton Printed Double Bedsheet. Featuri...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -56662,7 +58838,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.329Z",
-    "updatedAt": "2025-10-25T19:57:47.329Z"
+    "updatedAt": "2025-10-25T19:57:47.329Z",
+    "stock": 10,
+    "shortDescription": "Give your bedroom a royal Rajasthani touch with this Jaipuri Cotton Printed Double Bedsheet. Featuri...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -56726,7 +58913,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.329Z",
-    "updatedAt": "2025-10-25T19:57:47.329Z"
+    "updatedAt": "2025-10-25T19:57:47.329Z",
+    "stock": 10,
+    "shortDescription": "Give your bedroom a royal Rajasthani touch with this Jaipuri Cotton Printed Double Bedsheet. Featuri...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -56790,7 +58988,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.329Z",
-    "updatedAt": "2025-10-25T19:57:47.329Z"
+    "updatedAt": "2025-10-25T19:57:47.329Z",
+    "stock": 10,
+    "shortDescription": "Give your bedroom a royal Rajasthani touch with this Jaipuri Cotton Printed Double Bedsheet. Featuri...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -56860,7 +59069,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.329Z",
-    "updatedAt": "2025-10-25T19:57:47.329Z"
+    "updatedAt": "2025-10-25T19:57:47.329Z",
+    "stock": 10,
+    "shortDescription": "Give your bedroom a royal Rajasthani touch with this Jaipuri Cotton Printed Double Bedsheet. Featuri...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -56930,7 +59150,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.329Z",
-    "updatedAt": "2025-10-25T19:57:47.329Z"
+    "updatedAt": "2025-10-25T19:57:47.329Z",
+    "stock": 10,
+    "shortDescription": "Give your bedroom a royal Rajasthani touch with this Jaipuri Cotton Printed Double Bedsheet. Featuri...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -57000,7 +59231,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.329Z",
-    "updatedAt": "2025-10-25T19:57:47.329Z"
+    "updatedAt": "2025-10-25T19:57:47.329Z",
+    "stock": 10,
+    "shortDescription": "Give your bedroom a royal Rajasthani touch with this Jaipuri Cotton Printed Double Bedsheet. Featuri...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -57070,7 +59312,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.329Z",
-    "updatedAt": "2025-10-25T19:57:47.329Z"
+    "updatedAt": "2025-10-25T19:57:47.329Z",
+    "stock": 10,
+    "shortDescription": "Give your bedroom a royal Rajasthani touch with this Jaipuri Cotton Printed Double Bedsheet. Featuri...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -57134,7 +59387,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.329Z",
-    "updatedAt": "2025-10-25T19:57:47.329Z"
+    "updatedAt": "2025-10-25T19:57:47.329Z",
+    "stock": 10,
+    "shortDescription": "Give your bedroom a royal Rajasthani touch with this Jaipuri Cotton Printed Double Bedsheet. Featuri...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -57198,7 +59462,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.330Z",
-    "updatedAt": "2025-10-25T19:57:47.330Z"
+    "updatedAt": "2025-10-25T19:57:47.330Z",
+    "stock": 10,
+    "shortDescription": "Give your bedroom a royal Rajasthani touch with this Jaipuri Cotton Printed Double Bedsheet. Featuri...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -57262,7 +59537,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.330Z",
-    "updatedAt": "2025-10-25T19:57:47.330Z"
+    "updatedAt": "2025-10-25T19:57:47.330Z",
+    "stock": 10,
+    "shortDescription": "Give your bedroom a royal Rajasthani touch with this Jaipuri Cotton Printed Double Bedsheet. Featuri...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -57326,7 +59612,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.330Z",
-    "updatedAt": "2025-10-25T19:57:47.330Z"
+    "updatedAt": "2025-10-25T19:57:47.330Z",
+    "stock": 10,
+    "shortDescription": "Give your bedroom a royal Rajasthani touch with this Jaipuri Cotton Printed Double Bedsheet. Featuri...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -57390,7 +59687,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.330Z",
-    "updatedAt": "2025-10-25T19:57:47.330Z"
+    "updatedAt": "2025-10-25T19:57:47.330Z",
+    "stock": 10,
+    "shortDescription": "Give your bedroom a royal Rajasthani touch with this Jaipuri Cotton Printed Double Bedsheet. Featuri...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -57454,7 +59762,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.330Z",
-    "updatedAt": "2025-10-25T19:57:47.330Z"
+    "updatedAt": "2025-10-25T19:57:47.330Z",
+    "stock": 10,
+    "shortDescription": "Give your bedroom a royal Rajasthani touch with this Jaipuri Cotton Printed Double Bedsheet. Featuri...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -57512,7 +59831,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.330Z",
-    "updatedAt": "2025-10-25T19:57:47.330Z"
+    "updatedAt": "2025-10-25T19:57:47.330Z",
+    "stock": 10,
+    "shortDescription": "Give your bedroom a royal Rajasthani touch with this Jaipuri Cotton Printed Double Bedsheet. Featuri...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -57570,7 +59900,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.330Z",
-    "updatedAt": "2025-10-25T19:57:47.330Z"
+    "updatedAt": "2025-10-25T19:57:47.330Z",
+    "stock": 10,
+    "shortDescription": "Give your bedroom a royal Rajasthani touch with this Jaipuri Cotton Printed Double Bedsheet. Featuri...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -57628,7 +59969,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.330Z",
-    "updatedAt": "2025-10-25T19:57:47.330Z"
+    "updatedAt": "2025-10-25T19:57:47.330Z",
+    "stock": 10,
+    "shortDescription": "Give your bedroom a royal Rajasthani touch with this Jaipuri Cotton Printed Double Bedsheet. Featuri...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -57686,7 +60038,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.330Z",
-    "updatedAt": "2025-10-25T19:57:47.330Z"
+    "updatedAt": "2025-10-25T19:57:47.330Z",
+    "stock": 10,
+    "shortDescription": "Give your bedroom a royal Rajasthani touch with this Jaipuri Cotton Printed Double Bedsheet. Featuri...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -57744,7 +60107,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.330Z",
-    "updatedAt": "2025-10-25T19:57:47.330Z"
+    "updatedAt": "2025-10-25T19:57:47.330Z",
+    "stock": 10,
+    "shortDescription": "Give your bedroom a royal Rajasthani touch with this Jaipuri Cotton Printed Double Bedsheet. Featuri...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -57808,7 +60182,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.330Z",
-    "updatedAt": "2025-10-25T19:57:47.330Z"
+    "updatedAt": "2025-10-25T19:57:47.330Z",
+    "stock": 10,
+    "shortDescription": "Give your bedroom a royal Rajasthani touch with this Jaipuri Cotton Printed Double Bedsheet. Featuri...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -57872,7 +60257,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.330Z",
-    "updatedAt": "2025-10-25T19:57:47.330Z"
+    "updatedAt": "2025-10-25T19:57:47.330Z",
+    "stock": 10,
+    "shortDescription": "Give your bedroom a royal Rajasthani touch with this Jaipuri Cotton Printed Double Bedsheet. Featuri...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -57936,7 +60332,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.330Z",
-    "updatedAt": "2025-10-25T19:57:47.330Z"
+    "updatedAt": "2025-10-25T19:57:47.330Z",
+    "stock": 10,
+    "shortDescription": "Give your bedroom a royal Rajasthani touch with this Jaipuri Cotton Printed Double Bedsheet. Featuri...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -58006,7 +60413,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.330Z",
-    "updatedAt": "2025-10-25T19:57:47.330Z"
+    "updatedAt": "2025-10-25T19:57:47.330Z",
+    "stock": 10,
+    "shortDescription": "Give your bedroom a royal Rajasthani touch with this Jaipuri Cotton Printed Double Bedsheet. Featuri...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -58070,7 +60488,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.330Z",
-    "updatedAt": "2025-10-25T19:57:47.330Z"
+    "updatedAt": "2025-10-25T19:57:47.330Z",
+    "stock": 10,
+    "shortDescription": "Give your bedroom a royal Rajasthani touch with this Jaipuri Cotton Printed Double Bedsheet. Featuri...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -58128,7 +60557,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.330Z",
-    "updatedAt": "2025-10-25T19:57:47.330Z"
+    "updatedAt": "2025-10-25T19:57:47.330Z",
+    "stock": 10,
+    "shortDescription": "Give your bedroom a royal Rajasthani touch with this Jaipuri Cotton Printed Double Bedsheet. Featuri...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -58186,7 +60626,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.330Z",
-    "updatedAt": "2025-10-25T19:57:47.330Z"
+    "updatedAt": "2025-10-25T19:57:47.330Z",
+    "stock": 10,
+    "shortDescription": "Give your bedroom a royal Rajasthani touch with this Jaipuri Cotton Printed Double Bedsheet. Featuri...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -58244,7 +60695,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.330Z",
-    "updatedAt": "2025-10-25T19:57:47.330Z"
+    "updatedAt": "2025-10-25T19:57:47.330Z",
+    "stock": 10,
+    "shortDescription": "Give your bedroom a royal Rajasthani touch with this Jaipuri Cotton Printed Double Bedsheet. Featuri...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -58314,7 +60776,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.330Z",
-    "updatedAt": "2025-10-25T19:57:47.330Z"
+    "updatedAt": "2025-10-25T19:57:47.330Z",
+    "stock": 10,
+    "shortDescription": "Give your bedroom a royal Rajasthani touch with this Jaipuri Cotton Printed Double Bedsheet. Featuri...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -58384,7 +60857,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.330Z",
-    "updatedAt": "2025-10-25T19:57:47.330Z"
+    "updatedAt": "2025-10-25T19:57:47.330Z",
+    "stock": 10,
+    "shortDescription": "Give your bedroom a royal Rajasthani touch with this Jaipuri Cotton Printed Double Bedsheet. Featuri...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -58454,7 +60938,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.330Z",
-    "updatedAt": "2025-10-25T19:57:47.330Z"
+    "updatedAt": "2025-10-25T19:57:47.330Z",
+    "stock": 10,
+    "shortDescription": "Give your bedroom a royal Rajasthani touch with this Jaipuri Cotton Printed Double Bedsheet. Featuri...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -58518,7 +61013,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.330Z",
-    "updatedAt": "2025-10-25T19:57:47.330Z"
+    "updatedAt": "2025-10-25T19:57:47.330Z",
+    "stock": 10,
+    "shortDescription": "Give your bedroom a royal Rajasthani touch with this Jaipuri Cotton Printed Double Bedsheet. Featuri...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -58582,7 +61088,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.330Z",
-    "updatedAt": "2025-10-25T19:57:47.330Z"
+    "updatedAt": "2025-10-25T19:57:47.330Z",
+    "stock": 10,
+    "shortDescription": "Give your bedroom a royal Rajasthani touch with this Jaipuri Cotton Printed Double Bedsheet. Featuri...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -58646,7 +61163,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.330Z",
-    "updatedAt": "2025-10-25T19:57:47.330Z"
+    "updatedAt": "2025-10-25T19:57:47.330Z",
+    "stock": 10,
+    "shortDescription": "Give your bedroom a royal Rajasthani touch with this Jaipuri Cotton Printed Double Bedsheet. Featuri...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -58704,7 +61232,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.331Z",
-    "updatedAt": "2025-10-25T19:57:47.331Z"
+    "updatedAt": "2025-10-25T19:57:47.331Z",
+    "stock": 10,
+    "shortDescription": "Bring home the timeless beauty of Rajasthan with this elegant Rajasthani Jaipuri Bedsheet. Crafted f...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -58762,7 +61301,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.331Z",
-    "updatedAt": "2025-10-25T19:57:47.331Z"
+    "updatedAt": "2025-10-25T19:57:47.331Z",
+    "stock": 10,
+    "shortDescription": "Bring home the timeless beauty of Rajasthan with this elegant Rajasthani Jaipuri Bedsheet. Crafted f...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -58820,7 +61370,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.331Z",
-    "updatedAt": "2025-10-25T19:57:47.331Z"
+    "updatedAt": "2025-10-25T19:57:47.331Z",
+    "stock": 10,
+    "shortDescription": "Bring home the timeless beauty of Rajasthan with this elegant Rajasthani Jaipuri Bedsheet. Crafted f...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -58878,7 +61439,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.331Z",
-    "updatedAt": "2025-10-25T19:57:47.331Z"
+    "updatedAt": "2025-10-25T19:57:47.331Z",
+    "stock": 10,
+    "shortDescription": "Bring home the timeless beauty of Rajasthan with this elegant Rajasthani Jaipuri Bedsheet. Crafted f...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -58936,7 +61508,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.331Z",
-    "updatedAt": "2025-10-25T19:57:47.331Z"
+    "updatedAt": "2025-10-25T19:57:47.331Z",
+    "stock": 10,
+    "shortDescription": "Bring home the timeless beauty of Rajasthan with this elegant Rajasthani Jaipuri Bedsheet. Crafted f...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -59000,7 +61583,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.331Z",
-    "updatedAt": "2025-10-25T19:57:47.331Z"
+    "updatedAt": "2025-10-25T19:57:47.331Z",
+    "stock": 10,
+    "shortDescription": "Bring home the timeless beauty of Rajasthan with this elegant Rajasthani Jaipuri Bedsheet. Crafted f...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -59064,7 +61658,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.331Z",
-    "updatedAt": "2025-10-25T19:57:47.331Z"
+    "updatedAt": "2025-10-25T19:57:47.331Z",
+    "stock": 10,
+    "shortDescription": "Bring home the timeless beauty of Rajasthan with this elegant Rajasthani Jaipuri Bedsheet. Crafted f...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -59128,7 +61733,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.331Z",
-    "updatedAt": "2025-10-25T19:57:47.331Z"
+    "updatedAt": "2025-10-25T19:57:47.331Z",
+    "stock": 10,
+    "shortDescription": "Bring home the timeless beauty of Rajasthan with this elegant Rajasthani Jaipuri Bedsheet. Crafted f...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -59192,7 +61808,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.332Z",
-    "updatedAt": "2025-10-25T19:57:47.332Z"
+    "updatedAt": "2025-10-25T19:57:47.332Z",
+    "stock": 10,
+    "shortDescription": "Bring home the timeless beauty of Rajasthan with this elegant Rajasthani Jaipuri Bedsheet. Crafted f...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -59250,7 +61877,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.332Z",
-    "updatedAt": "2025-10-25T19:57:47.332Z"
+    "updatedAt": "2025-10-25T19:57:47.332Z",
+    "stock": 10,
+    "shortDescription": "Bring home the timeless beauty of Rajasthan with this elegant Rajasthani Jaipuri Bedsheet. Crafted f...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -59314,7 +61952,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.332Z",
-    "updatedAt": "2025-10-25T19:57:47.332Z"
+    "updatedAt": "2025-10-25T19:57:47.332Z",
+    "stock": 10,
+    "shortDescription": "Bring home the timeless beauty of Rajasthan with this elegant Rajasthani Jaipuri Bedsheet. Crafted f...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -59378,7 +62027,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.332Z",
-    "updatedAt": "2025-10-25T19:57:47.332Z"
+    "updatedAt": "2025-10-25T19:57:47.332Z",
+    "stock": 10,
+    "shortDescription": "Bring home the timeless beauty of Rajasthan with this elegant Rajasthani Jaipuri Bedsheet. Crafted f...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -59442,7 +62102,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.332Z",
-    "updatedAt": "2025-10-25T19:57:47.332Z"
+    "updatedAt": "2025-10-25T19:57:47.332Z",
+    "stock": 10,
+    "shortDescription": "Bring home the timeless beauty of Rajasthan with this elegant Rajasthani Jaipuri Bedsheet. Crafted f...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -59506,7 +62177,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.332Z",
-    "updatedAt": "2025-10-25T19:57:47.332Z"
+    "updatedAt": "2025-10-25T19:57:47.332Z",
+    "stock": 10,
+    "shortDescription": "Bring home the timeless beauty of Rajasthan with this elegant Rajasthani Jaipuri Bedsheet. Crafted f...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -59570,7 +62252,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.332Z",
-    "updatedAt": "2025-10-25T19:57:47.332Z"
+    "updatedAt": "2025-10-25T19:57:47.332Z",
+    "stock": 10,
+    "shortDescription": "Bring home the timeless beauty of Rajasthan with this elegant Rajasthani Jaipuri Bedsheet. Crafted f...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -59628,7 +62321,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.332Z",
-    "updatedAt": "2025-10-25T19:57:47.332Z"
+    "updatedAt": "2025-10-25T19:57:47.332Z",
+    "stock": 10,
+    "shortDescription": "Bring home the timeless beauty of Rajasthan with this elegant Rajasthani Jaipuri Bedsheet. Crafted f...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -59698,7 +62402,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.332Z",
-    "updatedAt": "2025-10-25T19:57:47.332Z"
+    "updatedAt": "2025-10-25T19:57:47.332Z",
+    "stock": 10,
+    "shortDescription": "Bring home the timeless beauty of Rajasthan with this elegant Rajasthani Jaipuri Bedsheet. Crafted f...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -59762,7 +62477,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.332Z",
-    "updatedAt": "2025-10-25T19:57:47.332Z"
+    "updatedAt": "2025-10-25T19:57:47.332Z",
+    "stock": 10,
+    "shortDescription": "Bring home the timeless beauty of Rajasthan with this elegant Rajasthani Jaipuri Bedsheet. Crafted f...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -59826,7 +62552,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.332Z",
-    "updatedAt": "2025-10-25T19:57:47.332Z"
+    "updatedAt": "2025-10-25T19:57:47.332Z",
+    "stock": 10,
+    "shortDescription": "Bring home the timeless beauty of Rajasthan with this elegant Rajasthani Jaipuri Bedsheet. Crafted f...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -59896,7 +62633,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.332Z",
-    "updatedAt": "2025-10-25T19:57:47.332Z"
+    "updatedAt": "2025-10-25T19:57:47.332Z",
+    "stock": 10,
+    "shortDescription": "Bring home the timeless beauty of Rajasthan with this elegant Rajasthani Jaipuri Bedsheet. Crafted f...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -59966,7 +62714,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.332Z",
-    "updatedAt": "2025-10-25T19:57:47.332Z"
+    "updatedAt": "2025-10-25T19:57:47.332Z",
+    "stock": 10,
+    "shortDescription": "Bring home the timeless beauty of Rajasthan with this elegant Rajasthani Jaipuri Bedsheet. Crafted f...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -60036,7 +62795,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.332Z",
-    "updatedAt": "2025-10-25T19:57:47.332Z"
+    "updatedAt": "2025-10-25T19:57:47.332Z",
+    "stock": 10,
+    "shortDescription": "Bring home the timeless beauty of Rajasthan with this elegant Rajasthani Jaipuri Bedsheet. Crafted f...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -60094,7 +62864,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.332Z",
-    "updatedAt": "2025-10-25T19:57:47.332Z"
+    "updatedAt": "2025-10-25T19:57:47.332Z",
+    "stock": 10,
+    "shortDescription": "Bring home the timeless beauty of Rajasthan with this elegant Rajasthani Jaipuri Bedsheet. Crafted f...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -60152,7 +62933,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.332Z",
-    "updatedAt": "2025-10-25T19:57:47.332Z"
+    "updatedAt": "2025-10-25T19:57:47.332Z",
+    "stock": 10,
+    "shortDescription": "Bring home the timeless beauty of Rajasthan with this elegant Rajasthani Jaipuri Bedsheet. Crafted f...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -60210,7 +63002,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.332Z",
-    "updatedAt": "2025-10-25T19:57:47.332Z"
+    "updatedAt": "2025-10-25T19:57:47.332Z",
+    "stock": 10,
+    "shortDescription": "Bring home the timeless beauty of Rajasthan with this elegant Rajasthani Jaipuri Bedsheet. Crafted f...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -60268,7 +63071,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.332Z",
-    "updatedAt": "2025-10-25T19:57:47.332Z"
+    "updatedAt": "2025-10-25T19:57:47.332Z",
+    "stock": 10,
+    "shortDescription": "Bring home the timeless beauty of Rajasthan with this elegant Rajasthani Jaipuri Bedsheet. Crafted f...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -60338,7 +63152,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.333Z",
-    "updatedAt": "2025-10-25T19:57:47.333Z"
+    "updatedAt": "2025-10-25T19:57:47.333Z",
+    "stock": 10,
+    "shortDescription": "Bring home the timeless beauty of Rajasthan with this elegant Rajasthani Jaipuri Bedsheet. Crafted f...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -60408,7 +63233,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.333Z",
-    "updatedAt": "2025-10-25T19:57:47.333Z"
+    "updatedAt": "2025-10-25T19:57:47.333Z",
+    "stock": 10,
+    "shortDescription": "Bring home the timeless beauty of Rajasthan with this elegant Rajasthani Jaipuri Bedsheet. Crafted f...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -60478,7 +63314,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.333Z",
-    "updatedAt": "2025-10-25T19:57:47.333Z"
+    "updatedAt": "2025-10-25T19:57:47.333Z",
+    "stock": 10,
+    "shortDescription": "Bring home the timeless beauty of Rajasthan with this elegant Rajasthani Jaipuri Bedsheet. Crafted f...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -60548,7 +63395,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.333Z",
-    "updatedAt": "2025-10-25T19:57:47.333Z"
+    "updatedAt": "2025-10-25T19:57:47.333Z",
+    "stock": 10,
+    "shortDescription": "Bring home the timeless beauty of Rajasthan with this elegant Rajasthani Jaipuri Bedsheet. Crafted f...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -60606,7 +63464,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.333Z",
-    "updatedAt": "2025-10-25T19:57:47.333Z"
+    "updatedAt": "2025-10-25T19:57:47.333Z",
+    "stock": 10,
+    "shortDescription": "Bring home the timeless beauty of Rajasthan with this elegant Rajasthani Jaipuri Bedsheet. Crafted f...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -60664,7 +63533,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.333Z",
-    "updatedAt": "2025-10-25T19:57:47.333Z"
+    "updatedAt": "2025-10-25T19:57:47.333Z",
+    "stock": 10,
+    "shortDescription": "Bring home the timeless beauty of Rajasthan with this elegant Rajasthani Jaipuri Bedsheet. Crafted f...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -60722,7 +63602,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.333Z",
-    "updatedAt": "2025-10-25T19:57:47.333Z"
+    "updatedAt": "2025-10-25T19:57:47.333Z",
+    "stock": 10,
+    "shortDescription": "Bring home the timeless beauty of Rajasthan with this elegant Rajasthani Jaipuri Bedsheet. Crafted f...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -60780,7 +63671,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.333Z",
-    "updatedAt": "2025-10-25T19:57:47.333Z"
+    "updatedAt": "2025-10-25T19:57:47.333Z",
+    "stock": 10,
+    "shortDescription": "Bring home the timeless beauty of Rajasthan with this elegant Rajasthani Jaipuri Bedsheet. Crafted f...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -60838,7 +63740,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.333Z",
-    "updatedAt": "2025-10-25T19:57:47.333Z"
+    "updatedAt": "2025-10-25T19:57:47.333Z",
+    "stock": 10,
+    "shortDescription": "Bring home the timeless beauty of Rajasthan with this elegant Rajasthani Jaipuri Bedsheet. Crafted f...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -60902,7 +63815,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.333Z",
-    "updatedAt": "2025-10-25T19:57:47.333Z"
+    "updatedAt": "2025-10-25T19:57:47.333Z",
+    "stock": 10,
+    "shortDescription": "Bring home the timeless beauty of Rajasthan with this elegant Rajasthani Jaipuri Bedsheet. Crafted f...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -60972,7 +63896,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.333Z",
-    "updatedAt": "2025-10-25T19:57:47.333Z"
+    "updatedAt": "2025-10-25T19:57:47.333Z",
+    "stock": 10,
+    "shortDescription": "Bring home the timeless beauty of Rajasthan with this elegant Rajasthani Jaipuri Bedsheet. Crafted f...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -61024,7 +63959,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.333Z",
-    "updatedAt": "2025-10-25T19:57:47.333Z"
+    "updatedAt": "2025-10-25T19:57:47.333Z",
+    "stock": 10,
+    "shortDescription": "Bring home the timeless beauty of Rajasthan with this elegant Rajasthani Jaipuri Bedsheet. Crafted f...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -61094,7 +64040,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.333Z",
-    "updatedAt": "2025-10-25T19:57:47.333Z"
+    "updatedAt": "2025-10-25T19:57:47.333Z",
+    "stock": 10,
+    "shortDescription": "Bring home the timeless beauty of Rajasthan with this elegant Rajasthani Jaipuri Bedsheet. Crafted f...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -61164,7 +64121,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.333Z",
-    "updatedAt": "2025-10-25T19:57:47.333Z"
+    "updatedAt": "2025-10-25T19:57:47.333Z",
+    "stock": 10,
+    "shortDescription": "Bring home the timeless beauty of Rajasthan with this elegant Rajasthani Jaipuri Bedsheet. Crafted f...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -61222,7 +64190,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.334Z",
-    "updatedAt": "2025-10-25T19:57:47.334Z"
+    "updatedAt": "2025-10-25T19:57:47.334Z",
+    "stock": 10,
+    "shortDescription": "Bring home the timeless beauty of Rajasthan with this elegant Rajasthani Jaipuri Bedsheet. Crafted f...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -61286,7 +64265,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.334Z",
-    "updatedAt": "2025-10-25T19:57:47.334Z"
+    "updatedAt": "2025-10-25T19:57:47.334Z",
+    "stock": 10,
+    "shortDescription": "Bring home the timeless beauty of Rajasthan with this elegant Rajasthani Jaipuri Bedsheet. Crafted f...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -61350,7 +64340,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.334Z",
-    "updatedAt": "2025-10-25T19:57:47.334Z"
+    "updatedAt": "2025-10-25T19:57:47.334Z",
+    "stock": 10,
+    "shortDescription": "Bring home the timeless beauty of Rajasthan with this elegant Rajasthani Jaipuri Bedsheet. Crafted f...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -61414,7 +64415,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.334Z",
-    "updatedAt": "2025-10-25T19:57:47.334Z"
+    "updatedAt": "2025-10-25T19:57:47.334Z",
+    "stock": 10,
+    "shortDescription": "Bring home the timeless beauty of Rajasthan with this elegant Rajasthani Jaipuri Bedsheet. Crafted f...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -61478,7 +64490,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.334Z",
-    "updatedAt": "2025-10-25T19:57:47.334Z"
+    "updatedAt": "2025-10-25T19:57:47.334Z",
+    "stock": 10,
+    "shortDescription": "Bring home the timeless beauty of Rajasthan with this elegant Rajasthani Jaipuri Bedsheet. Crafted f...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -61542,7 +64565,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.334Z",
-    "updatedAt": "2025-10-25T19:57:47.334Z"
+    "updatedAt": "2025-10-25T19:57:47.334Z",
+    "stock": 10,
+    "shortDescription": "Bring home the timeless beauty of Rajasthan with this elegant Rajasthani Jaipuri Bedsheet. Crafted f...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -61606,7 +64640,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.334Z",
-    "updatedAt": "2025-10-25T19:57:47.334Z"
+    "updatedAt": "2025-10-25T19:57:47.334Z",
+    "stock": 10,
+    "shortDescription": "Bring home the timeless beauty of Rajasthan with this elegant Rajasthani Jaipuri Bedsheet. Crafted f...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -61670,7 +64715,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.334Z",
-    "updatedAt": "2025-10-25T19:57:47.334Z"
+    "updatedAt": "2025-10-25T19:57:47.334Z",
+    "stock": 10,
+    "shortDescription": "Bring home the timeless beauty of Rajasthan with this elegant Rajasthani Jaipuri Bedsheet. Crafted f...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -61734,7 +64790,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.334Z",
-    "updatedAt": "2025-10-25T19:57:47.334Z"
+    "updatedAt": "2025-10-25T19:57:47.334Z",
+    "stock": 10,
+    "shortDescription": "Bring home the timeless beauty of Rajasthan with this elegant Rajasthani Jaipuri Bedsheet. Crafted f...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -61792,7 +64859,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.334Z",
-    "updatedAt": "2025-10-25T19:57:47.334Z"
+    "updatedAt": "2025-10-25T19:57:47.334Z",
+    "stock": 10,
+    "shortDescription": "Bring home the timeless beauty of Rajasthan with this elegant Rajasthani Jaipuri Bedsheet. Crafted f...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -61850,7 +64928,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.334Z",
-    "updatedAt": "2025-10-25T19:57:47.334Z"
+    "updatedAt": "2025-10-25T19:57:47.334Z",
+    "stock": 10,
+    "shortDescription": "Bring home the timeless beauty of Rajasthan with this elegant Rajasthani Jaipuri Bedsheet. Crafted f...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -61914,7 +65003,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.334Z",
-    "updatedAt": "2025-10-25T19:57:47.334Z"
+    "updatedAt": "2025-10-25T19:57:47.334Z",
+    "stock": 10,
+    "shortDescription": "Bring home the timeless beauty of Rajasthan with this elegant Rajasthani Jaipuri Bedsheet. Crafted f...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -61972,7 +65072,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.334Z",
-    "updatedAt": "2025-10-25T19:57:47.334Z"
+    "updatedAt": "2025-10-25T19:57:47.334Z",
+    "stock": 10,
+    "shortDescription": "Bring home the timeless beauty of Rajasthan with this elegant Rajasthani Jaipuri Bedsheet. Crafted f...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -62030,7 +65141,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.334Z",
-    "updatedAt": "2025-10-25T19:57:47.334Z"
+    "updatedAt": "2025-10-25T19:57:47.334Z",
+    "stock": 10,
+    "shortDescription": "Bring home the timeless beauty of Rajasthan with this elegant Rajasthani Jaipuri Bedsheet. Crafted f...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -62082,7 +65204,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.335Z",
-    "updatedAt": "2025-10-25T19:57:47.335Z"
+    "updatedAt": "2025-10-25T19:57:47.335Z",
+    "stock": 10,
+    "shortDescription": "Bring home the vibrant charm of Rajasthan with this beautifully handcrafted Rajasthani Jaipuri Bedsh...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -62140,7 +65273,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.335Z",
-    "updatedAt": "2025-10-25T19:57:47.335Z"
+    "updatedAt": "2025-10-25T19:57:47.335Z",
+    "stock": 10,
+    "shortDescription": "Bring home the vibrant charm of Rajasthan with this beautifully handcrafted Rajasthani Jaipuri Bedsh...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -62198,7 +65342,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.335Z",
-    "updatedAt": "2025-10-25T19:57:47.335Z"
+    "updatedAt": "2025-10-25T19:57:47.335Z",
+    "stock": 10,
+    "shortDescription": "Bring home the vibrant charm of Rajasthan with this beautifully handcrafted Rajasthani Jaipuri Bedsh...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -62256,7 +65411,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.335Z",
-    "updatedAt": "2025-10-25T19:57:47.335Z"
+    "updatedAt": "2025-10-25T19:57:47.335Z",
+    "stock": 10,
+    "shortDescription": "Bring home the vibrant charm of Rajasthan with this beautifully handcrafted Rajasthani Jaipuri Bedsh...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -62314,7 +65480,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.335Z",
-    "updatedAt": "2025-10-25T19:57:47.335Z"
+    "updatedAt": "2025-10-25T19:57:47.335Z",
+    "stock": 10,
+    "shortDescription": "Bring home the vibrant charm of Rajasthan with this beautifully handcrafted Rajasthani Jaipuri Bedsh...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -62372,7 +65549,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.335Z",
-    "updatedAt": "2025-10-25T19:57:47.335Z"
+    "updatedAt": "2025-10-25T19:57:47.335Z",
+    "stock": 10,
+    "shortDescription": "Bring home the vibrant charm of Rajasthan with this beautifully handcrafted Rajasthani Jaipuri Bedsh...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -62430,7 +65618,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.335Z",
-    "updatedAt": "2025-10-25T19:57:47.335Z"
+    "updatedAt": "2025-10-25T19:57:47.335Z",
+    "stock": 10,
+    "shortDescription": "Bring home the vibrant charm of Rajasthan with this beautifully handcrafted Rajasthani Jaipuri Bedsh...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -62488,7 +65687,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.335Z",
-    "updatedAt": "2025-10-25T19:57:47.335Z"
+    "updatedAt": "2025-10-25T19:57:47.335Z",
+    "stock": 10,
+    "shortDescription": "Bring home the vibrant charm of Rajasthan with this beautifully handcrafted Rajasthani Jaipuri Bedsh...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -62552,7 +65762,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.335Z",
-    "updatedAt": "2025-10-25T19:57:47.335Z"
+    "updatedAt": "2025-10-25T19:57:47.335Z",
+    "stock": 10,
+    "shortDescription": "Bring home the vibrant charm of Rajasthan with this beautifully handcrafted Rajasthani Jaipuri Bedsh...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -62616,7 +65837,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.335Z",
-    "updatedAt": "2025-10-25T19:57:47.335Z"
+    "updatedAt": "2025-10-25T19:57:47.335Z",
+    "stock": 10,
+    "shortDescription": "Bring home the vibrant charm of Rajasthan with this beautifully handcrafted Rajasthani Jaipuri Bedsh...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -62680,7 +65912,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.335Z",
-    "updatedAt": "2025-10-25T19:57:47.335Z"
+    "updatedAt": "2025-10-25T19:57:47.335Z",
+    "stock": 10,
+    "shortDescription": "Bring home the vibrant charm of Rajasthan with this beautifully handcrafted Rajasthani Jaipuri Bedsh...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -62744,7 +65987,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.335Z",
-    "updatedAt": "2025-10-25T19:57:47.335Z"
+    "updatedAt": "2025-10-25T19:57:47.335Z",
+    "stock": 10,
+    "shortDescription": "Bring home the vibrant charm of Rajasthan with this beautifully handcrafted Rajasthani Jaipuri Bedsh...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -62802,7 +66056,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.335Z",
-    "updatedAt": "2025-10-25T19:57:47.335Z"
+    "updatedAt": "2025-10-25T19:57:47.335Z",
+    "stock": 10,
+    "shortDescription": "Bring home the vibrant charm of Rajasthan with this beautifully handcrafted Rajasthani Jaipuri Bedsh...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -62860,7 +66125,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.335Z",
-    "updatedAt": "2025-10-25T19:57:47.335Z"
+    "updatedAt": "2025-10-25T19:57:47.335Z",
+    "stock": 10,
+    "shortDescription": "Bring home the vibrant charm of Rajasthan with this beautifully handcrafted Rajasthani Jaipuri Bedsh...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -62918,7 +66194,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.335Z",
-    "updatedAt": "2025-10-25T19:57:47.335Z"
+    "updatedAt": "2025-10-25T19:57:47.335Z",
+    "stock": 10,
+    "shortDescription": "Bring home the vibrant charm of Rajasthan with this beautifully handcrafted Rajasthani Jaipuri Bedsh...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -62976,7 +66263,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.335Z",
-    "updatedAt": "2025-10-25T19:57:47.335Z"
+    "updatedAt": "2025-10-25T19:57:47.335Z",
+    "stock": 10,
+    "shortDescription": "Bring home the vibrant charm of Rajasthan with this beautifully handcrafted Rajasthani Jaipuri Bedsh...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -63034,7 +66332,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.335Z",
-    "updatedAt": "2025-10-25T19:57:47.335Z"
+    "updatedAt": "2025-10-25T19:57:47.335Z",
+    "stock": 10,
+    "shortDescription": "Bring home the vibrant charm of Rajasthan with this beautifully handcrafted Rajasthani Jaipuri Bedsh...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -63104,7 +66413,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.335Z",
-    "updatedAt": "2025-10-25T19:57:47.335Z"
+    "updatedAt": "2025-10-25T19:57:47.335Z",
+    "stock": 10,
+    "shortDescription": "Bring home the vibrant charm of Rajasthan with this beautifully handcrafted Rajasthani Jaipuri Bedsh...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -63174,7 +66494,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.335Z",
-    "updatedAt": "2025-10-25T19:57:47.335Z"
+    "updatedAt": "2025-10-25T19:57:47.335Z",
+    "stock": 10,
+    "shortDescription": "Bring home the vibrant charm of Rajasthan with this beautifully handcrafted Rajasthani Jaipuri Bedsh...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -63244,7 +66575,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.335Z",
-    "updatedAt": "2025-10-25T19:57:47.335Z"
+    "updatedAt": "2025-10-25T19:57:47.335Z",
+    "stock": 10,
+    "shortDescription": "Bring home the vibrant charm of Rajasthan with this beautifully handcrafted Rajasthani Jaipuri Bedsh...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -63302,7 +66644,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.335Z",
-    "updatedAt": "2025-10-25T19:57:47.335Z"
+    "updatedAt": "2025-10-25T19:57:47.335Z",
+    "stock": 10,
+    "shortDescription": "Bring home the vibrant charm of Rajasthan with this beautifully handcrafted Rajasthani Jaipuri Bedsh...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -63360,7 +66713,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.335Z",
-    "updatedAt": "2025-10-25T19:57:47.335Z"
+    "updatedAt": "2025-10-25T19:57:47.335Z",
+    "stock": 10,
+    "shortDescription": "Bring home the vibrant charm of Rajasthan with this beautifully handcrafted Rajasthani Jaipuri Bedsh...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -63418,7 +66782,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.335Z",
-    "updatedAt": "2025-10-25T19:57:47.335Z"
+    "updatedAt": "2025-10-25T19:57:47.335Z",
+    "stock": 10,
+    "shortDescription": "Bring home the vibrant charm of Rajasthan with this beautifully handcrafted Rajasthani Jaipuri Bedsh...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -63476,7 +66851,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.335Z",
-    "updatedAt": "2025-10-25T19:57:47.335Z"
+    "updatedAt": "2025-10-25T19:57:47.335Z",
+    "stock": 10,
+    "shortDescription": "Bring home the vibrant charm of Rajasthan with this beautifully handcrafted Rajasthani Jaipuri Bedsh...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -63534,7 +66920,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.335Z",
-    "updatedAt": "2025-10-25T19:57:47.335Z"
+    "updatedAt": "2025-10-25T19:57:47.335Z",
+    "stock": 10,
+    "shortDescription": "Bring home the vibrant charm of Rajasthan with this beautifully handcrafted Rajasthani Jaipuri Bedsh...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -63598,7 +66995,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.335Z",
-    "updatedAt": "2025-10-25T19:57:47.335Z"
+    "updatedAt": "2025-10-25T19:57:47.335Z",
+    "stock": 10,
+    "shortDescription": "Bring home the vibrant charm of Rajasthan with this beautifully handcrafted Rajasthani Jaipuri Bedsh...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -63662,7 +67070,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.335Z",
-    "updatedAt": "2025-10-25T19:57:47.335Z"
+    "updatedAt": "2025-10-25T19:57:47.335Z",
+    "stock": 10,
+    "shortDescription": "Bring home the vibrant charm of Rajasthan with this beautifully handcrafted Rajasthani Jaipuri Bedsh...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -63726,7 +67145,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.335Z",
-    "updatedAt": "2025-10-25T19:57:47.335Z"
+    "updatedAt": "2025-10-25T19:57:47.335Z",
+    "stock": 10,
+    "shortDescription": "Bring home the vibrant charm of Rajasthan with this beautifully handcrafted Rajasthani Jaipuri Bedsh...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -63784,7 +67214,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.335Z",
-    "updatedAt": "2025-10-25T19:57:47.335Z"
+    "updatedAt": "2025-10-25T19:57:47.335Z",
+    "stock": 10,
+    "shortDescription": "Bring home the vibrant charm of Rajasthan with this beautifully handcrafted Rajasthani Jaipuri Bedsh...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -63842,7 +67283,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.335Z",
-    "updatedAt": "2025-10-25T19:57:47.335Z"
+    "updatedAt": "2025-10-25T19:57:47.335Z",
+    "stock": 10,
+    "shortDescription": "Bring home the vibrant charm of Rajasthan with this beautifully handcrafted Rajasthani Jaipuri Bedsh...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -63894,7 +67346,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.335Z",
-    "updatedAt": "2025-10-25T19:57:47.335Z"
+    "updatedAt": "2025-10-25T19:57:47.335Z",
+    "stock": 10,
+    "shortDescription": "Bring home the vibrant charm of Rajasthan with this beautifully handcrafted Rajasthani Jaipuri Bedsh...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -63946,7 +67409,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.335Z",
-    "updatedAt": "2025-10-25T19:57:47.335Z"
+    "updatedAt": "2025-10-25T19:57:47.335Z",
+    "stock": 10,
+    "shortDescription": "Bring home the vibrant charm of Rajasthan with this beautifully handcrafted Rajasthani Jaipuri Bedsh...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -64004,7 +67478,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.335Z",
-    "updatedAt": "2025-10-25T19:57:47.335Z"
+    "updatedAt": "2025-10-25T19:57:47.335Z",
+    "stock": 10,
+    "shortDescription": "Bring home the vibrant charm of Rajasthan with this beautifully handcrafted Rajasthani Jaipuri Bedsh...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -64068,7 +67553,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.335Z",
-    "updatedAt": "2025-10-25T19:57:47.335Z"
+    "updatedAt": "2025-10-25T19:57:47.335Z",
+    "stock": 10,
+    "shortDescription": "Bring home the vibrant charm of Rajasthan with this beautifully handcrafted Rajasthani Jaipuri Bedsh...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -64132,7 +67628,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.335Z",
-    "updatedAt": "2025-10-25T19:57:47.335Z"
+    "updatedAt": "2025-10-25T19:57:47.335Z",
+    "stock": 10,
+    "shortDescription": "Bring home the vibrant charm of Rajasthan with this beautifully handcrafted Rajasthani Jaipuri Bedsh...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -64196,7 +67703,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.335Z",
-    "updatedAt": "2025-10-25T19:57:47.335Z"
+    "updatedAt": "2025-10-25T19:57:47.335Z",
+    "stock": 10,
+    "shortDescription": "Bring home the vibrant charm of Rajasthan with this beautifully handcrafted Rajasthani Jaipuri Bedsh...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -64260,7 +67778,18 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.335Z",
-    "updatedAt": "2025-10-25T19:57:47.335Z"
+    "updatedAt": "2025-10-25T19:57:47.335Z",
+    "stock": 10,
+    "shortDescription": "Bring home the vibrant charm of Rajasthan with this beautifully handcrafted Rajasthani Jaipuri Bedsh...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   },
   {
     "id": "prod-NaN",
@@ -64324,6 +67853,17 @@
     "material": "Cotton",
     "careInstructions": "Machine washable",
     "createdAt": "2025-10-25T19:57:47.335Z",
-    "updatedAt": "2025-10-25T19:57:47.335Z"
+    "updatedAt": "2025-10-25T19:57:47.335Z",
+    "stock": 10,
+    "shortDescription": "Bring home the vibrant charm of Rajasthan with this beautifully handcrafted Rajasthani Jaipuri Bedsh...",
+    "materials": "Cotton",
+    "artisanNote": "Handcrafted with traditional techniques",
+    "featured": false,
+    "sizes": [
+      "Single",
+      "Double",
+      "King",
+      "Queen"
+    ]
   }
 ]
