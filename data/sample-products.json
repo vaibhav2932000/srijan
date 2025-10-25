@@ -51080,5 +51080,1461 @@
       "King",
       "Queen"
     ]
+  },
+  {
+    "id": "prod-gown-Leheriya-inspired design",
+    "title": "and special gatherings.\"",
+    "slug": "wedding-gown-leheriya-inspired design",
+    "shortDescription": "1...",
+    "description": "1",
+    "price": 12999,
+    "salePrice": 9619,
+    "sku": "Leheriya-inspired design",
+    "stock": 15,
+    "inStock": true,
+    "images": [
+      {
+        "id": "img-1761424819719",
+        "url": "https://images.unsplash.com/photo-1594736797933-d0c0b0b0b0b0?w=600&q=80",
+        "alt": "Wedding Gown",
+        "position": 1
+      }
+    ],
+    "thumbnail": "https://images.unsplash.com/photo-1594736797933-d0c0b0b0b0b0?w=600&q=80",
+    "category": {
+      "id": "cat-2",
+      "name": "Clothing",
+      "slug": "clothing"
+    },
+    "subcategory": {
+      "id": "subcat-wedding-gowns",
+      "name": "Wedding Gowns",
+      "slug": "wedding-gowns"
+    },
+    "tags": [
+      "wedding",
+      "gown",
+      "bridal",
+      "formal",
+      "elegant"
+    ],
+    "materials": "Premium Georgette and Organza",
+    "dimensions": "Standard wedding gown dimensions",
+    "careInstructions": "Dry clean only",
+    "artisanNote": "Handcrafted with intricate embroidery and premium materials",
+    "featured": false,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "createdAt": "2025-10-25T20:40:19.719Z",
+    "updatedAt": "2025-10-25T20:40:19.720Z"
+  },
+  {
+    "id": "prod-gown-parties",
+    "title": "and sophistication.\"",
+    "slug": "wedding-gown-parties",
+    "shortDescription": "1...",
+    "description": "1",
+    "price": 12999,
+    "salePrice": 9229,
+    "sku": "parties",
+    "stock": 15,
+    "inStock": true,
+    "images": [
+      {
+        "id": "img-1761424819724-0",
+        "url": "https://imagizer.imageshack.com/img922/49/CcLhbr.jpg",
+        "alt": "Wedding Gown Image 1",
+        "position": 1
+      }
+    ],
+    "thumbnail": "https://imagizer.imageshack.com/img922/49/CcLhbr.jpg",
+    "category": {
+      "id": "cat-2",
+      "name": "Clothing",
+      "slug": "clothing"
+    },
+    "subcategory": {
+      "id": "subcat-wedding-gowns",
+      "name": "Wedding Gowns",
+      "slug": "wedding-gowns"
+    },
+    "tags": [
+      "wedding",
+      "gown",
+      "bridal",
+      "formal",
+      "elegant"
+    ],
+    "materials": "Premium Georgette and Organza",
+    "dimensions": "Standard wedding gown dimensions",
+    "careInstructions": "Dry clean only",
+    "artisanNote": "Handcrafted with intricate embroidery and premium materials",
+    "featured": false,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "createdAt": "2025-10-25T20:40:19.724Z",
+    "updatedAt": "2025-10-25T20:40:19.724Z"
+  },
+  {
+    "id": "prod-gown-enhances the overall charm of this designer ensemble. Available in 3 stunning colors � Maroon",
+    "title": "or any glamorous event.\"",
+    "slug": "wedding-gown-enhances the overall charm of this designer ensemble. available in 3 stunning colors � maroon",
+    "shortDescription": "1...",
+    "description": "1",
+    "price": 12999,
+    "salePrice": 10269,
+    "sku": "enhances the overall charm of this designer ensemble. Available in 3 stunning colors � Maroon",
+    "stock": 15,
+    "inStock": true,
+    "images": [
+      {
+        "id": "img-1761424819728-0",
+        "url": "https://imagizer.imageshack.com/img922/397/r1hFLS.jpg",
+        "alt": "Wedding Gown Image 1",
+        "position": 1
+      }
+    ],
+    "thumbnail": "https://imagizer.imageshack.com/img922/397/r1hFLS.jpg",
+    "category": {
+      "id": "cat-2",
+      "name": "Clothing",
+      "slug": "clothing"
+    },
+    "subcategory": {
+      "id": "subcat-wedding-gowns",
+      "name": "Wedding Gowns",
+      "slug": "wedding-gowns"
+    },
+    "tags": [
+      "wedding",
+      "gown",
+      "bridal",
+      "formal",
+      "elegant"
+    ],
+    "materials": "Premium Georgette and Organza",
+    "dimensions": "Standard wedding gown dimensions",
+    "careInstructions": "Dry clean only",
+    "artisanNote": "Handcrafted with intricate embroidery and premium materials",
+    "featured": false,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "createdAt": "2025-10-25T20:40:19.728Z",
+    "updatedAt": "2025-10-25T20:40:19.728Z"
+  },
+  {
+    "id": "prod-gown-a sophisticated V-neck at the front and back",
+    "title": "this gown promises a blend of tradition",
+    "slug": "wedding-gown-a sophisticated v-neck at the front and back",
+    "shortDescription": "taxable...",
+    "description": "taxable",
+    "price": 12999,
+    "salePrice": 9229,
+    "sku": "a sophisticated V-neck at the front and back",
+    "stock": 15,
+    "inStock": true,
+    "images": [
+      {
+        "id": "img-1761424819731-0",
+        "url": "https://imagizer.imageshack.com/img924/387/cck2Dj.jpg",
+        "alt": "Wedding Gown Image 1",
+        "position": 1
+      }
+    ],
+    "thumbnail": "https://imagizer.imageshack.com/img924/387/cck2Dj.jpg",
+    "category": {
+      "id": "cat-2",
+      "name": "Clothing",
+      "slug": "clothing"
+    },
+    "subcategory": {
+      "id": "subcat-wedding-gowns",
+      "name": "Wedding Gowns",
+      "slug": "wedding-gowns"
+    },
+    "tags": [
+      "wedding",
+      "gown",
+      "bridal",
+      "formal",
+      "elegant"
+    ],
+    "materials": "Premium Georgette and Organza",
+    "dimensions": "Standard wedding gown dimensions",
+    "careInstructions": "Dry clean only",
+    "artisanNote": "Handcrafted with intricate embroidery and premium materials",
+    "featured": false,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "createdAt": "2025-10-25T20:40:19.731Z",
+    "updatedAt": "2025-10-25T20:40:19.731Z"
+  },
+  {
+    "id": "prod-gown-and a patterned neckline for a modern ethnic appeal. With soft cotton lining and a back dori closure",
+    "title": "or traditional gatherings.",
+    "slug": "wedding-gown-and a patterned neckline for a modern ethnic appeal. with soft cotton lining and a back dori closure",
+    "shortDescription": "...",
+    "description": "Elegant wedding gown for special occasions",
+    "price": 12999,
+    "salePrice": 10009,
+    "sku": "and a patterned neckline for a modern ethnic appeal. With soft cotton lining and a back dori closure",
+    "stock": 15,
+    "inStock": true,
+    "images": [
+      {
+        "id": "img-1761424819731",
+        "url": "https://images.unsplash.com/photo-1594736797933-d0c0b0b0b0b0?w=600&q=80",
+        "alt": "Wedding Gown",
+        "position": 1
+      }
+    ],
+    "thumbnail": "https://images.unsplash.com/photo-1594736797933-d0c0b0b0b0b0?w=600&q=80",
+    "category": {
+      "id": "cat-2",
+      "name": "Clothing",
+      "slug": "clothing"
+    },
+    "subcategory": {
+      "id": "subcat-wedding-gowns",
+      "name": "Wedding Gowns",
+      "slug": "wedding-gowns"
+    },
+    "tags": [
+      "wedding",
+      "gown",
+      "bridal",
+      "formal",
+      "elegant"
+    ],
+    "materials": "Premium Georgette and Organza",
+    "dimensions": "Standard wedding gown dimensions",
+    "careInstructions": "Dry clean only",
+    "artisanNote": "Handcrafted with intricate embroidery and premium materials",
+    "featured": false,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "createdAt": "2025-10-25T20:40:19.731Z",
+    "updatedAt": "2025-10-25T20:40:19.731Z"
+  },
+  {
+    "id": "prod-gown-is adorned with intricate sequins and embroidered detailing",
+    "title": "this gown-dupatta set offers both style and comfort. Perfect for weddings",
+    "slug": "wedding-gown-is adorned with intricate sequins and embroidered detailing",
+    "shortDescription": "or cultural gatherings",
+    "description": "it strikes the perfect balance of tradition and modern design.\"",
+    "price": 15999,
+    "salePrice": 12159,
+    "sku": "is adorned with intricate sequins and embroidered detailing",
+    "stock": 15,
+    "inStock": true,
+    "images": [
+      {
+        "id": "img-1761424819731-0",
+        "url": "\"https://imagizer.imageshack.com/img922/5531/p7avF7.jpg",
+        "alt": "Wedding Gown Image 1",
+        "position": 1
+      }
+    ],
+    "thumbnail": "\"https://imagizer.imageshack.com/img922/5531/p7avF7.jpg",
+    "category": {
+      "id": "cat-2",
+      "name": "Clothing",
+      "slug": "clothing"
+    },
+    "subcategory": {
+      "id": "subcat-wedding-gowns",
+      "name": "Wedding Gowns",
+      "slug": "wedding-gowns"
+    },
+    "tags": [
+      "wedding",
+      "gown",
+      "bridal",
+      "formal",
+      "elegant"
+    ],
+    "materials": "Premium Georgette and Organza",
+    "dimensions": "Standard wedding gown dimensions",
+    "careInstructions": "Dry clean only",
+    "artisanNote": "Handcrafted with intricate embroidery and premium materials",
+    "featured": false,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "createdAt": "2025-10-25T20:40:19.731Z",
+    "updatedAt": "2025-10-25T20:40:19.731Z"
+  },
+  {
+    "id": "prod-gown-adds a luxurious finishing touch. Stitched in L size (adjustable up to 44\"\")",
+    "title": "this gown-dupatta set is perfect for Navratri",
+    "slug": "wedding-gown-adds a luxurious finishing touch. stitched in l size (adjustable up to 44\"\")",
+    "shortDescription": "...",
+    "description": "Elegant wedding gown for special occasions",
+    "price": 15999,
+    "salePrice": 12319,
+    "sku": "adds a luxurious finishing touch. Stitched in L size (adjustable up to 44\"\")",
+    "stock": 15,
+    "inStock": true,
+    "images": [
+      {
+        "id": "img-1761424819731-0",
+        "url": "https://imagizer.imageshack.com/img924/710/7EC5qU.jpg",
+        "alt": "Wedding Gown Image 1",
+        "position": 1
+      }
+    ],
+    "thumbnail": "https://imagizer.imageshack.com/img924/710/7EC5qU.jpg",
+    "category": {
+      "id": "cat-2",
+      "name": "Clothing",
+      "slug": "clothing"
+    },
+    "subcategory": {
+      "id": "subcat-wedding-gowns",
+      "name": "Wedding Gowns",
+      "slug": "wedding-gowns"
+    },
+    "tags": [
+      "wedding",
+      "gown",
+      "bridal",
+      "formal",
+      "elegant"
+    ],
+    "materials": "Premium Georgette and Organza",
+    "dimensions": "Standard wedding gown dimensions",
+    "careInstructions": "Dry clean only",
+    "artisanNote": "Handcrafted with intricate embroidery and premium materials",
+    "featured": false,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "createdAt": "2025-10-25T20:40:19.731Z",
+    "updatedAt": "2025-10-25T20:40:19.731Z"
+  },
+  {
+    "id": "prod-gown-a graceful 56-inch length",
+    "title": "it ensures you stand out at any occasion.\"",
+    "slug": "wedding-gown-a graceful 56-inch length",
+    "shortDescription": "1...",
+    "description": "1",
+    "price": 12999,
+    "salePrice": 10399,
+    "sku": "a graceful 56-inch length",
+    "stock": 15,
+    "inStock": true,
+    "images": [
+      {
+        "id": "img-1761424819731-0",
+        "url": "https://imagizer.imageshack.com/img924/8097/xDS7Nl.jpg",
+        "alt": "Wedding Gown Image 1",
+        "position": 1
+      }
+    ],
+    "thumbnail": "https://imagizer.imageshack.com/img924/8097/xDS7Nl.jpg",
+    "category": {
+      "id": "cat-2",
+      "name": "Clothing",
+      "slug": "clothing"
+    },
+    "subcategory": {
+      "id": "subcat-wedding-gowns",
+      "name": "Wedding Gowns",
+      "slug": "wedding-gowns"
+    },
+    "tags": [
+      "wedding",
+      "gown",
+      "bridal",
+      "formal",
+      "elegant"
+    ],
+    "materials": "Premium Georgette and Organza",
+    "dimensions": "Standard wedding gown dimensions",
+    "careInstructions": "Dry clean only",
+    "artisanNote": "Handcrafted with intricate embroidery and premium materials",
+    "featured": false,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "createdAt": "2025-10-25T20:40:19.731Z",
+    "updatedAt": "2025-10-25T20:40:19.731Z"
+  },
+  {
+    "id": "prod-gown-LW-90961",
+    "title": "Elegant White And Blue Georgette Gown with Soft Organza Dupatta",
+    "slug": "wedding-gown-lw-90961",
+    "shortDescription": "Premium designer ready-to-wear gown set crafted from soft georgette with intricate thousand butti wo...",
+    "description": "Premium designer ready-to-wear gown set crafted from soft georgette with intricate thousand butti work. Features a flattering round neck, full sleeves, and flowing silhouette. Perfect for festive occasions, parties, and special events.",
+    "price": 18999,
+    "salePrice": 13679,
+    "sku": "LW-90961",
+    "stock": 15,
+    "inStock": true,
+    "images": [
+      {
+        "id": "img-gown-LW-90961",
+        "url": "https://images.unsplash.com/photo-1594736797933-d0c0b0b0b0b0?w=600&q=80",
+        "alt": "Wedding Gown",
+        "position": 1
+      }
+    ],
+    "thumbnail": "https://images.unsplash.com/photo-1594736797933-d0c0b0b0b0b0?w=600&q=80",
+    "category": {
+      "id": "cat-2",
+      "name": "Clothing",
+      "slug": "clothing"
+    },
+    "subcategory": {
+      "id": "subcat-wedding-gowns",
+      "name": "Wedding Gowns",
+      "slug": "wedding-gowns"
+    },
+    "tags": [
+      "wedding",
+      "gown",
+      "bridal",
+      "formal",
+      "elegant"
+    ],
+    "materials": "Premium Georgette and Organza",
+    "dimensions": "Standard wedding gown dimensions",
+    "careInstructions": "Dry clean only",
+    "artisanNote": "Handcrafted with intricate embroidery and premium materials",
+    "featured": false,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "createdAt": "2025-10-25T20:41:17.818Z",
+    "updatedAt": "2025-10-25T20:41:17.822Z"
+  },
+  {
+    "id": "prod-gown-LW-90962",
+    "title": "Elegant White And Green Georgette Gown with Soft Organza Dupatta",
+    "slug": "wedding-gown-lw-90962",
+    "shortDescription": "Premium designer ready-to-wear gown set crafted from soft georgette with intricate thousand butti wo...",
+    "description": "Premium designer ready-to-wear gown set crafted from soft georgette with intricate thousand butti work. Features a flattering round neck, full sleeves, and flowing silhouette. Perfect for festive occasions, parties, and special events.",
+    "price": 18999,
+    "salePrice": 14059,
+    "sku": "LW-90962",
+    "stock": 15,
+    "inStock": true,
+    "images": [
+      {
+        "id": "img-gown-LW-90962",
+        "url": "https://images.unsplash.com/photo-1594736797933-d0c0b0b0b0b0?w=600&q=80",
+        "alt": "Wedding Gown",
+        "position": 1
+      }
+    ],
+    "thumbnail": "https://images.unsplash.com/photo-1594736797933-d0c0b0b0b0b0?w=600&q=80",
+    "category": {
+      "id": "cat-2",
+      "name": "Clothing",
+      "slug": "clothing"
+    },
+    "subcategory": {
+      "id": "subcat-wedding-gowns",
+      "name": "Wedding Gowns",
+      "slug": "wedding-gowns"
+    },
+    "tags": [
+      "wedding",
+      "gown",
+      "bridal",
+      "formal",
+      "elegant"
+    ],
+    "materials": "Premium Georgette and Organza",
+    "dimensions": "Standard wedding gown dimensions",
+    "careInstructions": "Dry clean only",
+    "artisanNote": "Handcrafted with intricate embroidery and premium materials",
+    "featured": false,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "createdAt": "2025-10-25T20:41:17.822Z",
+    "updatedAt": "2025-10-25T20:41:17.822Z"
+  },
+  {
+    "id": "prod-gown-LW-90963",
+    "title": "Elegant White And Pink Georgette Gown with Soft Organza Dupatta",
+    "slug": "wedding-gown-lw-90963",
+    "shortDescription": "Premium designer ready-to-wear gown set crafted from soft georgette with intricate thousand butti wo...",
+    "description": "Premium designer ready-to-wear gown set crafted from soft georgette with intricate thousand butti work. Features a flattering round neck, full sleeves, and flowing silhouette. Perfect for festive occasions, parties, and special events.",
+    "price": 18999,
+    "salePrice": 15009,
+    "sku": "LW-90963",
+    "stock": 15,
+    "inStock": true,
+    "images": [
+      {
+        "id": "img-gown-LW-90963",
+        "url": "https://images.unsplash.com/photo-1594736797933-d0c0b0b0b0b0?w=600&q=80",
+        "alt": "Wedding Gown",
+        "position": 1
+      }
+    ],
+    "thumbnail": "https://images.unsplash.com/photo-1594736797933-d0c0b0b0b0b0?w=600&q=80",
+    "category": {
+      "id": "cat-2",
+      "name": "Clothing",
+      "slug": "clothing"
+    },
+    "subcategory": {
+      "id": "subcat-wedding-gowns",
+      "name": "Wedding Gowns",
+      "slug": "wedding-gowns"
+    },
+    "tags": [
+      "wedding",
+      "gown",
+      "bridal",
+      "formal",
+      "elegant"
+    ],
+    "materials": "Premium Georgette and Organza",
+    "dimensions": "Standard wedding gown dimensions",
+    "careInstructions": "Dry clean only",
+    "artisanNote": "Handcrafted with intricate embroidery and premium materials",
+    "featured": false,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "createdAt": "2025-10-25T20:41:17.822Z",
+    "updatedAt": "2025-10-25T20:41:17.822Z"
+  },
+  {
+    "id": "prod-gown-LW-91161",
+    "title": "Elegant Maroon Georgette Gown with Embroidered Dupatta",
+    "slug": "wedding-gown-lw-91161",
+    "shortDescription": "Stunning maroon georgette gown with intricate embroidery work. Features elegant design with premium ...",
+    "description": "Stunning maroon georgette gown with intricate embroidery work. Features elegant design with premium fabric and detailed craftsmanship. Perfect for weddings and special occasions.",
+    "price": 18999,
+    "salePrice": 13869,
+    "sku": "LW-91161",
+    "stock": 15,
+    "inStock": true,
+    "images": [
+      {
+        "id": "img-gown-LW-91161",
+        "url": "https://images.unsplash.com/photo-1594736797933-d0c0b0b0b0b0?w=600&q=80",
+        "alt": "Wedding Gown",
+        "position": 1
+      }
+    ],
+    "thumbnail": "https://images.unsplash.com/photo-1594736797933-d0c0b0b0b0b0?w=600&q=80",
+    "category": {
+      "id": "cat-2",
+      "name": "Clothing",
+      "slug": "clothing"
+    },
+    "subcategory": {
+      "id": "subcat-wedding-gowns",
+      "name": "Wedding Gowns",
+      "slug": "wedding-gowns"
+    },
+    "tags": [
+      "wedding",
+      "gown",
+      "bridal",
+      "formal",
+      "elegant"
+    ],
+    "materials": "Premium Georgette and Organza",
+    "dimensions": "Standard wedding gown dimensions",
+    "careInstructions": "Dry clean only",
+    "artisanNote": "Handcrafted with intricate embroidery and premium materials",
+    "featured": false,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "createdAt": "2025-10-25T20:41:17.822Z",
+    "updatedAt": "2025-10-25T20:41:17.822Z"
+  },
+  {
+    "id": "prod-gown-LW-91181",
+    "title": "Elegant Navy Blue Georgette Gown with Zari Work",
+    "slug": "wedding-gown-lw-91181",
+    "shortDescription": "Beautiful navy blue georgette gown with traditional zari embroidery. Features sophisticated design w...",
+    "description": "Beautiful navy blue georgette gown with traditional zari embroidery. Features sophisticated design with premium materials. Ideal for formal events and celebrations.",
+    "price": 20999,
+    "salePrice": 14909,
+    "sku": "LW-91181",
+    "stock": 15,
+    "inStock": true,
+    "images": [
+      {
+        "id": "img-gown-LW-91181",
+        "url": "https://images.unsplash.com/photo-1594736797933-d0c0b0b0b0b0?w=600&q=80",
+        "alt": "Wedding Gown",
+        "position": 1
+      }
+    ],
+    "thumbnail": "https://images.unsplash.com/photo-1594736797933-d0c0b0b0b0b0?w=600&q=80",
+    "category": {
+      "id": "cat-2",
+      "name": "Clothing",
+      "slug": "clothing"
+    },
+    "subcategory": {
+      "id": "subcat-wedding-gowns",
+      "name": "Wedding Gowns",
+      "slug": "wedding-gowns"
+    },
+    "tags": [
+      "wedding",
+      "gown",
+      "bridal",
+      "formal",
+      "elegant"
+    ],
+    "materials": "Premium Georgette and Organza",
+    "dimensions": "Standard wedding gown dimensions",
+    "careInstructions": "Dry clean only",
+    "artisanNote": "Handcrafted with intricate embroidery and premium materials",
+    "featured": false,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "createdAt": "2025-10-25T20:41:17.822Z",
+    "updatedAt": "2025-10-25T20:41:17.822Z"
+  },
+  {
+    "id": "prod-gown-LW-91201",
+    "title": "Elegant Purple Georgette Gown with Organza Dupatta",
+    "slug": "wedding-gown-lw-91201",
+    "shortDescription": "Gorgeous purple georgette gown paired with luxurious organza dupatta. Features intricate detailing a...",
+    "description": "Gorgeous purple georgette gown paired with luxurious organza dupatta. Features intricate detailing and premium craftsmanship. Perfect for special occasions and festive events.",
+    "price": 18999,
+    "salePrice": 14059,
+    "sku": "LW-91201",
+    "stock": 15,
+    "inStock": true,
+    "images": [
+      {
+        "id": "img-gown-LW-91201",
+        "url": "https://images.unsplash.com/photo-1594736797933-d0c0b0b0b0b0?w=600&q=80",
+        "alt": "Wedding Gown",
+        "position": 1
+      }
+    ],
+    "thumbnail": "https://images.unsplash.com/photo-1594736797933-d0c0b0b0b0b0?w=600&q=80",
+    "category": {
+      "id": "cat-2",
+      "name": "Clothing",
+      "slug": "clothing"
+    },
+    "subcategory": {
+      "id": "subcat-wedding-gowns",
+      "name": "Wedding Gowns",
+      "slug": "wedding-gowns"
+    },
+    "tags": [
+      "wedding",
+      "gown",
+      "bridal",
+      "formal",
+      "elegant"
+    ],
+    "materials": "Premium Georgette and Organza",
+    "dimensions": "Standard wedding gown dimensions",
+    "careInstructions": "Dry clean only",
+    "artisanNote": "Handcrafted with intricate embroidery and premium materials",
+    "featured": false,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "createdAt": "2025-10-25T20:41:17.823Z",
+    "updatedAt": "2025-10-25T20:41:17.823Z"
+  },
+  {
+    "id": "prod-gown-LW-91202",
+    "title": "Elegant Red Georgette Gown with Embroidered Details",
+    "slug": "wedding-gown-lw-91202",
+    "shortDescription": "Stunning red georgette gown with beautiful embroidery work. Features elegant design with premium fab...",
+    "description": "Stunning red georgette gown with beautiful embroidery work. Features elegant design with premium fabric and detailed craftsmanship. Perfect for weddings and celebrations.",
+    "price": 15999,
+    "salePrice": 11359,
+    "sku": "LW-91202",
+    "stock": 15,
+    "inStock": true,
+    "images": [
+      {
+        "id": "img-gown-LW-91202",
+        "url": "https://images.unsplash.com/photo-1594736797933-d0c0b0b0b0b0?w=600&q=80",
+        "alt": "Wedding Gown",
+        "position": 1
+      }
+    ],
+    "thumbnail": "https://images.unsplash.com/photo-1594736797933-d0c0b0b0b0b0?w=600&q=80",
+    "category": {
+      "id": "cat-2",
+      "name": "Clothing",
+      "slug": "clothing"
+    },
+    "subcategory": {
+      "id": "subcat-wedding-gowns",
+      "name": "Wedding Gowns",
+      "slug": "wedding-gowns"
+    },
+    "tags": [
+      "wedding",
+      "gown",
+      "bridal",
+      "formal",
+      "elegant"
+    ],
+    "materials": "Premium Georgette and Organza",
+    "dimensions": "Standard wedding gown dimensions",
+    "careInstructions": "Dry clean only",
+    "artisanNote": "Handcrafted with intricate embroidery and premium materials",
+    "featured": false,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "createdAt": "2025-10-25T20:41:17.823Z",
+    "updatedAt": "2025-10-25T20:41:17.823Z"
+  },
+  {
+    "id": "prod-gown-LW-91203",
+    "title": "Elegant Gold Georgette Gown with Zari Work",
+    "slug": "wedding-gown-lw-91203",
+    "shortDescription": "Luxurious gold georgette gown with traditional zari embroidery. Features sophisticated design with p...",
+    "description": "Luxurious gold georgette gown with traditional zari embroidery. Features sophisticated design with premium materials. Ideal for formal events and special occasions.",
+    "price": 20999,
+    "salePrice": 15539,
+    "sku": "LW-91203",
+    "stock": 15,
+    "inStock": true,
+    "images": [
+      {
+        "id": "img-gown-LW-91203",
+        "url": "https://images.unsplash.com/photo-1594736797933-d0c0b0b0b0b0?w=600&q=80",
+        "alt": "Wedding Gown",
+        "position": 1
+      }
+    ],
+    "thumbnail": "https://images.unsplash.com/photo-1594736797933-d0c0b0b0b0b0?w=600&q=80",
+    "category": {
+      "id": "cat-2",
+      "name": "Clothing",
+      "slug": "clothing"
+    },
+    "subcategory": {
+      "id": "subcat-wedding-gowns",
+      "name": "Wedding Gowns",
+      "slug": "wedding-gowns"
+    },
+    "tags": [
+      "wedding",
+      "gown",
+      "bridal",
+      "formal",
+      "elegant"
+    ],
+    "materials": "Premium Georgette and Organza",
+    "dimensions": "Standard wedding gown dimensions",
+    "careInstructions": "Dry clean only",
+    "artisanNote": "Handcrafted with intricate embroidery and premium materials",
+    "featured": false,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "createdAt": "2025-10-25T20:41:17.823Z",
+    "updatedAt": "2025-10-25T20:41:17.823Z"
+  },
+  {
+    "id": "prod-gown-LW-91281",
+    "title": "Elegant Black Georgette Gown with Embroidered Dupatta",
+    "slug": "wedding-gown-lw-91281",
+    "shortDescription": "Elegant black georgette gown with intricate embroidery work. Features sophisticated design with prem...",
+    "description": "Elegant black georgette gown with intricate embroidery work. Features sophisticated design with premium fabric and detailed craftsmanship. Perfect for formal events.",
+    "price": 18999,
+    "salePrice": 14629,
+    "sku": "LW-91281",
+    "stock": 15,
+    "inStock": true,
+    "images": [
+      {
+        "id": "img-gown-LW-91281",
+        "url": "https://images.unsplash.com/photo-1594736797933-d0c0b0b0b0b0?w=600&q=80",
+        "alt": "Wedding Gown",
+        "position": 1
+      }
+    ],
+    "thumbnail": "https://images.unsplash.com/photo-1594736797933-d0c0b0b0b0b0?w=600&q=80",
+    "category": {
+      "id": "cat-2",
+      "name": "Clothing",
+      "slug": "clothing"
+    },
+    "subcategory": {
+      "id": "subcat-wedding-gowns",
+      "name": "Wedding Gowns",
+      "slug": "wedding-gowns"
+    },
+    "tags": [
+      "wedding",
+      "gown",
+      "bridal",
+      "formal",
+      "elegant"
+    ],
+    "materials": "Premium Georgette and Organza",
+    "dimensions": "Standard wedding gown dimensions",
+    "careInstructions": "Dry clean only",
+    "artisanNote": "Handcrafted with intricate embroidery and premium materials",
+    "featured": false,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "createdAt": "2025-10-25T20:41:17.823Z",
+    "updatedAt": "2025-10-25T20:41:17.823Z"
+  },
+  {
+    "id": "prod-gown-LW-91321",
+    "title": "Elegant Teal Georgette Gown with Organza Dupatta",
+    "slug": "wedding-gown-lw-91321",
+    "shortDescription": "Beautiful teal georgette gown paired with luxurious organza dupatta. Features intricate detailing an...",
+    "description": "Beautiful teal georgette gown paired with luxurious organza dupatta. Features intricate detailing and premium craftsmanship. Perfect for special occasions and festive events.",
+    "price": 18999,
+    "salePrice": 15199,
+    "sku": "LW-91321",
+    "stock": 15,
+    "inStock": true,
+    "images": [
+      {
+        "id": "img-gown-LW-91321",
+        "url": "https://images.unsplash.com/photo-1594736797933-d0c0b0b0b0b0?w=600&q=80",
+        "alt": "Wedding Gown",
+        "position": 1
+      }
+    ],
+    "thumbnail": "https://images.unsplash.com/photo-1594736797933-d0c0b0b0b0b0?w=600&q=80",
+    "category": {
+      "id": "cat-2",
+      "name": "Clothing",
+      "slug": "clothing"
+    },
+    "subcategory": {
+      "id": "subcat-wedding-gowns",
+      "name": "Wedding Gowns",
+      "slug": "wedding-gowns"
+    },
+    "tags": [
+      "wedding",
+      "gown",
+      "bridal",
+      "formal",
+      "elegant"
+    ],
+    "materials": "Premium Georgette and Organza",
+    "dimensions": "Standard wedding gown dimensions",
+    "careInstructions": "Dry clean only",
+    "artisanNote": "Handcrafted with intricate embroidery and premium materials",
+    "featured": false,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "createdAt": "2025-10-25T20:41:17.823Z",
+    "updatedAt": "2025-10-25T20:41:17.823Z"
+  },
+  {
+    "id": "prod-gown-LW-91322",
+    "title": "Elegant Coral Georgette Gown with Embroidered Details",
+    "slug": "wedding-gown-lw-91322",
+    "shortDescription": "Gorgeous coral georgette gown with beautiful embroidery work. Features elegant design with premium f...",
+    "description": "Gorgeous coral georgette gown with beautiful embroidery work. Features elegant design with premium fabric and detailed craftsmanship. Perfect for weddings and celebrations.",
+    "price": 15999,
+    "salePrice": 12479,
+    "sku": "LW-91322",
+    "stock": 15,
+    "inStock": true,
+    "images": [
+      {
+        "id": "img-gown-LW-91322",
+        "url": "https://images.unsplash.com/photo-1594736797933-d0c0b0b0b0b0?w=600&q=80",
+        "alt": "Wedding Gown",
+        "position": 1
+      }
+    ],
+    "thumbnail": "https://images.unsplash.com/photo-1594736797933-d0c0b0b0b0b0?w=600&q=80",
+    "category": {
+      "id": "cat-2",
+      "name": "Clothing",
+      "slug": "clothing"
+    },
+    "subcategory": {
+      "id": "subcat-wedding-gowns",
+      "name": "Wedding Gowns",
+      "slug": "wedding-gowns"
+    },
+    "tags": [
+      "wedding",
+      "gown",
+      "bridal",
+      "formal",
+      "elegant"
+    ],
+    "materials": "Premium Georgette and Organza",
+    "dimensions": "Standard wedding gown dimensions",
+    "careInstructions": "Dry clean only",
+    "artisanNote": "Handcrafted with intricate embroidery and premium materials",
+    "featured": false,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "createdAt": "2025-10-25T20:41:17.824Z",
+    "updatedAt": "2025-10-25T20:41:17.824Z"
+  },
+  {
+    "id": "prod-gown-LW-91323",
+    "title": "Elegant Mint Georgette Gown with Zari Work",
+    "slug": "wedding-gown-lw-91323",
+    "shortDescription": "Stunning mint georgette gown with traditional zari embroidery. Features sophisticated design with pr...",
+    "description": "Stunning mint georgette gown with traditional zari embroidery. Features sophisticated design with premium materials. Ideal for formal events and special occasions.",
+    "price": 20999,
+    "salePrice": 15959,
+    "sku": "LW-91323",
+    "stock": 15,
+    "inStock": true,
+    "images": [
+      {
+        "id": "img-gown-LW-91323",
+        "url": "https://images.unsplash.com/photo-1594736797933-d0c0b0b0b0b0?w=600&q=80",
+        "alt": "Wedding Gown",
+        "position": 1
+      }
+    ],
+    "thumbnail": "https://images.unsplash.com/photo-1594736797933-d0c0b0b0b0b0?w=600&q=80",
+    "category": {
+      "id": "cat-2",
+      "name": "Clothing",
+      "slug": "clothing"
+    },
+    "subcategory": {
+      "id": "subcat-wedding-gowns",
+      "name": "Wedding Gowns",
+      "slug": "wedding-gowns"
+    },
+    "tags": [
+      "wedding",
+      "gown",
+      "bridal",
+      "formal",
+      "elegant"
+    ],
+    "materials": "Premium Georgette and Organza",
+    "dimensions": "Standard wedding gown dimensions",
+    "careInstructions": "Dry clean only",
+    "artisanNote": "Handcrafted with intricate embroidery and premium materials",
+    "featured": false,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "createdAt": "2025-10-25T20:41:17.824Z",
+    "updatedAt": "2025-10-25T20:41:17.824Z"
+  },
+  {
+    "id": "prod-gown-LW-91391",
+    "title": "Elegant Burgundy Georgette Gown with Embroidered Dupatta",
+    "slug": "wedding-gown-lw-91391",
+    "shortDescription": "Luxurious burgundy georgette gown with intricate embroidery work. Features sophisticated design with...",
+    "description": "Luxurious burgundy georgette gown with intricate embroidery work. Features sophisticated design with premium fabric and detailed craftsmanship. Perfect for formal events.",
+    "price": 18999,
+    "salePrice": 14249,
+    "sku": "LW-91391",
+    "stock": 15,
+    "inStock": true,
+    "images": [
+      {
+        "id": "img-gown-LW-91391",
+        "url": "https://images.unsplash.com/photo-1594736797933-d0c0b0b0b0b0?w=600&q=80",
+        "alt": "Wedding Gown",
+        "position": 1
+      }
+    ],
+    "thumbnail": "https://images.unsplash.com/photo-1594736797933-d0c0b0b0b0b0?w=600&q=80",
+    "category": {
+      "id": "cat-2",
+      "name": "Clothing",
+      "slug": "clothing"
+    },
+    "subcategory": {
+      "id": "subcat-wedding-gowns",
+      "name": "Wedding Gowns",
+      "slug": "wedding-gowns"
+    },
+    "tags": [
+      "wedding",
+      "gown",
+      "bridal",
+      "formal",
+      "elegant"
+    ],
+    "materials": "Premium Georgette and Organza",
+    "dimensions": "Standard wedding gown dimensions",
+    "careInstructions": "Dry clean only",
+    "artisanNote": "Handcrafted with intricate embroidery and premium materials",
+    "featured": false,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "createdAt": "2025-10-25T20:41:17.824Z",
+    "updatedAt": "2025-10-25T20:41:17.824Z"
+  },
+  {
+    "id": "prod-gown-LW-91392",
+    "title": "Elegant Sage Georgette Gown with Organza Dupatta",
+    "slug": "wedding-gown-lw-91392",
+    "shortDescription": "Beautiful sage georgette gown paired with luxurious organza dupatta. Features intricate detailing an...",
+    "description": "Beautiful sage georgette gown paired with luxurious organza dupatta. Features intricate detailing and premium craftsmanship. Perfect for special occasions and festive events.",
+    "price": 18999,
+    "salePrice": 14819,
+    "sku": "LW-91392",
+    "stock": 15,
+    "inStock": true,
+    "images": [
+      {
+        "id": "img-gown-LW-91392",
+        "url": "https://images.unsplash.com/photo-1594736797933-d0c0b0b0b0b0?w=600&q=80",
+        "alt": "Wedding Gown",
+        "position": 1
+      }
+    ],
+    "thumbnail": "https://images.unsplash.com/photo-1594736797933-d0c0b0b0b0b0?w=600&q=80",
+    "category": {
+      "id": "cat-2",
+      "name": "Clothing",
+      "slug": "clothing"
+    },
+    "subcategory": {
+      "id": "subcat-wedding-gowns",
+      "name": "Wedding Gowns",
+      "slug": "wedding-gowns"
+    },
+    "tags": [
+      "wedding",
+      "gown",
+      "bridal",
+      "formal",
+      "elegant"
+    ],
+    "materials": "Premium Georgette and Organza",
+    "dimensions": "Standard wedding gown dimensions",
+    "careInstructions": "Dry clean only",
+    "artisanNote": "Handcrafted with intricate embroidery and premium materials",
+    "featured": false,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "createdAt": "2025-10-25T20:41:17.824Z",
+    "updatedAt": "2025-10-25T20:41:17.824Z"
+  },
+  {
+    "id": "prod-gown-LW-91393",
+    "title": "Elegant Rose Georgette Gown with Embroidered Details",
+    "slug": "wedding-gown-lw-91393",
+    "shortDescription": "Gorgeous rose georgette gown with beautiful embroidery work. Features elegant design with premium fa...",
+    "description": "Gorgeous rose georgette gown with beautiful embroidery work. Features elegant design with premium fabric and detailed craftsmanship. Perfect for weddings and celebrations.",
+    "price": 15999,
+    "salePrice": 11679,
+    "sku": "LW-91393",
+    "stock": 15,
+    "inStock": true,
+    "images": [
+      {
+        "id": "img-gown-LW-91393",
+        "url": "https://images.unsplash.com/photo-1594736797933-d0c0b0b0b0b0?w=600&q=80",
+        "alt": "Wedding Gown",
+        "position": 1
+      }
+    ],
+    "thumbnail": "https://images.unsplash.com/photo-1594736797933-d0c0b0b0b0b0?w=600&q=80",
+    "category": {
+      "id": "cat-2",
+      "name": "Clothing",
+      "slug": "clothing"
+    },
+    "subcategory": {
+      "id": "subcat-wedding-gowns",
+      "name": "Wedding Gowns",
+      "slug": "wedding-gowns"
+    },
+    "tags": [
+      "wedding",
+      "gown",
+      "bridal",
+      "formal",
+      "elegant"
+    ],
+    "materials": "Premium Georgette and Organza",
+    "dimensions": "Standard wedding gown dimensions",
+    "careInstructions": "Dry clean only",
+    "artisanNote": "Handcrafted with intricate embroidery and premium materials",
+    "featured": false,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "createdAt": "2025-10-25T20:41:17.824Z",
+    "updatedAt": "2025-10-25T20:41:17.824Z"
+  },
+  {
+    "id": "prod-gown-LW-91394",
+    "title": "Elegant Lavender Georgette Gown with Zari Work",
+    "slug": "wedding-gown-lw-91394",
+    "shortDescription": "Stunning lavender georgette gown with traditional zari embroidery. Features sophisticated design wit...",
+    "description": "Stunning lavender georgette gown with traditional zari embroidery. Features sophisticated design with premium materials. Ideal for formal events and special occasions.",
+    "price": 20999,
+    "salePrice": 16799,
+    "sku": "LW-91394",
+    "stock": 15,
+    "inStock": true,
+    "images": [
+      {
+        "id": "img-gown-LW-91394",
+        "url": "https://images.unsplash.com/photo-1594736797933-d0c0b0b0b0b0?w=600&q=80",
+        "alt": "Wedding Gown",
+        "position": 1
+      }
+    ],
+    "thumbnail": "https://images.unsplash.com/photo-1594736797933-d0c0b0b0b0b0?w=600&q=80",
+    "category": {
+      "id": "cat-2",
+      "name": "Clothing",
+      "slug": "clothing"
+    },
+    "subcategory": {
+      "id": "subcat-wedding-gowns",
+      "name": "Wedding Gowns",
+      "slug": "wedding-gowns"
+    },
+    "tags": [
+      "wedding",
+      "gown",
+      "bridal",
+      "formal",
+      "elegant"
+    ],
+    "materials": "Premium Georgette and Organza",
+    "dimensions": "Standard wedding gown dimensions",
+    "careInstructions": "Dry clean only",
+    "artisanNote": "Handcrafted with intricate embroidery and premium materials",
+    "featured": false,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "createdAt": "2025-10-25T20:41:17.824Z",
+    "updatedAt": "2025-10-25T20:41:17.824Z"
+  },
+  {
+    "id": "prod-gown-LW-91395",
+    "title": "Elegant Olive Georgette Gown with Embroidered Dupatta",
+    "slug": "wedding-gown-lw-91395",
+    "shortDescription": "Luxurious olive georgette gown with intricate embroidery work. Features sophisticated design with pr...",
+    "description": "Luxurious olive georgette gown with intricate embroidery work. Features sophisticated design with premium fabric and detailed craftsmanship. Perfect for formal events.",
+    "price": 18999,
+    "salePrice": 14249,
+    "sku": "LW-91395",
+    "stock": 15,
+    "inStock": true,
+    "images": [
+      {
+        "id": "img-gown-LW-91395",
+        "url": "https://images.unsplash.com/photo-1594736797933-d0c0b0b0b0b0?w=600&q=80",
+        "alt": "Wedding Gown",
+        "position": 1
+      }
+    ],
+    "thumbnail": "https://images.unsplash.com/photo-1594736797933-d0c0b0b0b0b0?w=600&q=80",
+    "category": {
+      "id": "cat-2",
+      "name": "Clothing",
+      "slug": "clothing"
+    },
+    "subcategory": {
+      "id": "subcat-wedding-gowns",
+      "name": "Wedding Gowns",
+      "slug": "wedding-gowns"
+    },
+    "tags": [
+      "wedding",
+      "gown",
+      "bridal",
+      "formal",
+      "elegant"
+    ],
+    "materials": "Premium Georgette and Organza",
+    "dimensions": "Standard wedding gown dimensions",
+    "careInstructions": "Dry clean only",
+    "artisanNote": "Handcrafted with intricate embroidery and premium materials",
+    "featured": false,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "createdAt": "2025-10-25T20:41:17.824Z",
+    "updatedAt": "2025-10-25T20:41:17.824Z"
+  },
+  {
+    "id": "prod-gown-LW-91401",
+    "title": "Elegant Indigo Georgette Gown with Organza Dupatta",
+    "slug": "wedding-gown-lw-91401",
+    "shortDescription": "Beautiful indigo georgette gown paired with luxurious organza dupatta. Features intricate detailing ...",
+    "description": "Beautiful indigo georgette gown paired with luxurious organza dupatta. Features intricate detailing and premium craftsmanship. Perfect for special occasions and festive events.",
+    "price": 18999,
+    "salePrice": 13299,
+    "sku": "LW-91401",
+    "stock": 15,
+    "inStock": true,
+    "images": [
+      {
+        "id": "img-gown-LW-91401",
+        "url": "https://images.unsplash.com/photo-1594736797933-d0c0b0b0b0b0?w=600&q=80",
+        "alt": "Wedding Gown",
+        "position": 1
+      }
+    ],
+    "thumbnail": "https://images.unsplash.com/photo-1594736797933-d0c0b0b0b0b0?w=600&q=80",
+    "category": {
+      "id": "cat-2",
+      "name": "Clothing",
+      "slug": "clothing"
+    },
+    "subcategory": {
+      "id": "subcat-wedding-gowns",
+      "name": "Wedding Gowns",
+      "slug": "wedding-gowns"
+    },
+    "tags": [
+      "wedding",
+      "gown",
+      "bridal",
+      "formal",
+      "elegant"
+    ],
+    "materials": "Premium Georgette and Organza",
+    "dimensions": "Standard wedding gown dimensions",
+    "careInstructions": "Dry clean only",
+    "artisanNote": "Handcrafted with intricate embroidery and premium materials",
+    "featured": false,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "createdAt": "2025-10-25T20:41:17.824Z",
+    "updatedAt": "2025-10-25T20:41:17.824Z"
+  },
+  {
+    "id": "prod-gown-LW-91402",
+    "title": "Elegant Peach Georgette Gown with Embroidered Details",
+    "slug": "wedding-gown-lw-91402",
+    "shortDescription": "Gorgeous peach georgette gown with beautiful embroidery work. Features elegant design with premium f...",
+    "description": "Gorgeous peach georgette gown with beautiful embroidery work. Features elegant design with premium fabric and detailed craftsmanship. Perfect for weddings and celebrations.",
+    "price": 15999,
+    "salePrice": 11519,
+    "sku": "LW-91402",
+    "stock": 15,
+    "inStock": true,
+    "images": [
+      {
+        "id": "img-gown-LW-91402",
+        "url": "https://images.unsplash.com/photo-1594736797933-d0c0b0b0b0b0?w=600&q=80",
+        "alt": "Wedding Gown",
+        "position": 1
+      }
+    ],
+    "thumbnail": "https://images.unsplash.com/photo-1594736797933-d0c0b0b0b0b0?w=600&q=80",
+    "category": {
+      "id": "cat-2",
+      "name": "Clothing",
+      "slug": "clothing"
+    },
+    "subcategory": {
+      "id": "subcat-wedding-gowns",
+      "name": "Wedding Gowns",
+      "slug": "wedding-gowns"
+    },
+    "tags": [
+      "wedding",
+      "gown",
+      "bridal",
+      "formal",
+      "elegant"
+    ],
+    "materials": "Premium Georgette and Organza",
+    "dimensions": "Standard wedding gown dimensions",
+    "careInstructions": "Dry clean only",
+    "artisanNote": "Handcrafted with intricate embroidery and premium materials",
+    "featured": false,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "createdAt": "2025-10-25T20:41:17.824Z",
+    "updatedAt": "2025-10-25T20:41:17.824Z"
+  },
+  {
+    "id": "prod-gown-LW-91403",
+    "title": "Elegant Turquoise Georgette Gown with Zari Work",
+    "slug": "wedding-gown-lw-91403",
+    "shortDescription": "Stunning turquoise georgette gown with traditional zari embroidery. Features sophisticated design wi...",
+    "description": "Stunning turquoise georgette gown with traditional zari embroidery. Features sophisticated design with premium materials. Ideal for formal events and special occasions.",
+    "price": 20999,
+    "salePrice": 15749,
+    "sku": "LW-91403",
+    "stock": 15,
+    "inStock": true,
+    "images": [
+      {
+        "id": "img-gown-LW-91403",
+        "url": "https://images.unsplash.com/photo-1594736797933-d0c0b0b0b0b0?w=600&q=80",
+        "alt": "Wedding Gown",
+        "position": 1
+      }
+    ],
+    "thumbnail": "https://images.unsplash.com/photo-1594736797933-d0c0b0b0b0b0?w=600&q=80",
+    "category": {
+      "id": "cat-2",
+      "name": "Clothing",
+      "slug": "clothing"
+    },
+    "subcategory": {
+      "id": "subcat-wedding-gowns",
+      "name": "Wedding Gowns",
+      "slug": "wedding-gowns"
+    },
+    "tags": [
+      "wedding",
+      "gown",
+      "bridal",
+      "formal",
+      "elegant"
+    ],
+    "materials": "Premium Georgette and Organza",
+    "dimensions": "Standard wedding gown dimensions",
+    "careInstructions": "Dry clean only",
+    "artisanNote": "Handcrafted with intricate embroidery and premium materials",
+    "featured": false,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "createdAt": "2025-10-25T20:41:17.824Z",
+    "updatedAt": "2025-10-25T20:41:17.824Z"
   }
 ]

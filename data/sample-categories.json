@@ -54,6 +54,14 @@
         "description": "Comfortable cotton kaftan dresses for casual and beach wear",
         "image": "https://images.unsplash.com/photo-1594633312681-425c7b97ccd1?w=600&q=80",
         "icon": "👗"
+      },
+      {
+        "id": "subcat-wedding-gowns",
+        "name": "Wedding Gowns",
+        "slug": "wedding-gowns",
+        "description": "Elegant wedding gowns and bridal wear for special occasions",
+        "image": "https://images.unsplash.com/photo-1594736797933-d0c0b0b0b0b0?w=600&q=80",
+        "icon": "👰"
       }
     ]
   },

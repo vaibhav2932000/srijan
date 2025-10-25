@@ -353,18 +353,30 @@ export default function FiltersSidebar({
                 Anarkali
               </span>
             </label>
-            <label className="flex items-center gap-3 cursor-pointer group">
-              <input
-                type="radio"
-                name="subcategory"
-                checked={selectedFilters.subcategory === 'kaftan'}
-                onChange={() => updateFilters({ subcategory: 'kaftan' })}
-                className="w-4 h-4 text-saffron focus:ring-saffron border-gray-300"
-              />
-              <span className="text-sm text-earth-brown group-hover:text-saffron transition-colors">
-                Kaftan
-              </span>
-            </label>
+             <label className="flex items-center gap-3 cursor-pointer group">
+               <input
+                 type="radio"
+                 name="subcategory"
+                 checked={selectedFilters.subcategory === 'kaftan'}
+                 onChange={() => updateFilters({ subcategory: 'kaftan' })}
+                 className="w-4 h-4 text-saffron focus:ring-saffron border-gray-300"
+               />
+               <span className="text-sm text-earth-brown group-hover:text-saffron transition-colors">
+                 Kaftan
+               </span>
+             </label>
+             <label className="flex items-center gap-3 cursor-pointer group">
+               <input
+                 type="radio"
+                 name="subcategory"
+                 checked={selectedFilters.subcategory === 'wedding-gowns'}
+                 onChange={() => updateFilters({ subcategory: 'wedding-gowns' })}
+                 className="w-4 h-4 text-saffron focus:ring-saffron border-gray-300"
+               />
+               <span className="text-sm text-earth-brown group-hover:text-saffron transition-colors">
+                 Wedding Gowns
+               </span>
+             </label>
           </div>
         </FilterSection>
       )}
