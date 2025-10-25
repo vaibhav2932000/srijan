@@ -233,6 +233,38 @@ export default function FiltersSidebar({
         </FilterSection>
       )}
 
+      {/* Subcategories - only show for bedsheets */}
+      {selectedFilters.category === 'bedsheets' && (
+        <FilterSection title="Subcategory" section="subcategory">
+          <div className="space-y-2">
+            <label className="flex items-center gap-3 cursor-pointer group">
+              <input
+                type="radio"
+                name="subcategory"
+                checked={!selectedFilters.subcategory}
+                onChange={() => updateFilters({ subcategory: undefined })}
+                className="w-4 h-4 text-saffron focus:ring-saffron border-gray-300"
+              />
+              <span className="text-sm text-earth-brown group-hover:text-saffron transition-colors">
+                All Bedsheets
+              </span>
+            </label>
+            <label className="flex items-center gap-3 cursor-pointer group">
+              <input
+                type="radio"
+                name="subcategory"
+                checked={selectedFilters.subcategory === 'cotton-bedsheet-sets'}
+                onChange={() => updateFilters({ subcategory: 'cotton-bedsheet-sets' })}
+                className="w-4 h-4 text-saffron focus:ring-saffron border-gray-300"
+              />
+              <span className="text-sm text-earth-brown group-hover:text-saffron transition-colors">
+                Cotton Bedsheet Sets
+              </span>
+            </label>
+          </div>
+        </FilterSection>
+      )}
+
       {/* Subcategories - only show for clothing */}
       {selectedFilters.category === 'clothing' && (
         <FilterSection title="Subcategory" section="subcategory">
